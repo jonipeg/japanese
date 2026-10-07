@@ -1,3615 +1,501 @@
-# Vocabulary Index
-#japanese-vocabulary
+# Grammar Index
+#japanese-grammar
 
-All 3604 vocabulary words across 37 decks (100 words each, except the last). Deck 01 leads with your personal dictionary-app favourites, then MC-tested JLPT N1/N2 words, then additional textbook vocabulary.
+All 492 grammar cards, one file per concept. Click through to study; each card links to similar/opposite patterns where they have their own card.
 
-Decks: [vocab-01](vocab-01.md) · [vocab-02](vocab-02.md) · [vocab-03](vocab-03.md) · [vocab-04](vocab-04.md) · [vocab-05](vocab-05.md) · [vocab-06](vocab-06.md) · [vocab-07](vocab-07.md) · [vocab-08](vocab-08.md) · [vocab-09](vocab-09.md) · [vocab-10](vocab-10.md) · [vocab-11](vocab-11.md) · [vocab-12](vocab-12.md) · [vocab-13](vocab-13.md) · [vocab-14](vocab-14.md) · [vocab-15](vocab-15.md) · [vocab-16](vocab-16.md) · [vocab-17](vocab-17.md) · [vocab-18](vocab-18.md) · [vocab-19](vocab-19.md) · [vocab-20](vocab-20.md) · [vocab-21](vocab-21.md) · [vocab-22](vocab-22.md) · [vocab-23](vocab-23.md) · [vocab-24](vocab-24.md) · [vocab-25](vocab-25.md) · [vocab-26](vocab-26.md) · [vocab-27](vocab-27.md) · [vocab-28](vocab-28.md) · [vocab-29](vocab-29.md) · [vocab-30](vocab-30.md) · [vocab-31](vocab-31.md) · [vocab-32](vocab-32.md) · [vocab-33](vocab-33.md) · [vocab-34](vocab-34.md) · [vocab-35](vocab-35.md) · [vocab-36](vocab-36.md) · [vocab-37](vocab-37.md)
-
-Companion: [Grammar Index](../Grammar/INDEX.md)
+Companion: [Vocabulary Index](../Vocabulary/INDEX.md)
 
 ---
 
-- [(お)詫び ((お)わび)](vocab-11.md#お詫び-おわび) — an apology
-- [(お)釣り ((お)つり)](vocab-10.md#お釣り-おつり) — change (money)
-- [~うちに](vocab-08.md#うちに) — while..., in the course of..., before... (changes)
-- [~かねない](vocab-13.md#かねない) — there is a risk/danger of, might well (do something bad)
-- [~くせに (~くせに)](vocab-16.md#くせに-くせに) — although..., and yet... (expresses contempt/criticism for a contradiction)
-- [~やら (~やら)](vocab-34.md#やら-やら) — and so on, etc. (listing with a nuance of randomness/confusion)
-- [~わけではない](vocab-36.md#わけではない) — it doesn't mean that..., it's not the case that... (partial negation grammar ...
-- [~をめぐる](vocab-37.md#をめぐる) — concerning, over, surrounding (a contested topic or issue)
-- [~を始め (~をはじめ)](vocab-37.md#を始め-をはじめ) — starting with..., such as..., including (introducing a representative example...
-- [~を通して (~をとおして)](vocab-37.md#を通して-をとおして) — through, throughout, via (a means, period, or intermediary)
-- [~下 (~か)](vocab-11.md#下-か) — under, less than, below (as a suffix, e.g., 零下, 以下)
-- [~切れ (~きれ)](vocab-16.md#切れ-きれ) — a piece/slice of (counter-like suffix, e.g. 一切れ "one slice")
-- [~券 (~けん)](vocab-18.md#券-けん) — ticket, coupon, voucher
-- [~割 (~わり)](vocab-36.md#割-わり) — ...percent, ...-tenths (suffix indicating proportion, each unit = 10%)
-- [~句 (~く)](vocab-15.md#句-く) — a phrase, expression (suffix, as in 文句 "complaint/phrase," 俳句 "haiku")
-- [~員 (いん)](vocab-07.md#員-いん) — member (suffix attached to nouns, e.g., 会社員, 銀行員)
-- [~営 (えい)](vocab-09.md#営-えい) — ~management/operation (suffix)
-- [~園 (~えん)](vocab-09.md#園-えん) — ~garden/park (suffix)
-- [~外 (~がい)](vocab-12.md#外-がい) — out of ~, outside of ~ (suffix, e.g., 問題外, 専門外)
-- [~巻 (かん)](vocab-13.md#巻-かん) — counter suffix for volumes (of a book, video series, etc.)
-- [~式 (しき)](vocab-19.md#式-しき) — system, style, type, formula (suffix)
-- [~形/型 (~けい)](vocab-17.md#形型-けい) — type, tense (grammar), shape, model (suffix)
-- [~掛け (~かけ)](vocab-12.md#掛け-かけ) — installment; premium; (suffix) in the process of, partway through
-- [~教 (~きょう)](vocab-15.md#教-きょう) — -ism, religion (suffix attached to religion names, e.g. 仏教 Buddhism, キリスト教 Ch...
-- [~時間目 (じかんめ)](vocab-19.md#時間目-じかんめ) — period (ordinal counter for class periods, e.g. "1st period")
-- [~業 (~ぎょう)](vocab-16.md#業-ぎょう) — industry, business, trade (suffix)
-- [~毛 (~け)](vocab-17.md#毛-け) — hair, fur, wool (suffix/noun)
-- [~気 (~き)](vocab-14.md#気-き) — mind, feeling, spirit (as used in compounds/suffix)
-- [~気味 (~ぎみ)](vocab-14.md#気味-ぎみ) — a bit, tending toward, showing signs of
-- [~油 (~ゆ)](vocab-34.md#油-ゆ) — oil (as a suffix: petroleum, crude oil, fish oil, etc.)
-- [~流 (りゅう)](vocab-33.md#流-りゅう) — one's own way/style, school (of thought/art)
-- [~海 (~かい)](vocab-12.md#海-かい) — sea of ~ (suffix, e.g., 地中海 Mediterranean Sea, 日本海 Sea of Japan)
-- [~画 (~かく)](vocab-12.md#画-かく) — stroke (counter for strokes of a kanji character)
-- [~画 (~が)](vocab-11.md#画-が) — painting/drawing of ~ (e.g., 風景画 landscape painting, 壁画 wall painting)
-- [~羽 (~わ)](vocab-36.md#羽-わ) — counter for birds and rabbits
-- [~論 (~ろん)](vocab-36.md#論-ろん) — theory of..., -ism, treatise on... (suffix)
-- [あおむけ (あおむけ)](vocab-04.md#あおむけ-あおむけ) — Face up
-- [あくどい (あくどい)](vocab-06.md#あくどい-あくどい) — vicious, wicked, unscrupulous (especially in business dealings)
-- [あくび (あくび)](vocab-06.md#あくび-あくび) — a yawn; to yawn
-- [あくまで(も) (あくまで(も))](vocab-06.md#あくまでも-あくまでも) — to the last, persistently, strictly (as in "this is only/strictly...")
-- [あさましい](vocab-03.md#あさましい) — shameful
-- [あしからず (あしからず)](vocab-06.md#あしからず-あしからず) — please don't take offense; I'm sorry, but... (polite phrase softening a refusal)
-- [あっけない](vocab-03.md#あっけない) — anticlimactic
-- [あべこべ](vocab-03.md#あべこべ) — reversed
-- [あやふや](vocab-03.md#あやふや) — vague
-- [あらゆる](vocab-07.md#あらゆる) — all, every, every possible (kind of)
-- [ありのまま](vocab-07.md#ありのまま) — the plain truth, as it is, just as things are, unembellished
-- [ありふれた](vocab-07.md#ありふれた) — commonplace, ordinary, everywhere to be found
-- [ありふれた 【ありふれた】](vocab-05.md#ありふれた-ありふれた) — Commonplace, ordinary, run-of-the-mill (often with a slightly dismissive/unre...
-- [あれ (あれ)](vocab-06.md#あれ-あれ) — that (one) — distal demonstrative pronoun, referring to something far from bo...
-- [あれこれ (あれこれ)](vocab-06.md#あれこれ-あれこれ) — this and that; various things
-- [いちじるしい](vocab-03.md#いちじるしい) — remarkable (see nuance cluster above)
-- [いっそ](vocab-07.md#いっそ) — would rather, I'd rather (just do something more drastic)
-- [いっそう](vocab-03.md#いっそう) — even more, further
-- [いつでも](vocab-08.md#いつでも) — any time, always, at all times (whenever)
-- [いつの間にか (いつのまにか)](vocab-08.md#いつの間にか-いつのまにか) — before one realizes it, without noticing, all too soon
-- [いつまでも](vocab-08.md#いつまでも) — forever, indefinitely, for as long as possible
-- [いとま](vocab-02.md#いとま) — Spare time, leisure (also used in the sense of "excuse me, I must take my lea...
-- [いびき](vocab-07.md#いびき) — a snore; snoring
-- [いやいや](vocab-07.md#いやいや) — reluctantly, unwillingly; (as interjection) no, no / (shaking one's head)
-- [いやに](vocab-07.md#いやに) — suspiciously, strangely, unusually (often implying something is off or excess...
-- [いやらしい](vocab-07.md#いやらしい) — disgusting, improper, vulgar, lewd/indecent
-- [いよいよ](vocab-07.md#いよいよ) — more and more, increasingly; finally, at last; (in dialect) really, truly
-- [いらいら](vocab-07.md#いらいら) — nervousness, jitters, irritation; to get irritated/on edge
-- [いらっしゃい(ませ)](vocab-07.md#いらっしゃいませ) — Welcome! (used by shopkeepers/staff greeting customers)
-- [いわば](vocab-02.md#いわば) — So to speak, as it were
-- [いわば](vocab-03.md#いわば) — in other words, so to speak (rephrasing conjunction)
-- [いわゆる](vocab-07.md#いわゆる) — what is called, so-called, the so-called
-- [うがい](vocab-08.md#うがい) — gargling, rinsing out one's mouth/throat; to gargle
-- [うち](vocab-08.md#うち) — in, within, among (a group); one's home/household
-- [うっかり](vocab-08.md#うっかり) — carelessly, absentmindedly, by mistake
-- [うっとうしい](vocab-03.md#うっとうしい) — gloomy
-- [うっとうしい](vocab-08.md#うっとうしい) — annoying, gloomy, oppressive (weather, feelings, a person's presence)
-- [うつぶせ 【うつぶせ】](vocab-05.md#うつぶせ-うつぶせ) — Face down (lying prone), as opposed to face up.
-- [うつむく (うつむく)](vocab-04.md#うつむく-うつむく) — To look down
-- [うどん](vocab-08.md#うどん) — udon noodles
-- [うなずく](vocab-08.md#うなずく) — to nod (in agreement/understanding)
-- [うなる](vocab-08.md#うなる) — to growl, groan, moan; to hum/roar (engines, wind)
-- [うぬぼれ](vocab-08.md#うぬぼれ) — conceit, vanity, self-love, overconfidence
-- [うまれつき](vocab-08.md#うまれつき) — by nature, inborn, congenital
-- [うろうろ](vocab-08.md#うろうろ) — to loiter, hang around, wander aimlessly
-- [うん](vocab-08.md#うん) — yeah, uh-huh, right (casual affirmative interjection)
-- [うんざり](vocab-08.md#うんざり) — fed up, sick and tired (of something)
-- [うんと](vocab-09.md#うんと) — a lot, much, greatly (casual intensifier)
-- [ええと](vocab-09.md#ええと) — um, let me see..., er... (filler word while thinking)
-- [えっ (えっ)](vocab-09.md#えっ-えっ) — Huh? What? (interjection of surprise)
-- [おお (おお)](vocab-09.md#おお-おお) — oh, ooh, ah (interjection of mild surprise or realization)
-- [おおい (おおい)](vocab-09.md#おおい-おおい) — hey, oh, hallo, ahoy (interjection to call attention from a distance)
-- [おき (おき)](vocab-10.md#おき-おき) — every other ~, at intervals of ~ (suffix)
-- [おげんきで](vocab-10.md#おげんきで) — Take care! Good luck! (said when parting, often for a long time)
-- [おげんきですか](vocab-10.md#おげんきですか) — How are you?
-- [おごる](vocab-10.md#おごる) — to treat (someone); to be extravagant or arrogant
-- [おさきに](vocab-10.md#おさきに) — Excuse me for leaving first
-- [おしゃべり](vocab-10.md#おしゃべり) — chatting, chit-chat; a chatterbox
-- [おしゃれ](vocab-10.md#おしゃれ) — fashionable, stylish; dressing up
-- [おじゃまします](vocab-10.md#おじゃまします) — Excuse me for intruding
-- [おだてる](vocab-03.md#おだてる) — to flatter
-- [おだてる](vocab-10.md#おだてる) — to flatter (often to manipulate or motivate)
-- [おっかない](vocab-10.md#おっかない) — scary, frightening
-- [おっとり (おっとり)](vocab-01.md#おっとり-おっとり) — gently, quietly, calmly (often describing a calm, easygoing personality)
-- [おどおど](vocab-10.md#おどおど) — to be nervous, fidgety, timid
-- [おはよう(ございます)](vocab-10.md#おはようございます) — Good morning
-- [おびえる 【おびえる】](vocab-05.md#おびえる-おびえる) — To be scared/frightened, to cower in fear (often a visible, trembling reaction).
-- [おびただしい](vocab-10.md#おびただしい) — a great amount/number of, tremendous
-- [おまけ](vocab-11.md#おまけ) — a bonus, extra; on top of that
-- [おまたせしました](vocab-11.md#おまたせしました) — Sorry to keep you waiting
-- [おまちください](vocab-11.md#おまちください) — Please wait
-- [おまちどおさま](vocab-11.md#おまちどおさま) — Sorry to have kept you waiting
-- [おむつ](vocab-11.md#おむつ) — a diaper
-- [おめでとう(ございます)](vocab-11.md#おめでとうございます) — Congratulations!
-- [おやすみ(なさい)](vocab-11.md#おやすみなさい) — good night (said when going to bed or parting at night)
-- [おやつ](vocab-11.md#おやつ) — a snack (typically an afternoon snack)
-- [およそ](vocab-11.md#およそ) — approximately, roughly; (as a noun) an outline/generality
-- [および](vocab-02.md#および) — And, as well as
-- [おろそか](vocab-11.md#おろそか) — negligent, neglectful (of one's duties)
-- [おんぶ](vocab-11.md#おんぶ) — to carry a person on one's back (piggyback)
-- [お世話になりました (おせわになりました)](vocab-10.md#お世話になりました-おせわになりました) — Thank you for your help (over a period of time)
-- [お世辞 (おせじ)](vocab-10.md#お世辞-おせじ) — flattery, a compliment
-- [お互い(に) (おたがい(に))](vocab-10.md#お互いに-おたがいに) — each other, mutually
-- [お代わり (おかわり)](vocab-10.md#お代わり-おかわり) — a second helping, seconds
-- [お使い (おつかい)](vocab-10.md#お使い-おつかい) — an errand
-- [お供/伴 (おとも)](vocab-10.md#お供伴-おとも) — to accompany (someone), an attendant
-- [お出掛け (おでかけ)](vocab-10.md#お出掛け-おでかけ) — going out
-- [お前 (おまえ)](vocab-11.md#お前-おまえ) — you (informal/rough)
-- [お参り (おまいり)](vocab-11.md#お参り-おまいり) — a visit (to a shrine/grave), worship
-- [お大事に (おだいじに)](vocab-10.md#お大事に-おだいじに) — Take care (of yourself), said to someone sick or injured
-- [お宮 (おみや)](vocab-11.md#お宮-おみや) — a Shinto shrine
-- [お手上げ (おてあげ)](vocab-10.md#お手上げ-おてあげ) — at one's wit's end, giving up
-- [お手伝いさん (おてつだいさん)](vocab-10.md#お手伝いさん-おてつだいさん) — a maid
-- [お昼 (おひる)](vocab-10.md#お昼-おひる) — noon; lunch
-- [お構いなく (おかまいなく)](vocab-10.md#お構いなく-おかまいなく) — Please don't trouble yourself (set phrase/greeting)
-- [お気の毒に (おきのどくに)](vocab-10.md#お気の毒に-おきのどくに) — I'm sorry (to hear that); that's too bad/unfortunate
-- [お父さん/様 (おとうさん/さま)](vocab-10.md#お父さん様-おとうさんさま) — father (polite)
-- [お産 (おさん)](vocab-10.md#お産-おさん) — childbirth
-- [お目に掛かる (おめにかかる)](vocab-11.md#お目に掛かる-おめにかかる) — to meet (humble)
-- [お袋 (おふくろ)](vocab-10.md#お袋-おふくろ) — mom, mother (informal, typically used by men)
-- [お願いします (おねがいします)](vocab-10.md#お願いします-おねがいします) — Please (I request)
-- [かかと (かかと)](vocab-12.md#かかと-かかと) — the heel (of a foot or shoe)
-- [かさばる 【かさばる】](vocab-05.md#かさばる-かさばる) — To be bulky, take up a lot of space (often said of luggage or belongings).
-- [かじる (かじる)](vocab-13.md#かじる-かじる) — to gnaw, to nibble, to bite off (a piece)
-- [かつ](vocab-02.md#かつ) — Moreover, and also (simultaneously)
-- [かなり](vocab-13.md#かなり) — pretty, fairly, rather, considerably
-- [かぶれる](vocab-13.md#かぶれる) — to get a skin rash (from contact); to be (badly) influenced by, become infatu...
-- [かるた](vocab-14.md#かるた) — karuta, Japanese traditional playing cards (often poem cards)
-- [かわいがる](vocab-14.md#かわいがる) — to love, adore, dote on (a person, pet, or subordinate)
-- [かわいそう](vocab-14.md#かわいそう) — poor, pitiful, sad (to see/hear about)
-- [かわいらしい](vocab-14.md#かわいらしい) — dear, adorable, cute (in a gentle, graceful way)
-- [がっしり (がっしり)](vocab-01.md#がっしり-がっしり) — sturdy, solidly built (body/structure)
-- [きっかけ](vocab-14.md#きっかけ) — a start, an opportunity, a trigger/clue
-- [きっちり](vocab-14.md#きっちり) — tightly, exactly, precisely
-- [きっと](vocab-14.md#きっと) — certainly, surely, without fail
-- [きっぱり](vocab-14.md#きっぱり) — definitely, flatly, resolutely
-- [きまり悪い (きまりわるい)](vocab-14.md#きまり悪い-きまりわるい) — embarrassed, awkward, feeling self-conscious
-- [きらびやか](vocab-02.md#きらびやか) — Brilliant, gorgeous (dazzling, ornate splendor)
-- [くぐる](vocab-16.md#くぐる) — to pass/slip under (something), to go through (a gate, barrier)
-- [くしゃみ](vocab-16.md#くしゃみ) — a sneeze
-- [くすぐったい](vocab-16.md#くすぐったい) — ticklish; (figuratively) feeling bashful/embarrassed (in a pleasant, shy way)
-- [くっつく (くっつく)](vocab-16.md#くっつく-くっつく) — to stick (to something), to cling, to go around together (of people)
-- [くっつける (くっつける)](vocab-16.md#くっつける-くっつける) — to stick/bond things together, to attach, to yank/pull together
-- [くれぐれも (くれぐれも)](vocab-16.md#くれぐれも-くれぐれも) — be sure to, please do take care (emphatic adverb for earnest requests)
-- [けち](vocab-17.md#けち) — stingy, cheap, miserly (person)
-- [けなす](vocab-02.md#けなす) — To disparage, speak ill of
-- [けなす](vocab-17.md#けなす) — to speak ill of, disparage, belittle
-- [げっそり](vocab-17.md#げっそり) — haggard, gaunt; to lose a lot of weight/look suddenly worn out
-- [こうして (こうして)](vocab-18.md#こうして-こうして) — in this way, thus, like this
-- [これに対して](vocab-03.md#これに対して) — in contrast (transition connector)
-- [ごっそり (ごっそり)](vocab-01.md#ごっそり-ごっそり) — completely, entirely, all, in large amounts, a lot (often of something being ...
-- [しくじる](vocab-02.md#しくじる) — To fail, blunder
-- [しなびる](vocab-02.md#しなびる) — To wither, wilt
-- [しゃがむ (しゃがむ)](vocab-04.md#しゃがむ-しゃがむ) — To crouch
-- [しょげる 【しょげる】](vocab-05.md#しょげる-しょげる) — To be discouraged, to lose heart/spirit after a setback or scolding.
-- [しょっちゅう (しょっちゅう)](vocab-04.md#しょっちゅう-しょっちゅう) — Always, constantly
-- [しょんぼり 【しょんぼり】](vocab-05.md#しょんぼり-しょんぼり) — Dejected, looking crestfallen/downcast (usually a visible, somewhat pitiable ...
-- [じっくり (じっくり)](vocab-01.md#じっくり-じっくり) — (slowly and) carefully, without haste, thoroughly, deliberately
-- [すがすがしい (すがすがしい)](vocab-04.md#すがすがしい-すがすがしい) — Refreshing
-- [すくむ (すくむ)](vocab-22.md#すくむ-すくむ) — to cower, cringe, be too scared to move, freeze up
-- [すっかり (すっかり)](vocab-22.md#すっかり-すっかり) — completely, entirely, totally
-- [すなわち (すなわち)](vocab-22.md#すなわち-すなわち) — namely, that is to say, in other words
-- [すらっと (すらっと)](vocab-04.md#すらっと-すらっと) — Slim, slender
-- [ずぶぬれ (ずぶぬれ)](vocab-04.md#ずぶぬれ-ずぶぬれ) — Soaked through
-- [ずらり (ずらり)](vocab-22.md#ずらり-ずらり) — in a row, an array of (things lined up impressively)
-- [ずるい (ずるい)](vocab-22.md#ずるい-ずるい) — sly, cunning, dishonest, unfair (often used casually, e.g. "that's not fair!")
-- [せばめる](vocab-03.md#せばめる) — to narrow
-- [せめて (せめて)](vocab-23.md#せめて-せめて) — at least, at the very least
-- [そういえば (そういえば)](vocab-23.md#そういえば-そういえば) — come to think of it, that reminds me
-- [そこで](vocab-24.md#そこで) — so, therefore, that is why, now (then)
-- [そそっかしい](vocab-24.md#そそっかしい) — careless, rash, scatterbrained
-- [そっくり](vocab-24.md#そっくり) — to look exactly alike; entirely, all of it
-- [そっけない](vocab-24.md#そっけない) — cold, blunt, unfriendly (in manner)
-- [そのうち](vocab-24.md#そのうち) — soon, one of these days, before long
-- [そのため](vocab-24.md#そのため) — for that reason, consequently, because of that
-- [そのほか](vocab-24.md#そのほか) — besides that, in addition, and others
-- [その上 (そのうえ)](vocab-24.md#その上-そのうえ) — besides, moreover, in addition
-- [それでも](vocab-24.md#それでも) — but still, even so, nevertheless
-- [それとも](vocab-24.md#それとも) — or, or else, whether... or
-- [それなのに](vocab-24.md#それなのに) — and yet, in spite of that, despite that
-- [それなら](vocab-24.md#それなら) — in that case, if that's so, then
-- [それゆえ](vocab-24.md#それゆえ) — that is why, therefore, hence
-- [ぞんざい](vocab-24.md#ぞんざい) — rough, rude, sloppy, careless (in manner)
-- [ただし](vocab-02.md#ただし) — However, provided that
-- [ためらう](vocab-26.md#ためらう) — to hesitate, to be hesitant (to do something)
-- [たやすい](vocab-26.md#たやすい) — easy, simple (to do)
-- [だらしない](vocab-26.md#だらしない) — slovenly, untidy, loose, lacking self-discipline
-- [だるい](vocab-26.md#だるい) — sluggish, listless, feeling heavy/lethargic (physically)
-- [ちやほや (ちやほや)](vocab-27.md#ちやほや-ちやほや) — to flatter, pamper, fuss over someone (adulate)
-- [ちょくちょく (ちょくちょく)](vocab-28.md#ちょくちょく-ちょくちょく) — occasionally, often, now and then
-- [ちらっと](vocab-28.md#ちらっと) — at a glance, briefly, in passing (to see, hear, or think of something fleetin...
-- [つかの間](vocab-28.md#つかの間) — a moment, a brief/fleeting time, short-lived
-- [てきぱき](vocab-29.md#てきぱき) — briskly, efficiently, promptly
-- [てっきり (てっきり)](vocab-04.md#てっきり-てっきり) — Certainly (thought so)
-- [でたらめ](vocab-29.md#でたらめ) — nonsense, irresponsible, inaccurate; a lie or made-up thing
-- [とがった 【とがった】](vocab-05.md#とがった-とがった) — Pointed, sharp-tipped (describing a physical shape); figuratively, "edgy/unco...
-- [とっくに](vocab-30.md#とっくに) — long ago, already (emphasizing something happened well before now)
-- [とっさに](vocab-30.md#とっさに) — suddenly, instantly, in a split second (reacting without thinking)
-- [とどめる](vocab-03.md#とどめる) — to stop, keep within
-- [とにかく](vocab-30.md#とにかく) — anyway, in any case, regardless
-- [とらっく](vocab-30.md#とらっく) — a truck
-- [とらぶる](vocab-30.md#とらぶる) — trouble, problem (used as a noun, often with する)
-- [とらんじすた](vocab-30.md#とらんじすた) — transistor
-- [とれーにんぐ](vocab-30.md#とれーにんぐ) — training (physical or skills practice)
-- [どうか](vocab-29.md#どうか) — kindly, please (polite request); somehow
-- [どっと](vocab-30.md#どっと) — suddenly, all at once, in a burst (crowd, laughter, fatigue, etc.)
-- [どらいばー](vocab-30.md#どらいばー) — screwdriver; driver (of a vehicle, or a golf club)
-- [どらいぶ](vocab-30.md#どらいぶ) — a drive (in a car); a disk drive (computing)
-- [どらま](vocab-30.md#どらま) — drama (a TV show/genre)
-- [なお](vocab-02.md#なお) — Additionally, furthermore (often introducing supplementary information)
-- [なごやかな](vocab-03.md#なごやかな) — harmonious, amicable
-- [なじむ](vocab-03.md#なじむ) — to become accustomed to
-- [なぜ](vocab-30.md#なぜ) — why
-- [なぜなら](vocab-02.md#なぜなら) — Because, the reason is
-- [なだめる](vocab-03.md#なだめる) — to soothe (also in Tier 2 confusable note)
-- [なだらか](vocab-30.md#なだらか) — gentle, gradual (slope); smooth
-- [にわかに](vocab-31.md#にわかに) — suddenly, abruptly (often describing weather or a sudden change in situation)
-- [はかどる (捗る) (はかどる)](vocab-01.md#はかどる-捗る-はかどる) — to make good progress
-- [はっきり (はっきり)](vocab-31.md#はっきり-はっきり) — clearly, distinctly, plainly
-- [ばてる (ばてる)](vocab-01.md#ばてる-ばてる) — to be exhausted, worn out
-- [ひそかに](vocab-03.md#ひそかに) — secretly, in a way nobody would know
-- [ひたすら](vocab-06.md#ひたすら) — solely, single-mindedly, intently (also written 只管)
-- [ふくらんだ 【ふくらんだ】](vocab-05.md#ふくらんだ-ふくらんだ) — Bulging, swollen, puffed out (describing something that has expanded outward).
-- [ふさわしい (ふさわしい)](vocab-01.md#ふさわしい-ふさわしい) — suitable, befitting
-- [ふざける 【ふざける】](vocab-05.md#ふざける-ふざける) — To fool around, joke around, mess about (sometimes with a negative "don't be ...
-- [ふんだん (ふんだん)](vocab-01.md#ふんだん-ふんだん) — plentiful, abundant, ample, lavish
-- [へこんだ 【へこんだ】](vocab-05.md#へこんだ-へこんだ) — Dented, caved in (describing a physical indentation); colloquially, "deflated...
-- [へりくだる 【へりくだる】](vocab-05.md#へりくだる-へりくだる) — To be humble, speak/act modestly by lowering oneself (often toward someone of...
-- [ほとり 【ほとり】](vocab-05.md#ほとり-ほとり) — Beside, edge of, vicinity (typically of water — a river, lake, or pond); a so...
-- [ぼっちゃり (ぼっちゃり)](vocab-04.md#ぼっちゃり-ぼっちゃり) — Plump
-- [ぼろぼろ 【ぼろぼろ】](vocab-05.md#ぼろぼろ-ぼろぼろ) — Worn out, tattered, falling apart (describing the physical state of an object...
-- [まごつく 【まごつく】](vocab-05.md#まごつく-まごつく) — To be confused, flustered, at a loss over what to do (especially in an unfami...
-- [まちまち 【まちまち】](vocab-05.md#まちまち-まちまち) — Various, varied, differing (describing a lack of uniformity among items or op...
-- [まるまった 【まるまった】](vocab-05.md#まるまった-まるまった) — Rounded up, curled up (into a ball shape), e.g., an animal curling up to sleep.
-- [みすぼらしい 【みすぼらしい】](vocab-05.md#みすぼらしい-みすぼらしい) — Shabby, poor/wretched-looking in appearance (often implying poverty).
-- [めし](vocab-19.md#めし) — boiled rice, a meal, food (casual)
-- [めちゃくちゃ](vocab-19.md#めちゃくちゃ) — absurd, incoherent, reckless, in a mess; (colloquially) extremely
-- [めっき (めっき)](vocab-34.md#めっき-めっき) — plating, gilding; (figuratively) a superficial veneer
-- [めっきり](vocab-19.md#めっきり) — remarkably, noticeably (a change, especially in weather/season or health)
-- [めったに](vocab-19.md#めったに) — rarely, seldom (used with negative verbs)
-- [めでたい (めでたい)](vocab-34.md#めでたい-めでたい) — happy, auspicious, joyous, worthy of celebration
-- [もぐる](vocab-19.md#もぐる) — to dive into/under (water), to submerge
-- [もし (もし)](vocab-34.md#もし-もし) — if (introduces a hypothetical condition)
-- [もしかして (もしかして)](vocab-34.md#もしかして-もしかして) — possibly, perhaps, by any chance
-- [もしくは](vocab-06.md#もしくは) — or, alternatively
-- [もしくは (もしくは)](vocab-34.md#もしくは-もしくは) — or, either...or (formal conjunction)
-- [もたれる (もたれる)](vocab-34.md#もたれる-もたれる) — to lean against; to feel heavy/sit poorly (stomach)
-- [もめる](vocab-06.md#もめる) — (have) discord, trouble; to be in dispute
-- [やたら(に/と) (やたら(に/と))](vocab-34.md#やたらにと-やたらにと) — excessively, blindly, indiscriminately, needlessly
-- [やっつける (やっつける)](vocab-34.md#やっつける-やっつける) — to beat, defeat, finish off (casual)
-- [やむを得ない (やむをえない)](vocab-34.md#やむを得ない-やむをえない) — unavoidable, inevitable, cannot be helped
-- [やや (やや)](vocab-34.md#やや-やや) — a little, a bit, somewhat, slightly
-- [ややこしい (ややこしい)](vocab-34.md#ややこしい-ややこしい) — complicated, intricate, confusing, troublesome
-- [ややこしい 【ややこしい】](vocab-05.md#ややこしい-ややこしい) — Complicated, convoluted, confusingly intricate (often with a frustrated or ex...
-- [やりとおす (やりとおす)](vocab-34.md#やりとおす-やりとおす) — to carry a project through to the end, to see something through
-- [やりとげる (やりとげる)](vocab-34.md#やりとげる-やりとげる) — to carry through despite hardship, to accomplish, achieve
-- [やわらげる](vocab-03.md#やわらげる) — to soften (also in Tier 2 confusable note)
-- [ゆえに](vocab-02.md#ゆえに) — Therefore, hence
-- [ゆでる](vocab-35.md#ゆでる) — to boil (food)
-- [ゆとり](vocab-35.md#ゆとり) — room, space, time to spare, leisure, leeway
-- [よいしょ](vocab-35.md#よいしょ) — heave-ho (exertion exclamation); also: to jolly/flatter someone
-- [よく、いらっしゃいました](vocab-35.md#よくいらっしゃいました) — How kind of you to come! (welcoming greeting)
-- [よこす](vocab-36.md#よこす) — to send, hand over (to the speaker)
-- [よそ](vocab-32.md#よそ) — another place, somewhere else, elsewhere
-- [より (より)](vocab-33.md#より-より) — than (comparison); from, since (formal, as a particle)
-- [らい](vocab-36.md#らい) — next, following (prefix, e.g. 来月 "next month," 来日 "visit to Japan," 来客 "visit...
-- [れんが (れんが)](vocab-34.md#れんが-れんが) — brick
-- [ろくでなし](vocab-36.md#ろくでなし) — good-for-nothing, worthless person, scoundrel
-- [わざと](vocab-36.md#わざと) — on purpose, intentionally, deliberately
-- [わざわざ](vocab-36.md#わざわざ) — expressly, purposely, going out of one's way (to do something, often for some...
-- [わずか](vocab-36.md#わずか) — a little, slight, merely, only (a small amount)
-- [アイデア/アイディア (アイデア/アイディア)](vocab-06.md#アイデアアイディア-アイデアアイディア) — an idea
-- [アイロン (アイロン)](vocab-06.md#アイロン-アイロン) — an iron (for clothes)
-- [アクセル (アクセル)](vocab-06.md#アクセル-アクセル) — accelerator (of a vehicle)
-- [アクセント (アクセント)](vocab-06.md#アクセント-アクセント) — accent (pronunciation stress/pitch; also a stylistic highlight)
-- [アジア (アジア)](vocab-06.md#アジア-アジア) — Asia
-- [アラブ](vocab-07.md#アラブ) — an Arab (person); the Arab world/nations
-- [アルカリ (アルカリ)](vocab-06.md#アルカリ-アルカリ) — alkali
-- [アルバイト (アルバイト)](vocab-06.md#アルバイト-アルバイト) — a part-time job
-- [アルバム (アルバム)](vocab-06.md#アルバム-アルバム) — an album (photo album or music album)
-- [アンケート (アンケート)](vocab-07.md#アンケート-アンケート) — a questionnaire, survey
-- [アンコール (アンコール)](vocab-07.md#アンコール-アンコール) — an encore
-- [イメージ](vocab-02.md#イメージ) — Image, impression
-- [イメージ](vocab-07.md#イメージ) — an image, impression, mental picture
-- [インク/インキ](vocab-07.md#インクインキ) — ink
-- [インタビュー](vocab-07.md#インタビュー) — an interview (media/journalistic); to interview
-- [インターチェンジ](vocab-07.md#インターチェンジ) — interchange (highway exit/junction)
-- [インターナショナル](vocab-07.md#インターナショナル) — international
-- [インターフォン](vocab-07.md#インターフォン) — intercom (building/apartment door phone)
-- [インテリ](vocab-07.md#インテリ) — an intellectual; the intelligentsia
-- [エアメール](vocab-09.md#エアメール) — airmail
-- [エチケット (エチケット)](vocab-09.md#エチケット-エチケット) — etiquette
-- [エネルギー (エネルギー)](vocab-09.md#エネルギー-エネルギー) — energy
-- [エプロン (エプロン)](vocab-09.md#エプロン-エプロン) — an apron
-- [エレガント (エレガント)](vocab-09.md#エレガント-エレガント) — elegant
-- [エンジニア (エンジニア)](vocab-09.md#エンジニア-エンジニア) — engineer
-- [エンジン (エンジン)](vocab-09.md#エンジン-エンジン) — an engine
-- [オイル (オイル)](vocab-09.md#オイル-オイル) — oil, gasoline
-- [オドオド／おどおど (オドオド／おどおど)](vocab-01.md#オドオドおどおど-オドオドおどおど) — timidly, nervously, hesitantly, trembling (with fear), fearfully
-- [オフィス](vocab-10.md#オフィス) — an office
-- [オリエンテーション](vocab-11.md#オリエンテーション) — orientation (an introductory briefing, e.g., for new students/employees)
-- [オリンピック](vocab-11.md#オリンピック) — the Olympic Games
-- [オルガン](vocab-11.md#オルガン) — an organ (musical instrument)
-- [オレンジ](vocab-11.md#オレンジ) — an orange (fruit); orange (color)
-- [オンライン](vocab-11.md#オンライン) — online
-- [オーケストラ (オーケストラ)](vocab-09.md#オーケストラ-オーケストラ) — an orchestra
-- [オーケー (オーケー)](vocab-09.md#オーケー-オーケー) — OK, all right
-- [オートマチック (オートマチック)](vocab-10.md#オートマチック-オートマチック) — automatic
-- [オートメーション (オートメーション)](vocab-10.md#オートメーション-オートメーション) — automation
-- [オーバーする (オーバーする)](vocab-10.md#オーバーする-オーバーする) — to exceed, go over
-- [オープン (オープン)](vocab-10.md#オープン-オープン) — open, openhearted; to open (a shop, event)
-- [カクテル (カクテル)](vocab-12.md#カクテル-カクテル) — a cocktail (mixed alcoholic drink)
-- [カテゴリー (カテゴリー)](vocab-13.md#カテゴリー-カテゴリー) — category
-- [カバー](vocab-13.md#カバー) — a cover; to cover for, make up for, compensate
-- [カラー](vocab-14.md#カラー) — color; a collar (clothing)
-- [カルテ](vocab-02.md#カルテ) — (Medical) chart
-- [カルテ](vocab-14.md#カルテ) — a patient's medical chart/case record
-- [カロリー](vocab-14.md#カロリー) — a calorie
-- [カンニング](vocab-13.md#カンニング) — cheating in an exam/test
-- [カー](vocab-11.md#カー) — a car (used mainly in compounds, e.g., レンタカー, スポーツカー)
-- [カード](vocab-11.md#カード) — a card (e.g., credit card, playing card, greeting card)
-- [カーブ](vocab-11.md#カーブ) — a curve (in a road, in baseball pitching, etc.)
-- [カーペット](vocab-11.md#カーペット) — a carpet
-- [ガイド](vocab-11.md#ガイド) — a guide (person or publication)
-- [ガイドブック](vocab-11.md#ガイドブック) — a guidebook
-- [ガラス](vocab-14.md#ガラス) — glass
-- [ガレージ](vocab-14.md#ガレージ) — a garage
-- [キャッチ](vocab-15.md#キャッチ) — a catch (grabbing/receiving something, also a catchy phrase)
-- [キャプテン](vocab-15.md#キャプテン) — a captain (of a team, ship)
-- [キャリア](vocab-15.md#キャリア) — a career
-- [キャンパス](vocab-15.md#キャンパス) — a campus
-- [キャンプ](vocab-15.md#キャンプ) — a camp, camping
-- [ギター](vocab-14.md#ギター) — a guitar
-- [ギャング](vocab-15.md#ギャング) — a gangster, a gang
-- [クイズ](vocab-15.md#クイズ) — a quiz
-- [クスリと笑う](vocab-03.md#クスリと笑う) — to chuckle lightly
-- [クラシック (クラシック)](vocab-16.md#クラシック-クラシック) — the classics, classical music
-- [クラブ (クラブ)](vocab-16.md#クラブ-クラブ) — a club, club activities; a nightclub; a golf club
-- [クリスマス (クリスマス)](vocab-16.md#クリスマス-クリスマス) — Christmas
-- [クリーニング(する) (クリーニング)](vocab-16.md#クリーニングする-クリーニング) — cleaning; dry cleaning, a dry cleaner's shop
-- [クリーム (クリーム)](vocab-16.md#クリーム-クリーム) — cream (dairy, cosmetic, or dessert)
-- [クレーン (クレーン)](vocab-16.md#クレーン-クレーン) — a crane (construction machine/truck)
-- [クーラー](vocab-16.md#クーラー) — an air conditioner, a cooler
-- [グラス (グラス)](vocab-16.md#グラス-グラス) — a glass (drinking vessel)
-- [グラフ (グラフ)](vocab-16.md#グラフ-グラフ) — a graph, a chart
-- [グランド (グランド)](vocab-16.md#グランド-グランド) — a (sports) ground, an athletic field
-- [グループ (グループ)](vocab-16.md#グループ-グループ) — a group (e.g. a reading circle, a music group)
-- [グレー (グレー)](vocab-16.md#グレー-グレー) — gray, grey
-- [コツ (こつ)](vocab-04.md#コツ-こつ) — Knack
-- [コメント](vocab-02.md#コメント) — Comment
-- [コース](vocab-19.md#コース) — course (path, route, or curriculum/menu course)
-- [コーヒー](vocab-19.md#コーヒー) — coffee
-- [コーラス](vocab-19.md#コーラス) — chorus, choir (suru verb for singing in chorus)
-- [シリーズ (しりーず)](vocab-21.md#シリーズ-しりーず) — a series
-- [シンガポール (しんがぽーる)](vocab-21.md#シンガポール-しんがぽーる) — Singapore
-- [ジャズ (じゃず)](vocab-20.md#ジャズ-じゃず) — jazz (music genre)
-- [ジャンパー (じゃんぱー)](vocab-20.md#ジャンパー-じゃんぱー) — jumper, windbreaker-style jacket
-- [スイッチ (すいっち)](vocab-22.md#スイッチ-すいっち) — a switch (electrical, or figurative "switch" in mood/mode)
-- [スタンド (すたんど)](vocab-22.md#スタンド-すたんど) — a stand (e.g. lamp stand, bleacher seating); a gas/filling station; (dated) a...
-- [ストレス (すとれす)](vocab-22.md#ストレス-すとれす) — stress (mental/emotional)
-- [ストレッサー](vocab-03.md#ストレッサー) — stressor
-- [ストロー (すとろー)](vocab-22.md#ストロー-すとろー) — (drinking) straw
-- [センス (センス)](vocab-23.md#センス-センス) — taste, sense (of style, humor, etc.)
-- [セール (セール)](vocab-23.md#セール-セール) — a sale (discount sale, especially end-of-year or seasonal)
-- [ゼミ (ゼミ)](vocab-23.md#ゼミ-ゼミ) — seminar (university study group)
-- [ソロ](vocab-24.md#ソロ) — solo
-- [ダイヤ](vocab-02.md#ダイヤ) — (Train) schedule, or diamond (the gem/card suit)
-- [チャンネル (チャンネル)](vocab-27.md#チャンネル-チャンネル) — channel (TV, radio, or communication)
-- [テーマ (てーま)](vocab-29.md#テーマ-てーま) — a theme, a subject, a topic
-- [デモンストレーション (でもんすとれーしょん)](vocab-29.md#デモンストレーション-でもんすとれーしょん) — a demonstration, protest march
-- [デート (でーと)](vocab-29.md#デート-でーと) — a date, to go on a date
-- [トイレ](vocab-29.md#トイレ) — toilet, restroom
-- [ドイツ](vocab-29.md#ドイツ) — Germany
-- [ニュアンス](vocab-02.md#ニュアンス) — Nuance
-- [バス (バス)](vocab-31.md#バス-バス) — bus
-- [バスケットボール (バスケットボール)](vocab-31.md#バスケットボール-バスケットボール) — basketball
-- [バッジ (バッジ)](vocab-31.md#バッジ-バッジ) — a badge (e.g. a Diet member's lapel pin)
-- [バランス](vocab-02.md#バランス) — Balance
-- [パイロット (ぱいろっと)](vocab-31.md#パイロット-ぱいろっと) — a pilot (of an aircraft)
-- [パスポート (パスポート)](vocab-31.md#パスポート-パスポート) — a passport
-- [ファイト (ふぁいと)](vocab-32.md#ファイト-ふぁいと) — fighting spirit; also used as a cheer, "Go for it!"
-- [ブザー](vocab-02.md#ブザー) — Buzzer
-- [マニュアル](vocab-03.md#マニュアル) — manual, script
-- [メッセージ](vocab-19.md#メッセージ) — message
-- [メディア](vocab-19.md#メディア) — media
-- [メニュー](vocab-19.md#メニュー) — a menu
-- [メモ](vocab-19.md#メモ) — a memo, a note
-- [メロディー](vocab-19.md#メロディー) — melody
-- [メンバー (めんばー)](vocab-34.md#メンバー-めんばー) — a member
-- [メーカー (めーかー)](vocab-34.md#メーカー-めーかー) — a maker, a manufacturer
-- [メーター (めーたー)](vocab-34.md#メーター-めーたー) — a meter, a gauge
-- [モーター (もーたー)](vocab-34.md#モーター-もーたー) — a motor, an engine
-- [モーテル (もーてる)](vocab-34.md#モーテル-もーてる) — a motel
-- [ヤング (やんぐ)](vocab-34.md#ヤング-やんぐ) — young people, the young generation (dated loanword)
-- [ユニフォーム](vocab-35.md#ユニフォーム) — uniform
-- [ユニーク](vocab-35.md#ユニーク) — unique, unusual
-- [ユーモア](vocab-35.md#ユーモア) — humor
-- [ヨット (よっと)](vocab-33.md#ヨット-よっと) — yacht, sailboat
-- [ヨーロッパ](vocab-35.md#ヨーロッパ) — Europe; European
-- [ライス (らいす)](vocab-33.md#ライス-らいす) — cooked rice (as served in Western-style dishes)
-- [ライター (らいたー)](vocab-33.md#ライター-らいたー) — lighter (for cigarettes); writer
-- [ライト (らいと)](vocab-33.md#ライト-らいと) — light (illumination); right (direction/side, e.g. in sports)
-- [ライバル (らいばる)](vocab-33.md#ライバル-らいばる) — rival
-- [ラケット (らけっと)](vocab-33.md#ラケット-らけっと) — racket (sports equipment)
-- [ラジカセ (らじかせ)](vocab-33.md#ラジカセ-らじかせ) — radio-cassette recorder (boombox)
-- [ラッシュアワー](vocab-36.md#ラッシュアワー) — rush hour
-- [ラベル (らべる)](vocab-33.md#ラベル-らべる) — label, tag
-- [ランチ (らんち)](vocab-33.md#ランチ-らんち) — lunch (especially a restaurant set meal)
-- [ランニング (らんにんぐ)](vocab-33.md#ランニング-らんにんぐ) — running (as exercise)
-- [ランプ (らんぷ)](vocab-33.md#ランプ-らんぷ) — lamp
-- [リズム (りずむ)](vocab-33.md#リズム-りずむ) — rhythm
-- [リットル (りっとる)](vocab-33.md#リットル-りっとる) — liter
-- [リボン (りぼん)](vocab-33.md#リボン-りぼん) — ribbon, bow
-- [リード (りーど)](vocab-33.md#リード-りーど) — lead (being ahead in a game/race); leash; to guide/lead
-- [ルーズ (るーず)](vocab-33.md#ルーズ-るーず) — loose, sloppy, careless (especially with money or time)
-- [レインコート (れいんこーと)](vocab-34.md#レインコート-れいんこーと) — raincoat
-- [レギュラー (れぎゅらー)](vocab-34.md#レギュラー-れぎゅらー) — regular (player on a team), regular member/status
-- [レクリエーション (れくりえーしょん)](vocab-34.md#レクリエーション-れくりえーしょん) — recreation (leisure activity, often organized/group-based)
-- [レコーダー (れこーだー)](vocab-34.md#レコーダー-れこーだー) — recorder (device for recording audio/video)
-- [レコード (れこーど)](vocab-36.md#レコード-れこーど) — record (phonograph record; also "record" as in achievement/statistic)
-- [レジスター (れじすたー)](vocab-34.md#レジスター-れじすたー) — cash register
-- [レジャー](vocab-02.md#レジャー) — Leisure
-- [レジャー (れじゃー)](vocab-34.md#レジャー-れじゃー) — leisure
-- [レストラン (れすとらん)](vocab-34.md#レストラン-れすとらん) — restaurant
-- [レッスン (れっすん)](vocab-34.md#レッスン-れっすん) — a lesson
-- [レディー (れでぃー)](vocab-34.md#レディー-れでぃー) — a lady
-- [レバー (ればー)](vocab-34.md#レバー-ればー) — lever, gearshift; (separately) liver
-- [レベル (れべる)](vocab-34.md#レベル-れべる) — a level, a standard, a grade
-- [レンジ (れんじ)](vocab-34.md#レンジ-れんじ) — range, cooking stove/range, microwave (colloquial)
-- [レンズ (れんず)](vocab-34.md#レンズ-れんず) — lens
-- [レンタカー (れんたかー)](vocab-34.md#レンタカー-れんたかー) — a rental car, rent-a-car
-- [レントゲン (れんとげん)](vocab-34.md#レントゲン-れんとげん) — X-ray
-- [レース (れーす)](vocab-34.md#レース-れーす) — race (competition); also lace (fabric, same spelling in katakana but differen...
-- [ロケット](vocab-36.md#ロケット) — rocket
-- [ロッカー](vocab-36.md#ロッカー) — locker
-- [ロビー](vocab-36.md#ロビー) — lobby (of a hotel, building, theater, etc.)
-- [ロマンチック/ロマンティック](vocab-36.md#ロマンチックロマンティック) — romantic
-- [ロープ](vocab-36.md#ロープ) — rope
-- [ロープウェイ](vocab-36.md#ロープウェイ) — ropeway, cable car (aerial tramway)
-- [ローマ字 (ローマじ)](vocab-36.md#ローマ字-ローマじ) — Roman letters, romaji (the romanized writing system for Japanese)
-- [ワイン](vocab-36.md#ワイン) — wine
-- [ワット](vocab-36.md#ワット) — watt (unit of power)
-- [ワンピース](vocab-37.md#ワンピース) — one-piece dress
-- [ヶ月/箇月 (かげつ)](vocab-12.md#ヶ月箇月-かげつ) — months (counter for duration in months)
-- [一体 (いったい)](vocab-07.md#一体-いったい) — on earth, in the world, whatever (emphatic question word); also: one body, unity
-- [一向 (いっこう)](vocab-01.md#一向-いっこう) — completely, absolutely, totally, (not) at all, (not) a bit
-- [一変 (いっぺん)](vocab-08.md#一変-いっぺん) — a complete change, a total transformation (often sudden)
-- [一定 (いってい)](vocab-07.md#一定-いってい) — fixed, definite, set, constant; to fix/standardize
-- [一層 (いっそう)](vocab-07.md#一層-いっそう) — still more, all the more, even more so
-- [一心 (いっしん)](vocab-07.md#一心-いっしん) — wholeheartedly, with all one's heart, single-minded devotion
-- [一括 (いっかつ)](vocab-03.md#一括-いっかつ) — lump sum
-- [一斉に (いっせいに)](vocab-07.md#一斉に-いっせいに) — all together, simultaneously, unanimously (as a group, at once)
-- [一方 (いっぽう)](vocab-08.md#一方-いっぽう) — one side/party (of two); meanwhile, on the other hand
-- [一旦 (いったん)](vocab-07.md#一旦-いったん) — once, for a moment, temporarily (as a first step before something else)
-- [一杯 (いっぱい)](vocab-08.md#一杯-いっぱい) — a cupful (of a drink); full, a lot of
-- [一致 (いっち)](vocab-07.md#一致-いっち) — agreement, accord, coincidence (matching/corresponding)
-- [一般(に) (いっぱんに)](vocab-08.md#一般に-いっぱんに) — general, generally, average, ordinary; in general
-- [丈 (たけ)](vocab-25.md#丈-たけ) — height, length (of clothing or stature)
-- [上がり (あがり)](vocab-06.md#上がり-あがり) — proceeds, takings (e.g. from a sale); finishing, completion
-- [上がる (あがる)](vocab-06.md#上がる-あがる) — to rise, go up; to improve; to finish; to get nervous
-- [上位 (じょうい)](vocab-21.md#上位-じょうい) — higher rank, top position
-- [上回る (うわまわる)](vocab-08.md#上回る-うわまわる) — to exceed, to surpass, to be above (a figure/expectation)
-- [下さる (くださる(います))](vocab-16.md#下さる-くださるいます) — (someone of higher status) gives to me; honorific form of くれる
-- [下り (くだり)](vocab-16.md#下り-くだり) — descent, downhill, a down train (away from Tokyo/the center)
-- [下る (くだる)](vocab-16.md#下る-くだる) — to go down, to descend; to surrender; to be handed down (a verdict/sentence)
-- [下品 (げひん)](vocab-17.md#下品-げひん) — vulgar, coarse, indecent, low-class
-- [下旬 (げじゅん)](vocab-17.md#下旬-げじゅん) — the last ten days of a month, late (month)
-- [下水 (げすい)](vocab-17.md#下水-げすい) — sewage, drainage, a drain pipe
-- [下町 (したまち)](vocab-20.md#下町-したまち) — downtown, old traditional working-class neighborhood
-- [下痢 (げり)](vocab-17.md#下痢-げり) — diarrhoea
-- [下車(する) (げしゃ)](vocab-17.md#下車する-げしゃ) — getting off (a train/bus), a stopover; to alight
-- [下降 (かこう)](vocab-13.md#下降-かこう) — descent, decline, falling (altitude, numbers, trend)
-- [下駄 (げた)](vocab-17.md#下駄-げた) — Japanese wooden clogs; a shoe cupboard (in compounds)
-- [不可 (ふか)](vocab-32.md#不可-ふか) — wrong, not good, unacceptable, "fail" (as a grade)
-- [不安 (ふあん)](vocab-32.md#不安-ふあん) — uneasiness, anxiety, worried (about)
-- [不意 (ふい)](vocab-01.md#不意-ふい) — sudden, unexpected
-- [不明 (ふめい)](vocab-32.md#不明-ふめい) — unknown, unclear, unidentified
-- [不服 【ふふく】](vocab-05.md#不服-ふふく) — Dissatisfaction, discontent (especially with a decision or ruling); often in ...
-- [不衛生 (ふえいせい)](vocab-32.md#不衛生-ふえいせい) — unhygienic, unsanitary
-- [不運 (ふうん)](vocab-32.md#不運-ふうん) — misfortune, bad luck, unlucky
-- [与党 (よとう)](vocab-33.md#与党-よとう) — the ruling/government party
-- [世の中 (よのなか)](vocab-33.md#世の中-よのなか) — the world, life, the times, society
-- [世代 (せだい)](vocab-23.md#世代-せだい) — generation
-- [世帯 (せたい)](vocab-23.md#世帯-せたい) — a household, family unit (as a statistical/administrative concept)
-- [世界 (せかい)](vocab-23.md#世界-せかい) — the world
-- [世紀 (せいき)](vocab-22.md#世紀-せいき) — century
-- [世話 (せわ)](vocab-23.md#世話-せわ) — care, help, looking after, to take care of
-- [世論 (せろん)](vocab-23.md#世論-せろん) — public opinion
-- [世論 (よろん)](vocab-33.md#世論-よろん) — public opinion
-- [世辞 (せじ)](vocab-23.md#世辞-せじ) — flattery, a compliment (often insincere)
-- [世間 (せけん)](vocab-23.md#世間-せけん) — the world, society, the public (as in "what people think")
-- [丘 (おか)](vocab-03.md#丘-おか) — hill
-- [両~(て) (りょうて)](vocab-36.md#両て-りょうて) — both (hands/legs) — prefix meaning "both"
-- [両側 (りょうがわ)](vocab-33.md#両側-りょうがわ) — both sides
-- [両替 (りょうがえ)](vocab-33.md#両替-りょうがえ) — money exchange, currency exchange
-- [両極 (りょうきょく)](vocab-36.md#両極-りょうきょく) — both extremes, both poles
-- [両立 (りょうりつ)](vocab-33.md#両立-りょうりつ) — being compatible, managing to balance/coexist (two things at once)
-- [並べる (ならべる)](vocab-30.md#並べる-ならべる) — to line up, to arrange (in a row/order)
-- [中世 (ちゅうせい)](vocab-27.md#中世-ちゅうせい) — the Middle Ages, medieval period
-- [中古 (ちゅうこ)](vocab-27.md#中古-ちゅうこ) — secondhand, used
-- [中和 (ちゅうわ)](vocab-27.md#中和-ちゅうわ) — neutralization, counteraction
-- [中央 (ちゅうおう)](vocab-27.md#中央-ちゅうおう) — center, middle
-- [中学 (ちゅうがく)](vocab-27.md#中学-ちゅうがく) — junior high school
-- [中年 (ちゅうねん)](vocab-27.md#中年-ちゅうねん) — middle age
-- [中心 (ちゅうしん)](vocab-27.md#中心-ちゅうしん) — the center, core, focal point
-- [中断 (ちゅうだん)](vocab-27.md#中断-ちゅうだん) — interruption, suspension (of an activity)
-- [中旬 (ちゅうじゅん)](vocab-27.md#中旬-ちゅうじゅん) — the middle ten days of a month (roughly the 11th-20th)
-- [中枢 (ちゅうすう)](vocab-27.md#中枢-ちゅうすう) — the center, hub, mainstay (of a system or organization)
-- [中毒 (ちゅうどく)](vocab-27.md#中毒-ちゅうどく) — poisoning; addiction
-- [中立 (ちゅうりつ)](vocab-06.md#中立-ちゅうりつ) — neutrality
-- [中継 (ちゅうけい)](vocab-27.md#中継-ちゅうけい) — relay broadcast, live on-the-spot broadcasting
-- [中腹 (ちゅうふく)](vocab-27.md#中腹-ちゅうふく) — halfway up a mountain
-- [中途 (ちゅうと)](vocab-27.md#中途-ちゅうと) — halfway, midstream, partway through
-- [中間 (ちゅうかん)](vocab-27.md#中間-ちゅうかん) — the middle, midpoint, intermediate
-- [主(な/に) (おも(な/に))](vocab-11.md#主なに-おもなに) — main, principal; mainly
-- [主催 (しゅさい)](vocab-02.md#主催-しゅさい) — Organizing, hosting (an event)
-- [主義 (しゅぎ)](vocab-20.md#主義-しゅぎ) — doctrine, principle, -ism
-- [主観 (しゅかん)](vocab-20.md#主観-しゅかん) — subjectivity, subjective viewpoint
-- [乗っ取る (のっとる)](vocab-31.md#乗っ取る-のっとる) — to take over, hijack, seize control of
-- [乙 (おつ)](vocab-10.md#乙-おつ) — the latter (as in "A and B"); stylish, quaint, unexpectedly nice
-- [乱暴 (らんぼう)](vocab-33.md#乱暴-らんぼう) — violence, roughness, being rough/violent
-- [乱用 (らんよう)](vocab-33.md#乱用-らんよう) — misuse, abuse (of power, drugs, authority, etc.)
-- [乾かす (かわかす)](vocab-14.md#乾かす-かわかす) — to dry (something)
-- [乾杯 (かんぱい)](vocab-13.md#乾杯-かんぱい) — a toast, "Cheers!"
-- [乾燥 (かんそう)](vocab-13.md#乾燥-かんそう) — dry, dryness, drying
-- [乾電池 (かんでんち)](vocab-13.md#乾電池-かんでんち) — a dry cell, (disposable) battery
-- [了承 (りょうしょう)](vocab-33.md#了承-りょうしょう) — understanding, approval, consent
-- [予て (かねて)](vocab-13.md#予て-かねて) — previously, in advance, for some time now
-- [予め (あらかじめ)](vocab-01.md#予め-あらかじめ) — beforehand, in advance, ahead of time, previously
-- [予備 (よび)](vocab-33.md#予備-よび) — a spare, a reserve, a backup
-- [予報 (よほう)](vocab-33.md#予報-よほう) — a forecast (especially weather)
-- [予定 (よてい)](vocab-33.md#予定-よてい) — plan, schedule
-- [予想 (よそう)](vocab-32.md#予想-よそう) — guess, expectation, prediction
-- [予感 (よかん)](vocab-35.md#予感-よかん) — a feeling, a foreboding, a premonition
-- [予期 (よき)](vocab-35.md#予期-よき) — expectation(s), anticipation
-- [予測 (よそく)](vocab-32.md#予測-よそく) — forecast, estimate, prediction
-- [予算 (よさん)](vocab-36.md#予算-よさん) — a budget, an estimate (of cost)
-- [予約 (よやく)](vocab-36.md#予約-よやく) — reservation, booking, appointment
-- [予言 (よげん)](vocab-36.md#予言-よげん) — a prediction, a prophecy; to foretell
-- [予防 (よぼう)](vocab-33.md#予防-よぼう) — prevention (especially of disease/accidents)
-- [争い (あらそい)](vocab-07.md#争い-あらそい) — a dispute, quarrel, conflict, contest
-- [争う (あらそう)](vocab-07.md#争う-あらそう) — to compete, contend, fight, dispute
-- [事前 (じぜん)](vocab-20.md#事前-じぜん) — beforehand, in advance, prior
-- [事故 (じこ)](vocab-19.md#事故-じこ) — accident
-- [事項 (じこう)](vocab-19.md#事項-じこう) — matters, facts, items, articles (as in a list or document)
-- [二十歳 (はたち)](vocab-31.md#二十歳-はたち) — twenty years of age
-- [云々 (うんぬん)](vocab-09.md#云々-うんぬん) — and so on, etc.; to comment on, to say this and that
-- [互い (たがい)](vocab-25.md#互い-たがい) — each other, one another, mutual
-- [五感 (ごかん)](vocab-04.md#五感-ごかん) — Five senses
-- [交わす (かわす)](vocab-14.md#交わす-かわす) — to exchange (greetings, words, promises)
-- [交互 (こうご)](vocab-18.md#交互-こうご) — alternately, by turns
-- [交付(する) (こうふ)](vocab-19.md#交付する-こうふ) — delivering/granting (official documents), issuance
-- [交代 (こうたい)](vocab-02.md#交代-こうたい) — Alternation, shift change
-- [交差 (こうさ)](vocab-18.md#交差-こうさ) — intersection, crossing
-- [交差点 (こうさてん)](vocab-18.md#交差点-こうさてん) — intersection, crossing (as a place)
-- [交換(する) (こうかん)](vocab-18.md#交換する-こうかん) — exchange, give-and-take
-- [交流 (こうりゅう)](vocab-19.md#交流-こうりゅう) — exchange, interchange (cultural, social)
-- [交渉(する) (こうしょう)](vocab-18.md#交渉する-こうしょう) — negotiation, bargaining; to negotiate
-- [交通機関 (こうつうきかん)](vocab-18.md#交通機関-こうつうきかん) — transportation facilities, public transit
-- [交際(する) (こうさい)](vocab-18.md#交際する-こうさい) — association, social relationship, dating
-- [人口 (じんこう)](vocab-21.md#人口-じんこう) — population
-- [人工的 (じんこうてき)](vocab-21.md#人工的-じんこうてき) — artificial, man-made
-- [人形 (にんぎょう)](vocab-30.md#人形-にんぎょう) — a doll
-- [人材 (じんざい)](vocab-21.md#人材-じんざい) — talented person/people, human resources, personnel
-- [人柄 (ひとがら)](vocab-01.md#人柄-ひとがら) — personality, character
-- [人気 (にんき)](vocab-30.md#人気-にんき) — popularity
-- [人種 (じんしゅ)](vocab-21.md#人種-じんしゅ) — race, ethnic group
-- [人間 (にんげん)](vocab-30.md#人間-にんげん) — a human being, humankind
-- [今に (いまに)](vocab-07.md#今に-いまに) — soon, before long, one of these days (implying eventual, often inevitable, oc...
-- [今にも (いまにも)](vocab-07.md#今にも-いまにも) — any minute now, at any moment (on the verge of happening)
-- [今更 (いまさら)](vocab-07.md#今更-いまさら) — (now) at this late stage, too late now, can't go back and change it now
-- [今朝 (けさ)](vocab-17.md#今朝-けさ) — this morning
-- [介入 (かいにゅう)](vocab-11.md#介入-かいにゅう) — intervention
-- [介護 (かいご)](vocab-12.md#介護-かいご) — nursing care (especially of the elderly or disabled)
-- [介護 【かいご】](vocab-05.md#介護-かいご) — Nursing care, caregiving (typically for the elderly, sick, or disabled).
-- [仕える (つかえる)](vocab-28.md#仕える-つかえる) — to serve, to work for (a lord, god, master)
-- [仕掛け (しかけ)](vocab-19.md#仕掛け-しかけ) — a device, mechanism, system, trick, clockwork
-- [仕掛ける (しかける)](vocab-19.md#仕掛ける-しかける) — to start, begin, set up, initiate (often a trap, attack, or device)
-- [仕方なく (しかたなく)](vocab-19.md#仕方なく-しかたなく) — reluctantly, having no choice, unavoidably
-- [仕組む (しくむ)](vocab-19.md#仕組む-しくむ) — to structure, devise, contrive, plot/scheme
-- [他人 (たにん)](vocab-26.md#他人-たにん) — an unrelated person, a stranger, someone outside one's group
-- [他動詞 (たどうし)](vocab-26.md#他動詞-たどうし) — transitive verb (grammar term)
-- [付き合い (つきあい)](vocab-28.md#付き合い-つきあい) — association, companionship, social relations, keeping someone company
-- [付き合う (つきあう)](vocab-28.md#付き合う-つきあう) — to associate with, to keep company with, to date (romantically)
-- [付け加える (つけくわえる)](vocab-28.md#付け加える-つけくわえる) — to add (a comment/detail), to supplement what was said
-- [代える/替える (かえる)](vocab-12.md#代える替える-かえる) — to substitute, to replace, to change (one thing for another)
-- [代わる (かわる)](vocab-13.md#代わる-かわる) — to take the place of, to substitute, to change (roles)
-- [代わる代わる (かわるがわる)](vocab-13.md#代わる代わる-かわるがわる) — in turn, one after another, alternately
-- [代名詞 (だいめいし)](vocab-25.md#代名詞-だいめいし) — a pronoun; (figuratively) a synonym/symbol representing something
-- [代弁 (だいべん)](vocab-25.md#代弁-だいべん) — speaking on behalf of (someone), representing someone's views
-- [代理 (だいり)](vocab-25.md#代理-だいり) — representation, proxy, agency, acting on behalf of someone
-- [代用 (だいよう)](vocab-25.md#代用-だいよう) — substitution, using something as a substitute
-- [代表 (だいひょう)](vocab-25.md#代表-だいひょう) — representation, a representative
-- [代金 (だいきん)](vocab-25.md#代金-だいきん) — the price, the cost (of goods/services), payment due
-- [以って (もって)](vocab-34.md#以って-もって) — by means of, with, through (formal connective)
-- [以来 (いらい)](vocab-07.md#以来-いらい) — since (then), ever since
-- [仮に (かりに)](vocab-14.md#仮に-かりに) — temporarily; hypothetically, supposing that
-- [仮名遣い (かなづかい)](vocab-13.md#仮名遣い-かなづかい) — proper usage of kana (orthography), kana spelling conventions
-- [仮定 (かてい)](vocab-13.md#仮定-かてい) — a supposition, a hypothesis, an assumption
-- [仰ぐ (あおぐ)](vocab-06.md#仰ぐ-あおぐ) — to look up (physically); to look up to, respect, seek guidance from
-- [企業 (きぎょう)](vocab-01.md#企業-きぎょう) — enterprise, corporation
-- [休学 (きゅうがく)](vocab-15.md#休学-きゅうがく) — leave of absence from school
-- [休憩 (きゅうけい)](vocab-15.md#休憩-きゅうけい) — a rest, a break
-- [休戦 (きゅうせん)](vocab-15.md#休戦-きゅうせん) — truce, cease-fire, armistice
-- [休業 (きゅうぎょう)](vocab-15.md#休業-きゅうぎょう) — suspension of business, temporary closure
-- [休養 (きゅうよう)](vocab-15.md#休養-きゅうよう) — rest, recuperation, taking time off to recover
-- [会合 (かいごう)](vocab-12.md#会合-かいごう) — a gathering, meeting
-- [会員 (かいいん)](vocab-12.md#会員-かいいん) — a member (of a society, club, organization)
-- [会見 (かいけん)](vocab-12.md#会見-かいけん) — an interview (often formal, e.g., press conference)
-- [会計 (かいけい)](vocab-12.md#会計-かいけい) — accounting; the bill/check (at a restaurant)
-- [会談 (かいだん)](vocab-11.md#会談-かいだん) — a conference, talk, summit (often between leaders/officials)
-- [会館 (かいかん)](vocab-12.md#会館-かいかん) — a hall, assembly hall (a building for public/community use)
-- [伝える (つたえる)](vocab-28.md#伝える-つたえる) — to tell, to convey (a message), to pass on, to communicate
-- [伝わる (つたわる)](vocab-28.md#伝わる-つたわる) — to spread, to be transmitted, to get across, to be handed down, to travel (so...
-- [伝染 (でんせん)](vocab-29.md#伝染-でんせん) — to be contagious/infectious, to spread (disease, emotion)
-- [伝統 (でんとう)](vocab-29.md#伝統-でんとう) — tradition, convention
-- [伝説 (でんせつ)](vocab-04.md#伝説-でんせつ) — Legend
-- [伯母/叔母/小母 (おばさん)](vocab-10.md#伯母叔母小母-おばさん) — aunt; (middle-aged) woman
-- [伯父/叔父/小父 (おじさん)](vocab-10.md#伯父叔父小父-おじさん) — uncle; mister (older man)
-- [伸ばす (のばす)](vocab-31.md#伸ばす-のばす) — to grow (something), stretch, extend, increase, postpone
-- [伸びる (のびる)](vocab-21.md#伸びる-のびる) — to extend, stretch, grow (in length, height, or ability)
-- [似る (にる)](vocab-31.md#似る-にる) — to resemble, to look alike
-- [但し (ただし)](vocab-26.md#但し-ただし) — but, however, provided that (introduces a qualification/exception)
-- [位 (くらい)](vocab-16.md#位-くらい) — rank, court rank, the throne, a position/grade
-- [低い (ひくい)](vocab-32.md#低い-ひくい) — low, short (in height)
-- [住む (すむ)](vocab-22.md#住む-すむ) — to live, reside
-- [住宅 (じゅうたく)](vocab-20.md#住宅-じゅうたく) — house, housing, residence
-- [住居 (じゅうきょ)](vocab-20.md#住居-じゅうきょ) — residence, dwelling, habitation
-- [住民 (じゅうみん)](vocab-20.md#住民-じゅうみん) — inhabitant, resident
-- [体付き (からだつき)](vocab-14.md#体付き-からだつき) — figure, build, physique
-- [体制 (たいせい)](vocab-25.md#体制-たいせい) — a system, structure, regime (organizational framework)
-- [体力 (たいりょく)](vocab-25.md#体力-たいりょく) — physical strength, stamina
-- [体操 (たいそう)](vocab-25.md#体操-たいそう) — gymnastics, physical exercises
-- [体格 (たいかく)](vocab-25.md#体格-たいかく) — build, physique
-- [体温 (たいおん)](vocab-25.md#体温-たいおん) — one's body temperature
-- [体積 (たいせき)](vocab-25.md#体積-たいせき) — (cubic) volume, cubage
-- [体系 (たいけい)](vocab-25.md#体系-たいけい) — a system, systematic structure
-- [体育 (たいいく)](vocab-25.md#体育-たいいく) — physical education, P.E.
-- [体裁 (ていさい／たいさい)](vocab-01.md#体裁-ていさいたいさい) — (outward) appearance, (proper) format (e.g. of an essay)
-- [体重 (たいじゅう)](vocab-25.md#体重-たいじゅう) — one's (body) weight
-- [体験 (たいけん)](vocab-25.md#体験-たいけん) — an experience, to experience, undergo
-- [何しろ (なにしろ)](vocab-30.md#何しろ-なにしろ) — anyhow, anyway, after all (giving a reason/justification)
-- [何とか (なんとか)](vocab-30.md#何とか-なんとか) — somehow, one way or another, manage to
-- [何となく (なんとなく)](vocab-30.md#何となく-なんとなく) — somehow, for no particular reason, vaguely
-- [何より (なにより)](vocab-30.md#何より-なにより) — above all, best of all, more than anything
-- [何分 (なにぶん)](vocab-30.md#何分-なにぶん) — anyway, in any case (used to excuse or explain a limitation)
-- [何気なく (なにげなく)](vocab-30.md#何気なく-なにげなく) — casually, without any particular intention, nonchalantly
-- [余分 (よぶん)](vocab-33.md#余分-よぶん) — a surplus, an extra amount, excess
-- [余地 (よち)](vocab-32.md#余地-よち) — room, margin, leeway (for something to happen/be considered)
-- [余暇 (よか)](vocab-35.md#余暇-よか) — leisure (hours), spare time
-- [余暇 【よか】](vocab-05.md#余暇-よか) — Leisure hours, free time, spare time (time not occupied by work or obligations).
-- [余興 (よきょう)](vocab-35.md#余興-よきょう) — an entertainment, a parlor trick, side amusement
-- [余計 (よけい)](vocab-36.md#余計-よけい) — extra, more than necessary, surplus, unnecessary
-- [作り (つくり)](vocab-28.md#作り-つくり) — composition, structure, build, make (of something)
-- [作る/造る (つくる)](vocab-28.md#作る造る-つくる) — to manufacture, to make, to produce
-- [使い道 (つかいみち)](vocab-28.md#使い道-つかいみち) — how to use (something), a use, uses, purpose
-- [使う (つかう)](vocab-28.md#使う-つかう) — to use
-- [使命 (しめい)](vocab-02.md#使命-しめい) — Mission, calling
-- [使用 (しよう)](vocab-21.md#使用-しよう) — use, utilization, employment (of something)
-- [使用人 (しようにん)](vocab-21.md#使用人-しようにん) — servant, employee (in a household or old-style business)
-- [例え (たとえ)](vocab-26.md#例え-たとえ) — simile, metaphor, example, analogy
-- [例える (たとえる)](vocab-26.md#例える-たとえる) — to compare, to liken (something to something else)
-- [例外 (れいがい)](vocab-33.md#例外-れいがい) — an exception
-- [供給 (きょうきゅう)](vocab-15.md#供給-きょうきゅう) — supply (of goods, resources, etc.)
-- [価格 (かかく)](vocab-12.md#価格-かかく) — price, cost, value
-- [侮辱 (ぶじょく)](vocab-01.md#侮辱-ぶじょく) — insult, humiliation
-- [侵入 (しんにゅう)](vocab-04.md#侵入-しんにゅう) — Invasion, intrusion
-- [侵略 (しんりゃく)](vocab-21.md#侵略-しんりゃく) — invasion, aggression (military)
-- [便り (たより)](vocab-26.md#便り-たより) — news, tidings, a letter/correspondence
-- [便箋 (びんせん)](vocab-32.md#便箋-びんせん) — letter-writing paper, stationery for letters
-- [係 (かかり)](vocab-12.md#係-かかり) — a person in charge, a clerk, an attendant (for a specific task)
-- [係わる (かかわる)](vocab-12.md#係わる-かかわる) — to have to do with, to be involved in, to be concerned with
-- [促す (うながす)](vocab-06.md#促す-うながす) — urge, prompt, hasten
-- [促進 (そくしん)](vocab-24.md#促進-そくしん) — promotion, acceleration, encouragement (of a process)
-- [保つ (たもつ)](vocab-26.md#保つ-たもつ) — to keep up, to maintain, to retain, to keep at a fixed level
-- [保存 (ほぞん)](vocab-32.md#保存-ほぞん) — preservation, to preserve, to save (e.g., a file)
-- [保守 (ほしゅ)](vocab-32.md#保守-ほしゅ) — conservative; maintenance (of a system)
-- [保守派 【ほしゅは】](vocab-05.md#保守派-ほしゅは) — The conservatives, conservative faction (in politics or within an organization).
-- [保証 (ほしょう)](vocab-32.md#保証-ほしょう) — a guarantee, assurance, warranty
-- [信じる (しんじる)](vocab-21.md#信じる-しんじる) — to believe, have faith, trust
-- [信任 (しんにん)](vocab-21.md#信任-しんにん) — confidence, trust, faith (especially in an official/political capacity)
-- [信号 (しんごう)](vocab-21.md#信号-しんごう) — signal, traffic light
-- [信条 (しんじょう)](vocab-21.md#信条-しんじょう) — a creed, principle, personal conviction
-- [信用 (しんよう)](vocab-22.md#信用-しんよう) — trust, confidence, credit (often based on track record)
-- [信頼 (しんらい)](vocab-21.md#信頼-しんらい) — trust, confidence, reliance
-- [信頼性 (しんらいせい)](vocab-22.md#信頼性-しんらいせい) — reliability, trustworthiness
-- [修士 (しゅうし)](vocab-20.md#修士-しゅうし) — master's degree
-- [修正 (しゅうせい)](vocab-20.md#修正-しゅうせい) — amendment, revision, correction
-- [修理 (しゅうり)](vocab-20.md#修理-しゅうり) — repair, mending, fixing
-- [修繕 (しゅうぜん)](vocab-20.md#修繕-しゅうぜん) — mending, repair (especially of structures)
-- [修行 (しゅぎょう)](vocab-20.md#修行-しゅぎょう) — ascetic practice, spiritual/physical training, discipline
-- [修行 【しゅぎょう】](vocab-05.md#修行-しゅぎょう) — Training, ascetic practice, spiritual/disciplinary training (often religious,...
-- [修飾 (しゅうしょく)](vocab-20.md#修飾-しゅうしょく) — modification (grammar), embellishment, ornamentation
-- [俳優 (はいゆう)](vocab-31.md#俳優-はいゆう) — an actor, an actress
-- [俳優 【はいゆう】](vocab-05.md#俳優-はいゆう) — Actor/actress (performer in film, TV, or theater).
-- [俺 (おれ)](vocab-11.md#俺-おれ) — I, me (male speaker's casual/rough term for "I")
-- [倅 (せがれ)](vocab-23.md#倅-せがれ) — one's (own) son (humble, old-fashioned term)
-- [倉庫 (そうこ)](vocab-24.md#倉庫-そうこ) — a warehouse, a storehouse
-- [倍増 (ばいぞう)](vocab-31.md#倍増-ばいぞう) — doubling, magnification
-- [倒す (たおす)](vocab-25.md#倒す-たおす) — to knock down, pull down, to defeat/beat
-- [候補 (こうほ)](vocab-19.md#候補-こうほ) — candidacy, a candidate
-- [借り (かり)](vocab-14.md#借り-かり) — a debt, a loan, a favor owed
-- [借りる (かりる)](vocab-14.md#借りる-かりる) — to borrow (something) from someone
-- [倣う (ならう)](vocab-04.md#倣う-ならう) — To follow (an example)
-- [値上がり (ねあがり)](vocab-31.md#値上がり-ねあがり) — a price rise, increase in value
-- [値引き (ねびき)](vocab-31.md#値引き-ねびき) — a discount, price reduction
-- [倫理 (りんり)](vocab-03.md#倫理-りんり) — ethics
-- [倹約 (けんやく)](vocab-02.md#倹約-けんやく) — Thrift, frugality
-- [偉い (えらい)](vocab-09.md#偉い-えらい) — great, admirable; (ironic) terrible, awful
-- [偏見 【へんけん】](vocab-05.md#偏見-へんけん) — Prejudice, bias (an unfair, preconceived opinion, often negative).
-- [健やか (すこやか)](vocab-04.md#健やか-すこやか) — Healthy
-- [健全 (けんぜん)](vocab-18.md#健全-けんぜん) — healthy, sound (of body, mind, or finances)
-- [健在 (けんざい)](vocab-18.md#健在-けんざい) — alive and well, still going strong
-- [健康 (けんこう)](vocab-18.md#健康-けんこう) — health
-- [側面 (そくめん)](vocab-24.md#側面-そくめん) — the side, side view; an aspect
-- [偶々 (たまたま)](vocab-26.md#偶々-たまたま) — by chance, coincidentally, happening to
-- [偶然 (ぐうぜん)](vocab-15.md#偶然-ぐうぜん) — a chance occurrence, coincidence; (as adverb/adjective) by chance, accidental
-- [偽造 (ぎぞう)](vocab-02.md#偽造-ぎぞう) — Forgery, counterfeiting
-- [傑作 (けっさく)](vocab-17.md#傑作-けっさく) — a masterpiece, a fine piece of work
-- [備[え]付ける (そなえつける)](vocab-24.md#備え付ける-そなえつける) — to provide, equip, install (permanently)
-- [備える/具える (そなえる)](vocab-24.md#備える具える-そなえる) — to prepare for, provide, have (a quality)
-- [備わる/具わる (そなわる)](vocab-24.md#備わる具わる-そなわる) — to be furnished with, be provided with, be equipped/possessed (intransitive)
-- [傾ける (かたむける)](vocab-01.md#傾ける-かたむける) — to tilt, incline; to devote (effort)
-- [傾げる (かしげる／かたげる)](vocab-01.md#傾げる-かしげるかたげる) — to tilt (esp. head), to lean, to incline, to slant
-- [傾向 (けいこう)](vocab-17.md#傾向-けいこう) — a tendency, a trend
-- [傾斜 (けいしゃ)](vocab-17.md#傾斜-けいしゃ) — inclination, slope, tilt
-- [働き (はたらき)](vocab-31.md#働き-はたらき) — work, action, function, effect, workings (of something)
-- [儀式 (ぎしき)](vocab-01.md#儀式-ぎしき) — ceremony, ritual
-- [償い (つぐない)](vocab-28.md#償い-つぐない) — amends, compensation, atonement
-- [優 (ゆう)](vocab-34.md#優-ゆう) — grade A, excellent (academic grading); gentleness (as a prefix)
-- [優れる (すぐれる)](vocab-22.md#優れる-すぐれる) — to excel, surpass, be superior
-- [優位 (ゆうい)](vocab-34.md#優位-ゆうい) — predominance, superiority, advantageous position
-- [優勝 (ゆうしょう)](vocab-35.md#優勝-ゆうしょう) — a victory, championship, winning first place
-- [優秀 (ゆうしゅう)](vocab-35.md#優秀-ゆうしゅう) — excellence, outstanding, superior (ability/quality)
-- [優美 (ゆうび)](vocab-35.md#優美-ゆうび) — elegance, grace; graceful
-- [優雅 (ゆうが)](vocab-02.md#優雅-ゆうが) — Elegance, grace
-- [元年 (がんねん)](vocab-13.md#元年-がんねん) — the first year (of an era)
-- [元日 (がんじつ)](vocab-13.md#元日-がんじつ) — New Year's Day (January 1st)
-- [元来 (がんらい)](vocab-14.md#元来-がんらい) — originally, essentially, by nature
-- [元気 (げんき)](vocab-18.md#元気-げんき) — healthy, energetic, vigor, lively
-- [元素 (げんそ)](vocab-18.md#元素-げんそ) — (chemical) element
-- [元首 (げんしゅ)](vocab-18.md#元首-げんしゅ) — the head of state
-- [充実 (じゅうじつ)](vocab-20.md#充実-じゅうじつ) — fullness, fulfillment, to be substantial/enriched
-- [兆し (きざし)](vocab-01.md#兆し-きざし) — sign, omen, indication
-- [先 (せん)](vocab-23.md#先-せん) — the future; ahead; previously; the tip/end
-- [先代 (せんだい)](vocab-23.md#先代-せんだい) — the previous/late head (of a family, business, or title)
-- [先天的 (せんてんてき)](vocab-23.md#先天的-せんてんてき) — innate, congenital, native (na-adjective)
-- [先日 (せんじつ)](vocab-23.md#先日-せんじつ) — the other day, recently
-- [先着 (せんちゃく)](vocab-23.md#先着-せんちゃく) — first arrival, first-come
-- [先祖 (せんぞ)](vocab-23.md#先祖-せんぞ) — an ancestor, forefather
-- [先端 (せんたん)](vocab-23.md#先端-せんたん) — the tip/point; the forefront, cutting edge
-- [先頭 (せんとう)](vocab-23.md#先頭-せんとう) — the head, the front (of a line/group)
-- [光る (ひかる)](vocab-31.md#光る-ひかる) — to shine, glow, twinkle, glitter, glisten
-- [光景 (こうけい)](vocab-18.md#光景-こうけい) — a sight, scene, spectacle
-- [光栄 (こうえい)](vocab-18.md#光栄-こうえい) — honor, privilege
-- [光沢 (こうたく)](vocab-18.md#光沢-こうたく) — brilliance, luster, glaze
-- [光熱費 (こうねつひ)](vocab-19.md#光熱費-こうねつひ) — utility expenses (electricity, gas, heating/lighting costs)
-- [克服する (こくふくする)](vocab-03.md#克服する-こくふくする) — to overcome
-- [免れる 【まぬがれる】](vocab-05.md#免れる-まぬがれる) — To escape, avoid, be spared from (a negative consequence, danger, or responsi...
-- [免税 (めんぜい)](vocab-19.md#免税-めんぜい) — exemption from taxation, tax-free
-- [免許 (めんきょ)](vocab-19.md#免許-めんきょ) — a license
-- [免除 (めんじょ)](vocab-34.md#免除-めんじょ) — exemption, exception from an obligation
-- [兎 (うさぎ)](vocab-08.md#兎-うさぎ) — a rabbit, a hare
-- [入力 (にゅうりょく)](vocab-04.md#入力-にゅうりょく) — Input
-- [入学 (にゅうがく)](vocab-30.md#入学-にゅうがく) — to enter a school, school enrollment/admission
-- [入手 (にゅうしゅ)](vocab-30.md#入手-にゅうしゅ) — to obtain, get hold of
-- [入浴 【にゅうよく】](vocab-05.md#入浴-にゅうよく) — Bathing, taking a bath (formal/written word).
-- [入社 (にゅうしゃ)](vocab-30.md#入社-にゅうしゃ) — to join a company, to enter employment at a company
-- [入賞 (にゅうしょう)](vocab-30.md#入賞-にゅうしょう) — to win a prize, to place (in a competition)
-- [入院 (にゅういん)](vocab-30.md#入院-にゅういん) — to be hospitalized, admission to hospital
-- [全て (すべて)](vocab-22.md#全て-すべて) — everything, all
-- [全体 (ぜんたい)](vocab-23.md#全体-ぜんたい) — the whole, the entirety, overall
-- [全力 (ぜんりょく)](vocab-23.md#全力-ぜんりょく) — all one's strength, full effort
-- [全員 (ぜんいん)](vocab-23.md#全員-ぜんいん) — all members, everyone (in a group)
-- [全国 (ぜんこく)](vocab-23.md#全国-ぜんこく) — the whole country, nationwide
-- [全快 (ぜんかい)](vocab-23.md#全快-ぜんかい) — complete recovery (from illness)
-- [全滅 (ぜんめつ)](vocab-23.md#全滅-ぜんめつ) — annihilation, total destruction, to be wiped out
-- [全盛 (ぜんせい)](vocab-23.md#全盛-ぜんせい) — height of prosperity, prime, peak
-- [全般 (ぜんぱん)](vocab-23.md#全般-ぜんぱん) — the whole, generally, across the board
-- [全集 (ぜんしゅう)](vocab-23.md#全集-ぜんしゅう) — complete works (of an author), collected works
-- [公 (おおやけ)](vocab-10.md#公-おおやけ) — public, official
-- [公共 (こうきょう)](vocab-18.md#公共-こうきょう) — public, community (as an adjective/noun prefix)
-- [公務員 (こうむいん)](vocab-19.md#公務員-こうむいん) — civil servant, public service employee
-- [公募 (こうぼ)](vocab-19.md#公募-こうぼ) — public recruitment/solicitation, open call
-- [公団 (こうだん)](vocab-18.md#公団-こうだん) — public corporation
-- [公園 (こうえん)](vocab-18.md#公園-こうえん) — park
-- [公平 (こうへい)](vocab-19.md#公平-こうへい) — impartiality, fairness; impartial, fair
-- [公式 (こうしき)](vocab-18.md#公式-こうしき) — official, formal; formula
-- [公正 (こうせい)](vocab-18.md#公正-こうせい) — justice, fairness; just, fair
-- [公益 (こうえき)](vocab-18.md#公益-こうえき) — public good, public interest
-- [公立 (こうりつ)](vocab-19.md#公立-こうりつ) — public, municipal (institution)
-- [公衆 (こうしゅう)](vocab-18.md#公衆-こうしゅう) — the public
-- [公表(する) (こうひょう)](vocab-19.md#公表する-こうひょう) — publication, official announcement; to make public
-- [公認 (こうにん)](vocab-19.md#公認-こうにん) — official recognition/approval, authorization
-- [共同 (きょうどう)](vocab-15.md#共同-きょうどう) — cooperation, collaboration; joint, shared (used adjectivally, e.g., 共同作業 "joi...
-- [共和 (きょうわ)](vocab-16.md#共和-きょうわ) — republic (as in 共和国, republican government)
-- [共存 (きょうぞん)](vocab-15.md#共存-きょうぞん) — coexistence
-- [共学 (きょうがく)](vocab-15.md#共学-きょうがく) — coeducation (boys and girls attending the same school)
-- [共感 (きょうかん)](vocab-15.md#共感-きょうかん) — empathy, sympathy, fellow feeling; to relate to/resonate with
-- [共産~ (きょうさん~)](vocab-15.md#共産-きょうさん) — communist, communism (prefix, as in 共産党 "Communist Party," 共産主義 "communism")
-- [共通 (きょうつう)](vocab-15.md#共通-きょうつう) — common, shared, mutual
-- [共鳴 (きょうめい)](vocab-02.md#共鳴-きょうめい) — Resonance, sympathy (with an idea)
-- [具合 (ぐあい)](vocab-15.md#具合-ぐあい) — condition, state (of health, a situation, or how something is functioning)
-- [典型 (てんけい)](vocab-04.md#典型-てんけい) — Typical example
-- [兼ねる (かねる)](vocab-13.md#兼ねる-かねる) — to combine, to serve as both, to double as
-- [兼業 (けんぎょう)](vocab-18.md#兼業-けんぎょう) — additional/side business, dual occupation
-- [内緒 【ないしょ】](vocab-05.md#内緒-ないしょ) — Secret, something kept hidden/confidential (casual register, often between in...
-- [内訳 (うちわけ)](vocab-08.md#内訳-うちわけ) — a breakdown (of expenses, items), an itemization
-- [円 (えん)](vocab-09.md#円-えん) — yen (currency); circle
-- [円満 (えんまん)](vocab-03.md#円満-えんまん) — harmonious (see nuance cluster above)
-- [円滑 (えんかつ)](vocab-03.md#円滑-えんかつ) — smooth (see nuance cluster above)
-- [円盤 【えんばん】](vocab-05.md#円盤-えんばん) — Disk, disc (a flat, round object); also refers to the discus (in sports) or U...
-- [冒険 (ぼうけん)](vocab-32.md#冒険-ぼうけん) — an adventure, a risk, to take a chance
-- [写し (うつし)](vocab-08.md#写し-うつし) — a copy, a duplicate (of a document)
-- [写す/映す (うつす)](vocab-08.md#写す映す-うつす) — to copy, photocopy, reproduce; to reflect, project
-- [写る/映る (うつる)](vocab-08.md#写る映る-うつる) — to come out/appear (in a photo); to be reflected; to show up on screen
-- [写生 (しゃせい)](vocab-20.md#写生-しゃせい) — sketching from life, sketch
-- [写真 (しゃしん)](vocab-20.md#写真-しゃしん) — picture, photograph
-- [冬眠 (とうみん)](vocab-29.md#冬眠-とうみん) — hibernation
-- [冷凍 (れいとう)](vocab-34.md#冷凍-れいとう) — freezing, refrigeration (below freezing point)
-- [冷夏 (れいか)](vocab-33.md#冷夏-れいか) — a cold summer, cool summer (unusually low temperatures)
-- [冷房 (れいぼう)](vocab-34.md#冷房-れいぼう) — air-conditioning (cooling)
-- [冷淡 (れいたん)](vocab-33.md#冷淡-れいたん) — cold-hearted, indifferent by nature, unsympathetic
-- [冷蔵 (れいぞう)](vocab-33.md#冷蔵-れいぞう) — cold storage, refrigeration
-- [冷蔵庫 (れいぞうこ)](vocab-34.md#冷蔵庫-れいぞうこ) — refrigerator
-- [冷酷 (れいこく)](vocab-33.md#冷酷-れいこく) — cold-bloodedness, cruelty, heartlessness
-- [冷静 (れいせい)](vocab-33.md#冷静-れいせい) — calm, composed, level-headed
-- [凍る (こおる)](vocab-19.md#凍る-こおる) — to freeze, ice over, frost, curdle
-- [几帳面 (きちょうめん)](vocab-01.md#几帳面-きちょうめん) — meticulous, methodical
-- [処分 (しょぶん)](vocab-21.md#処分-しょぶん) — disposal (of items); disciplinary action, punishment
-- [処理 (しょり)](vocab-21.md#処理-しょり) — processing, handling, management (of tasks, data, waste)
-- [出会う (であう)](vocab-29.md#出会う-であう) — to meet, run into, come across (often by chance)
-- [出口 (でぐち)](vocab-29.md#出口-でぐち) — exit
-- [出来るだけ (できるだけ)](vocab-29.md#出来るだけ-できるだけ) — as much/as hard as possible
-- [出没 (しゅつぼつ)](vocab-01.md#出没-しゅつぼつ) — making frequent appearances, appearing often (and disappearing), especially o...
-- [出迎える (でむかえる)](vocab-29.md#出迎える-でむかえる) — to meet, welcome, greet, receive (someone arriving)
-- [分 (ぶん)](vocab-32.md#分-ぶん) — a part, a division, a share, one's lot/place
-- [分かち合う (わかちあう)](vocab-36.md#分かち合う-わかちあう) — to share (feelings, joy, burdens, etc.) with others
-- [分かる (わかる)](vocab-36.md#分かる-わかる) — to understand, know, comprehend
-- [分ける (わける)](vocab-36.md#分ける-わける) — to divide, split, separate, classify
-- [分厚い 【ぶあつい】](vocab-05.md#分厚い-ぶあつい) — Thick (of books, materials, or layers — notably thicker than merely 厚い).
-- [分布 (ぶんぷ)](vocab-32.md#分布-ぶんぷ) — distribution, spread (of something across an area or range)
-- [分担 (ぶんたん)](vocab-32.md#分担-ぶんたん) — to share/divide up a duty, assuming part of a responsibility
-- [分散 (ぶんさん)](vocab-32.md#分散-ぶんさん) — dispersion, scattering, decentralization
-- [分析 (ぶんせき)](vocab-32.md#分析-ぶんせき) — analysis, to analyze
-- [分業 (ぶんぎょう)](vocab-32.md#分業-ぶんぎょう) — division of labor
-- [分母 (ぶんぼ)](vocab-32.md#分母-ぶんぼ) — a denominator (in a fraction)
-- [切ない (せつない)](vocab-04.md#切ない-せつない) — Sad, painful (emotion)
-- [切り替える (きりかえる)](vocab-16.md#切り替える-きりかえる) — to change, switch, convert, renew (from one state/mode to another)
-- [切る/斬る (きる)](vocab-16.md#切る斬る-きる) — to cut, to slice (切る); to cut down/slash with a blade (斬る)
-- [切れる (きれる)](vocab-16.md#切れる-きれる) — to be cut, to break/snap, to run out, to expire; (colloquially) to snap/lose ...
-- [切れ目 (きれめ)](vocab-16.md#切れ目-きれめ) — a break, a pause, a gap, an end (of something continuous)
-- [切実 (せつじつ)](vocab-23.md#切実-せつじつ) — urgent, pressing, earnest (of a need, feeling, or problem)
-- [切開 (せっかい)](vocab-23.md#切開-せっかい) — incision, to make a surgical cut
-- [刑事 (けいじ)](vocab-17.md#刑事-けいじ) — a (police) detective; criminal (as in criminal case/law)
-- [刑罰 (けいばつ)](vocab-17.md#刑罰-けいばつ) — penalty, punishment (especially legal/criminal)
-- [列 (れつ)](vocab-34.md#列-れつ) — a row, line, rank, queue
-- [列島 (れっとう)](vocab-34.md#列島-れっとう) — archipelago, chain of islands
-- [列車 (れっしゃ)](vocab-34.md#列車-れっしゃ) — a train
-- [初め (はじめ)](vocab-31.md#初め-はじめ) — the beginning; (as 初めに) at first, to begin with
-- [初めて (はじめて)](vocab-31.md#初めて-はじめて) — for the first time
-- [初めまして (はじめまして)](vocab-31.md#初めまして-はじめまして) — "How do you do?" / "Nice to meet you" (greeting used at a first meeting)
-- [判決 (はんけつ)](vocab-01.md#判決-はんけつ) — (court) verdict, judgment
-- [別れる (わかれる)](vocab-36.md#別れる-わかれる) — to part, separate, break up (from a person, or a path splitting)
-- [別れ別れ (わかれわかれ)](vocab-36.md#別れ別れ-わかれわかれ) — scattered, separated from each other (often of people who were once together)
-- [別荘 【べっそう】](vocab-05.md#別荘-べっそう) — Villa, vacation home, second house (typically in a resort/countryside location).
-- [利口 (りこう)](vocab-33.md#利口-りこう) — clever, smart, bright
-- [利子 (りし)](vocab-33.md#利子-りし) — interest (on money, e.g. a loan or deposit)
-- [利害 (りがい)](vocab-33.md#利害-りがい) — interest(s), stake, pros and cons
-- [利息 (りそく)](vocab-33.md#利息-りそく) — interest (on money)
-- [利潤 (りじゅん)](vocab-06.md#利潤-りじゅん) — profit
-- [利点 (りてん)](vocab-33.md#利点-りてん) — advantage, merit, good point
-- [利用 (りよう)](vocab-33.md#利用-りよう) — use, utilization; (sometimes) to exploit
-- [利益 (りえき)](vocab-33.md#利益-りえき) — profit, benefit, gain
-- [到達 (とうたつ)](vocab-04.md#到達-とうたつ) — Reaching, attainment
-- [制する (せいする)](vocab-22.md#制する-せいする) — to control, command; to win (a victory), to dominate
-- [制定 (せいてい)](vocab-22.md#制定-せいてい) — establishment, enactment (of a law, rule, or system)
-- [制度 (せいど)](vocab-22.md#制度-せいど) — a system, institution (social, legal, organizational)
-- [制服 (せいふく)](vocab-22.md#制服-せいふく) — a uniform
-- [制約 (せいやく)](vocab-04.md#制約-せいやく) — Restriction
-- [制裁 (せいさい)](vocab-22.md#制裁-せいさい) — sanctions, punishment (especially international/political)
-- [制限 (せいげん)](vocab-22.md#制限-せいげん) — restriction, a limit
-- [刺戟（刺激） 【しげき】](vocab-05.md#刺戟刺激-しげき) — Stimulation, stimulus (physical, mental, or emotional).
-- [刺激 (しげき)](vocab-19.md#刺激-しげき) — to stimulate, irritate; stimulus, stimulation
-- [刺繍 (ししゅう)](vocab-20.md#刺繍-ししゅう) — embroidery
-- [剃る (そる)](vocab-24.md#剃る-そる) — to shave
-- [削る (けずる)](vocab-17.md#削る-けずる) — to shave, plane, scrape off, cut down/reduce
-- [前例 (ぜんれい)](vocab-23.md#前例-ぜんれい) — precedent, previous example
-- [前半 (ぜんはん)](vocab-23.md#前半-ぜんはん) — the first half
-- [前後 (ぜんご)](vocab-23.md#前後-ぜんご) — before and after, around (approximately), the front and the rear
-- [前提 (ぜんてい)](vocab-23.md#前提-ぜんてい) — assumption, premise, precondition
-- [前者 (ぜんしゃ)](vocab-23.md#前者-ぜんしゃ) — the former (of two things mentioned)
-- [前途 (ぜんと)](vocab-23.md#前途-ぜんと) — future, prospects, the road ahead
-- [前進 (ぜんしん)](vocab-23.md#前進-ぜんしん) — an advance, to move forward, progress
-- [割に(も) (わりに)](vocab-36.md#割にも-わりに) — comparatively, relatively, considering (that)...
-- [割り当て (わりあて)](vocab-36.md#割り当て-わりあて) — allotment, assignment, quota
-- [割り込む (わりこむ)](vocab-36.md#割り込む-わりこむ) — to cut in, interrupt, butt in (a line, conversation, etc.)
-- [割る (わる)](vocab-36.md#割る-わる) — to divide, break, split, crack
-- [割引 (わりびき)](vocab-36.md#割引-わりびき) — discount
-- [創作 (そうさく)](vocab-24.md#創作-そうさく) — creation, to create (artistic/literary work)
-- [創刊 (そうかん)](vocab-23.md#創刊-そうかん) — first publication/issue (of a magazine or periodical)
-- [創立 (そうりつ)](vocab-24.md#創立-そうりつ) — founding, establishment (of an institution)
-- [劇 (げき)](vocab-17.md#劇-げき) — drama, a play; to stage a play
-- [劇団 (げきだん)](vocab-17.md#劇団-げきだん) — theatrical/dramatic company, troupe
-- [劇場 (げきじょう)](vocab-17.md#劇場-げきじょう) — a theater, an opera house
-- [力 (りょく)](vocab-36.md#力-りょく) — power, strength, ability (on'yomi reading, often used in compounds)
-- [加える (くわえる)](vocab-16.md#加える-くわえる) — to add, to join (something to a set/total); to inflict (e.g. damage)
-- [加わる (くわわる)](vocab-17.md#加わる-くわわる) — to increase, to join, to participate, to be added (to a group/total)
-- [加入 (かにゅう)](vocab-13.md#加入-かにゅう) — to join, become a member, enroll
-- [加担する (かたんする)](vocab-02.md#加担する-かたんする) — To lend support, be complicit (often in something wrongful)
-- [加減 (かげん)](vocab-12.md#加減-かげん) — adjustment, degree, condition (of health/state)
-- [加熱 (かねつ)](vocab-13.md#加熱-かねつ) — heating, applying heat
-- [劣る (おとる)](vocab-10.md#劣る-おとる) — to be inferior to
-- [助[け] (たすけ)](vocab-25.md#助け-たすけ) — help, rescue, relief, assistance
-- [助かる (たすかる)](vocab-25.md#助かる-たすかる) — to be saved, to be rescued, to be helped (also: to be relieved/grateful for h...
-- [助ける (たすける)](vocab-25.md#助ける-たすける) — to save, to rescue, to help, to assist
-- [助長 (じょちょう)](vocab-03.md#助長-じょちょう) — to reinforce (a bad tendency)
-- [努めて (つとめて)](vocab-28.md#努めて-つとめて) — to the best of one's ability, as much as possible, making an effort to
-- [努力 (どりょく)](vocab-30.md#努力-どりょく) — effort, endeavor
-- [励ます (はげます)](vocab-06.md#励ます-はげます) — encourage, cheer up
-- [励む (はげむ)](vocab-01.md#励む-はげむ) — to strive, work hard at
-- [労働 (ろうどう)](vocab-36.md#労働-ろうどう) — labor, work (especially physical or manual work, in an economic/social sense)
-- [労力 (ろうりょく)](vocab-36.md#労力-ろうりょく) — labor, effort, exertion (physical or mental work put into something)
-- [効力 (こうりょく)](vocab-19.md#効力-こうりょく) — effect, validity, efficacy
-- [勇敢 【ゆうかん】](vocab-05.md#勇敢-ゆうかん) — Brave, courageous (describing bold, fearless action or character).
-- [勇気 (ゆうき)](vocab-35.md#勇気-ゆうき) — courage, bravery
-- [動かす (うごかす)](vocab-08.md#動かす-うごかす) — to move, shift, budge, operate (a machine); to affect/move (emotionally)
-- [動き (うごき)](vocab-08.md#動き-うごき) — movement, motion; a trend, sign, development
-- [動揺 (どうよう)](vocab-29.md#動揺-どうよう) — agitation, shock, wavering (of emotion/mind)
-- [動機 (どうき)](vocab-04.md#動機-どうき) — Motive
-- [勘弁 (かんべん)](vocab-14.md#勘弁-かんべん) — pardon, forgiveness, to let off/spare
-- [募る (つのる)](vocab-29.md#募る-つのる) — to make an appeal for, to recruit, to solicit; to grow stronger/intensify (fe...
-- [勢力 (せいりょく)](vocab-22.md#勢力-せいりょく) — power, influence, force (especially of a group or natural phenomenon)
-- [勤/務/努める (つとめる)](vocab-29.md#勤務努める-つとめる) — to work, to serve, to try, to endeavor
-- [勤まる (つとまる)](vocab-28.md#勤まる-つとまる) — to be fit for, to be qualified for (a job/role), to be able to serve in a pos...
-- [勤め/務め (つとめ)](vocab-28.md#勤め務め-つとめ) — a job, work, one's duty
-- [勤め先 (つとめさき)](vocab-28.md#勤め先-つとめさき) — one's place of employment, workplace
-- [勤労 (きんろう)](vocab-15.md#勤労-きんろう) — labor, work (especially as a societal/civic value)
-- [勤勉 (きんべん)](vocab-15.md#勤勉-きんべん) — diligence; diligent, hardworking
-- [勤務 (きんむ)](vocab-15.md#勤務-きんむ) — service, duty, work (at a job, specifically the act of being employed/on duty)
-- [勧告 (かんこく)](vocab-13.md#勧告-かんこく) — advice, counsel, recommendation (often official)
-- [勧誘 (かんゆう)](vocab-01.md#勧誘-かんゆう) — solicitation, invitation (to join)
-- [勿体ない (もったいない)](vocab-34.md#勿体ない-もったいない) — wasteful, a shame/waste (of something valuable)
-- [匂い (におい)](vocab-30.md#匂い-におい) — a smell, scent, odor
-- [匂う (におう)](vocab-30.md#匂う-におう) — to smell, to be fragrant (or to smell bad, depending on context)
-- [包み (つつみ)](vocab-28.md#包み-つつみ) — a wrap, a package, a bundle
-- [包む (つつむ)](vocab-28.md#包む-つつむ) — to wrap
-- [包丁 (ほうちょう)](vocab-32.md#包丁-ほうちょう) — a kitchen knife
-- [包装 (ほうそう)](vocab-32.md#包装-ほうそう) — packing, wrapping, packaging
-- [化合 (かごう)](vocab-13.md#化合-かごう) — chemical combination, chemical bonding
-- [化学 (かがく)](vocab-12.md#化学-かがく) — chemistry
-- [化粧 (けしょう)](vocab-17.md#化粧-けしょう) — makeup; to put on makeup
-- [匹敵 (ひってき)](vocab-01.md#匹敵-ひってき) — being a match for, comparable to
-- [区 (く)](vocab-15.md#区-く) — a ward (an administrative district, as in Tokyo's wards)
-- [区分(する) (くぶん)](vocab-16.md#区分する-くぶん) — division, classification, sorting (into categories)
-- [区切り (くぎり)](vocab-16.md#区切り-くぎり) — a break, a pause, a natural dividing point or end (of a task, period, or piec...
-- [区切る (くぎる)](vocab-16.md#区切る-くぎる) — to partition, divide, punctuate (mark off sections)
-- [区別(する) (くべつ)](vocab-16.md#区別する-くべつ) — a difference, a distinction; to distinguish, to discriminate (between things)
-- [区域 (くいき)](vocab-15.md#区域-くいき) — an area, a district, a zone (often officially designated)
-- [区画 (くかく)](vocab-16.md#区画-くかく) — division, section, block (especially of land, as in city planning)
-- [区間 (くかん)](vocab-16.md#区間-くかん) — a section, a segment (especially of a route, railway line, or road)
-- [医療 (いりょう)](vocab-07.md#医療-いりょう) — medical treatment/care, healthcare
-- [匿名性 (とくめいせい)](vocab-03.md#匿名性-とくめいせい) — anonymity
-- [十 (じゅう)](vocab-20.md#十-じゅう) — ten; a great number (figuratively)
-- [卑しい (いやしい)](vocab-07.md#卑しい-いやしい) — greedy, vulgar, mean, shabby, low (in status or character)
-- [卒業(する) (そつぎょう)](vocab-24.md#卒業する-そつぎょう) — to graduate (from)
-- [協力 (きょうりょく)](vocab-15.md#協力-きょうりょく) — cooperation, collaboration
-- [協定 (きょうてい)](vocab-15.md#協定-きょうてい) — an agreement, pact, treaty (often formal, between organizations or countries)
-- [協議 (きょうぎ)](vocab-02.md#協議-きょうぎ) — Consultation, conference (discussion to reach a decision)
-- [南極 (なんきょく)](vocab-30.md#南極-なんきょく) — the South Pole, Antarctica/Antarctic
-- [南米 (なんべい)](vocab-30.md#南米-なんべい) — South America
-- [単なる~ (たんなる~)](vocab-26.md#単なる-たんなる) — mere, simple, pure (used to downplay or minimize something, always attributiv...
-- [単に (たんに)](vocab-26.md#単に-たんに) — only, merely, simply (used before verbs/clauses)
-- [単一 (たんいつ)](vocab-26.md#単一-たんいつ) — single, sole, independent, unitary
-- [単位 (たんい)](vocab-26.md#単位-たんい) — a unit (of measurement), an academic credit
-- [単数 (たんすう)](vocab-26.md#単数-たんすう) — the singular (grammatical number)
-- [単独 (たんどく)](vocab-26.md#単独-たんどく) — single, sole, acting alone, independent
-- [単純 (たんじゅん)](vocab-26.md#単純-たんじゅん) — simple, simplicity (often implying overly simple or simplistic)
-- [単語 (たんご)](vocab-26.md#単語-たんご) — a word, vocabulary (as a linguistic unit)
-- [占う (うらなう)](vocab-08.md#占う-うらなう) — to tell fortunes, to divine
-- [占領 (せんりょう)](vocab-23.md#占領-せんりょう) — occupation (military), to occupy
-- [印 (しるし)](vocab-21.md#印-しるし) — mark, sign, proof, symbol
-- [印刷 (いんさつ)](vocab-07.md#印刷-いんさつ) — printing, typography; to print
-- [印象 (いんしょう)](vocab-07.md#印象-いんしょう) — impression (the feeling/image left by something or someone)
-- [印鑑 (いんかん)](vocab-02.md#印鑑-いんかん) — Seal, stamp (personal name seal)
-- [危惧する 【きぐする】](vocab-05.md#危惧する-きぐする) — To fear, be concerned/apprehensive about a possible negative outcome.
-- [即する (そくする)](vocab-24.md#即する-そくする) — to match, conform to, be adapted to (a situation/reality)
-- [即座に (そくざに)](vocab-24.md#即座に-そくざに) — immediately, on the spot, instantly
-- [却って (かえって)](vocab-12.md#却って-かえって) — on the contrary, rather, contrary to expectation
-- [卸す (おろす)](vocab-02.md#卸す-おろす) — To sell wholesale
-- [厄介 (やっかい)](vocab-34.md#厄介-やっかい) — troublesome, burdensome, a nuisance
-- [原作 (げんさく)](vocab-02.md#原作-げんさく) — Original work (the book/film that an adaptation is based on)
-- [原則 (げんそく)](vocab-18.md#原則-げんそく) — principle, general rule
-- [原因 (げんいん)](vocab-18.md#原因-げんいん) — cause, origin, factor
-- [原型/原形 (げんけい)](vocab-18.md#原型原形-げんけい) — model, prototype, archetype, original form
-- [原始 (げんし)](vocab-18.md#原始-げんし) — primitive, primeval; primitive man/age
-- [原書 (げんしょ)](vocab-18.md#原書-げんしょ) — the original text/book (as opposed to a translation)
-- [原産 (げんさん)](vocab-18.md#原産-げんさん) — native (to a place), place of origin
-- [原稿 (げんこう)](vocab-18.md#原稿-げんこう) — a manuscript, a draft, notes (for a speech/writing)
-- [厳か (おごそか)](vocab-10.md#厳か-おごそか) — solemn, stately, dignified
-- [厳しい (きびしい)](vocab-02.md#厳しい-きびしい) — Strict, severe
-- [厳重 (げんじゅう)](vocab-18.md#厳重-げんじゅう) — strict, severe, rigorous (especially of security/checks)
-- [及び (および)](vocab-11.md#及び-および) — and, as well as (formal conjunction linking nouns)
-- [及ぶ (およぶ)](vocab-01.md#及ぶ-およぶ) — to reach, extend to, amount to
-- [及ぼす (およぼす)](vocab-11.md#及ぼす-およぼす) — to exert (an influence on), to cause (an effect), to bring about
-- [友人 (ゆうじん)](vocab-35.md#友人-ゆうじん) — friend, companion (formal register)
-- [友好 (ゆうこう)](vocab-35.md#友好-ゆうこう) — friendship, amity (especially between groups/nations)
-- [友情 (ゆうじょう)](vocab-35.md#友情-ゆうじょう) — friendship (between individuals)
-- [反射 (はんしゃ)](vocab-01.md#反射-はんしゃ) — reflection, reflex
-- [収まる/納まる/治まる (おさまる)](vocab-10.md#収まる納まる治まる-おさまる) — to be settled, to fit in, to calm down
-- [収める/治める/納める (おさめる)](vocab-10.md#収める治める納める-おさめる) — to put away, obtain; to govern; to pay, supply
-- [収入 (しゅうにゅう)](vocab-20.md#収入-しゅうにゅう) — income, earnings, revenue
-- [収容 (しゅうよう)](vocab-20.md#収容-しゅうよう) — to accommodate, to hold (capacity), to house/contain
-- [収拾 (しゅうしゅう)](vocab-20.md#収拾-しゅうしゅう) — to bring under control, to settle (a chaotic situation)
-- [収益 (しゅうえき)](vocab-20.md#収益-しゅうえき) — profit, earnings, revenue (net gain from business)
-- [収穫 (しゅうかく)](vocab-20.md#収穫-しゅうかく) — harvest, crop, yield (also figuratively: a valuable gain/achievement)
-- [取り上げる (とりあげる)](vocab-30.md#取り上げる-とりあげる) — to pick up, take away, confiscate; to take up (a topic)
-- [取り付ける (とりつける)](vocab-30.md#取り付ける-とりつける) — to fit, install, set up; to obtain/arrange (an agreement)
-- [取り入れる (とりいれる)](vocab-30.md#取り入れる-とりいれる) — to take in, incorporate, introduce, adopt
-- [取り出す (とりだす)](vocab-30.md#取り出す-とりだす) — to take out, pull out, produce
-- [取り引き (とりひき)](vocab-30.md#取り引き-とりひき) — transaction, dealings, trade
-- [取り扱い (とりあつかい)](vocab-30.md#取り扱い-とりあつかい) — handling, treatment, management (of goods, matters, or people)
-- [取り扱い 【とりあつかい】](vocab-05.md#取り扱い-とりあつかい) — Handling, treatment (of goods, items, or matters — both physical handling and...
-- [取り扱う (とりあつかう)](vocab-30.md#取り扱う-とりあつかう) — to treat, handle, deal with (goods, matters, people)
-- [取り掛かる (とりかかる)](vocab-30.md#取り掛かる-とりかかる) — to set about, embark on, start working on
-- [取り替える (とりかえる)](vocab-30.md#取り替える-とりかえる) — to exchange something for another, to replace
-- [取り柄 (とりえ)](vocab-30.md#取り柄-とりえ) — a redeeming feature, good point, strong point
-- [取り消す (とりけす)](vocab-30.md#取り消す-とりけす) — to cancel, withdraw, revoke
-- [取り立てる (とりたてる)](vocab-30.md#取り立てる-とりたてる) — to collect (debts), to exact, to promote (someone)
-- [取り組む (とりくむ)](vocab-30.md#取り組む-とりくむ) — to grapple with, tackle, work hard at (a task/problem)
-- [取り締まり (とりしまり)](vocab-30.md#取り締まり-とりしまり) — control, crackdown, regulation (esp. of crime/traffic)
-- [取り締まる (とりしまる)](vocab-30.md#取り締まる-とりしまる) — to manage, control, regulate, crack down on
-- [取り調べる (とりしらべる)](vocab-30.md#取り調べる-とりしらべる) — to investigate, examine, interrogate
-- [取り返す (とりかえす)](vocab-30.md#取り返す-とりかえす) — to take back, recover, regain
-- [取り除く (とりのぞく)](vocab-30.md#取り除く-とりのぞく) — to remove, to get rid of
-- [取れる (とれる)](vocab-30.md#取れる-とれる) — to come off, to be removable, to be obtainable/available
-- [受かる (うかる)](vocab-08.md#受かる-うかる) — to succeed/pass (an examination)
-- [受け付ける (うけつける)](vocab-08.md#受け付ける-うけつける) — to accept, receive (applications, requests); to listen to/tolerate
-- [受け入れ (うけいれ)](vocab-08.md#受け入れ-うけいれ) — acceptance, reception (of people, applications, ideas)
-- [受け入れる (うけいれる)](vocab-08.md#受け入れる-うけいれる) — to receive, accept, grant, admit (people, conditions, ideas)
-- [受け取り (うけとり)](vocab-08.md#受け取り-うけとり) — accepting, receiving; a receipt
-- [受け取る (うけとる)](vocab-08.md#受け取る-うけとる) — to receive, get, accept; to interpret (a remark) in a certain way
-- [受け持ち (うけもち)](vocab-08.md#受け持ち-うけもち) — being in charge (of something); one's area of responsibility
-- [受け持つ (うけもつ)](vocab-08.md#受け持つ-うけもつ) — to be in charge of, handle, manage (a task, class, role)
-- [受け止める (うけとめる)](vocab-08.md#受け止める-うけとめる) — to catch, stop, take (a physical or emotional impact); to come to terms with
-- [受け継ぐ (うけつぐ)](vocab-08.md#受け継ぐ-うけつぐ) — to take over, inherit, carry on (a tradition, role, trait)
-- [受け身 (うけみ)](vocab-08.md#受け身-うけみ) — passive voice (grammar); a passive/defensive stance or attitude
-- [口ずさむ (くちずさむ)](vocab-16.md#口ずさむ-くちずさむ) — to hum, to croon, to sing softly/casually to oneself
-- [口実 (こうじつ)](vocab-18.md#口実-こうじつ) — an excuse, pretext
-- [口紅 (くちべに)](vocab-16.md#口紅-くちべに) — lipstick
-- [口調 (くちょう)](vocab-03.md#口調-くちょう) — tone, manner of speaking
-- [口述 (こうじゅつ)](vocab-18.md#口述-こうじゅつ) — to state orally, to dictate
-- [口頭 (こうとう)](vocab-03.md#口頭-こうとう) — oral
-- [叩く (たたく)](vocab-26.md#叩く-たたく) — to beat, to knock, to tap, to hit (repeatedly)
-- [叩く (はたく)](vocab-31.md#叩く-はたく) — to dust off, beat, strike (lightly, e.g. to remove dust)
-- [只/唯 (ただ)](vocab-26.md#只唯-ただ) — ordinary, common; (adverb) merely, simply, just, only; free (of charge)
-- [只管 (ひたすら)](vocab-01.md#只管-ひたすら) — intently, single-mindedly, devotedly, solely, earnestly
-- [召し使い (めしつかい)](vocab-34.md#召し使い-めしつかい) — a servant
-- [召す (めす)](vocab-19.md#召す-めす) — to wear/eat/drink (honorific), to be pleased, to summon
-- [可 (か)](vocab-11.md#可-か) — may, passable, fair (grade); permissible, acceptable
-- [可決 (かけつ)](vocab-12.md#可決-かけつ) — approval, passage (of a bill/motion)
-- [可能 (かのう)](vocab-13.md#可能-かのう) — possible
-- [台本 (だいほん)](vocab-25.md#台本-だいほん) — script, screenplay, scenario
-- [台無し (だいなし)](vocab-25.md#台無し-だいなし) — spoiled, ruined, come to nothing
-- [台詞 (せりふ)](vocab-23.md#台詞-せりふ) — one's lines, dialogue, words (in a play/movie)
-- [叱る (しかる)](vocab-19.md#叱る-しかる) — to scold
-- [叶う (かなう)](vocab-13.md#叶う-かなう) — to come true (of a wish), to be realized, to be granted
-- [叶える (かなえる)](vocab-13.md#叶える-かなえる) — to grant, to fulfill (a wish), to make (a dream) come true
-- [司る (つかさどる)](vocab-28.md#司る-つかさどる) — to control, to take charge of, to govern, to administer
-- [司会 (しかい)](vocab-19.md#司会-しかい) — to preside, to emcee; master of ceremonies, chairperson
-- [各~ (かく~)](vocab-12.md#各-かく) — each, every (prefix attached to nouns)
-- [各々 (おのおの)](vocab-10.md#各々-おのおの) — each, every one, respectively
-- [各地 (かくち)](vocab-12.md#各地-かくち) — various places, every region
-- [各種 (かくしゅ)](vocab-12.md#各種-かくしゅ) — all kinds, various types, assorted
-- [各自 (かくじ)](vocab-12.md#各自-かくじ) — each person, everyone individually
-- [合わせ (あわせ)](vocab-07.md#合わせ-あわせ) — combination, matching (noun/suffix)
-- [合わせる (あわせる)](vocab-07.md#合わせる-あわせる) — to combine, put together, match, adjust (to align with something)
-- [合併 (がっぺい)](vocab-04.md#合併-がっぺい) — Merger, combination
-- [合同 (ごうどう)](vocab-19.md#合同-ごうどう) — combination, union, joint (as in combined effort)
-- [合図 (あいず)](vocab-06.md#合図-あいず) — a signal, a sign, a cue
-- [合成 (ごうせい)](vocab-18.md#合成-ごうせい) — composition, synthesis
-- [合格(する) (ごうかく)](vocab-18.md#合格する-ごうかく) — to pass an examination, to meet a standard
-- [合流(する) (ごうりゅう)](vocab-19.md#合流する-ごうりゅう) — confluence, joining, merging (of rivers, roads, groups)
-- [合理 (ごうり)](vocab-19.md#合理-ごうり) — rationality; rational, reasonable
-- [合計(する) (ごうけい)](vocab-18.md#合計する-ごうけい) — the sum total; to add up, total
-- [合議 (ごうぎ)](vocab-18.md#合議-ごうぎ) — consultation, joint deliberation (e.g., of judges)
-- [合間 (あいま)](vocab-06.md#合間-あいま) — an interval, a break, spare moments
-- [同い年 (おないどし)](vocab-10.md#同い年-おないどし) — the same age
-- [同一 (どういつ)](vocab-29.md#同一-どういつ) — sameness, identity, being identical
-- [同僚 (どうりょう)](vocab-29.md#同僚-どうりょう) — a colleague, fellow worker
-- [同居 (どうきょ)](vocab-29.md#同居-どうきょ) — living together, cohabitation
-- [同意 (どうい)](vocab-29.md#同意-どうい) — agreement, consent, approval
-- [同感 (どうかん)](vocab-29.md#同感-どうかん) — sympathy, agreement (sharing the same feeling/opinion)
-- [同格 (どうかく)](vocab-29.md#同格-どうかく) — the same rank/status; apposition (grammar term)
-- [同盟 (どうめい)](vocab-29.md#同盟-どうめい) — alliance, union
-- [同級生 (どうきゅうせい)](vocab-29.md#同級生-どうきゅうせい) — classmate
-- [名付ける (なづける)](vocab-30.md#名付ける-なづける) — to name, to call (something/someone)
-- [名残 (なごり)](vocab-30.md#名残-なごり) — a lingering feeling, traces/aftereffects (of something past)
-- [名残 【なごり】](vocab-05.md#名残-なごり) — Remnant, lingering trace (of something past); also the lingering feeling of r...
-- [名簿 【めいぼ】](vocab-05.md#名簿-めいぼ) — Register, roster, list of names (e.g., a class roster, membership list, atten...
-- [名高い (なだかい)](vocab-30.md#名高い-なだかい) — famous, well-known, renowned
-- [君主 (くんしゅ)](vocab-17.md#君主-くんしゅ) — a monarch, a sovereign, a ruler
-- [吟味 (ぎんみ)](vocab-02.md#吟味-ぎんみ) — Careful examination, scrutiny
-- [吸う (すう)](vocab-22.md#吸う-すう) — to inhale, smoke (a cigarette), suck in
-- [吸収 (きゅうしゅう)](vocab-15.md#吸収-きゅうしゅう) — absorption, assimilation
-- [呆れる (あきれる)](vocab-06.md#呆れる-あきれる) — to be amazed, dumbfounded, exasperated, disgusted (at something foolish/outra...
-- [告げる (つげる)](vocab-28.md#告げる-つげる) — to tell, to announce, to declare, to say goodbye (to)
-- [告白 (こくはく)](vocab-03.md#告白-こくはく) — confession
-- [呟く (つぶやく)](vocab-04.md#呟く-つぶやく) — To mutter
-- [周囲 (しゅうい)](vocab-20.md#周囲-しゅうい) — surroundings, circumference, those around one
-- [周期 (しゅうき)](vocab-20.md#周期-しゅうき) — cycle, period (recurring interval)
-- [周辺 (しゅうへん)](vocab-20.md#周辺-しゅうへん) — periphery, surrounding area, vicinity
-- [味わい (あじわい)](vocab-06.md#味わい-あじわい) — flavor, relish, an interesting/appealing quality
-- [味わう (あじわう)](vocab-06.md#味わう-あじわう) — to taste, enjoy, appreciate, savor (food or experience)
-- [呼びかける (よびかける)](vocab-33.md#呼びかける-よびかける) — to call out to, to appeal to
-- [呼び止める (よびとめる)](vocab-33.md#呼び止める-よびとめる) — to call out and stop (someone)
-- [呼ぶ (よぶ)](vocab-33.md#呼ぶ-よぶ) — to call (someone's name, to invite, to summon)
-- [命 (いのち)](vocab-07.md#命-いのち) — life (as in a living being's existence)
-- [和 (わ)](vocab-36.md#和-わ) — peace, harmony; Japanese-style (prefix, as in 和食, 和室)
-- [和らげる (やわらげる)](vocab-34.md#和らげる-やわらげる) — to soften, relieve, ease, mitigate, modify
-- [和文 (わぶん)](vocab-36.md#和文-わぶん) — Japanese-language text/writing
-- [和服 (わふく)](vocab-36.md#和服-わふく) — Japanese clothing, kimono
-- [和英 (わえい)](vocab-36.md#和英-わえい) — Japanese and English (e.g. a Japanese-English dictionary)
-- [和風 (わふう)](vocab-36.md#和風-わふう) — Japanese style
-- [咳 (せき)](vocab-23.md#咳-せき) — a cough
-- [哀れ (あわれ)](vocab-07.md#哀れ-あわれ) — pity, pitiful, miserable (noun/na-adjective)
-- [品質 (ひんしつ)](vocab-32.md#品質-ひんしつ) — quality (of goods/products)
-- [哲学 (てつがく)](vocab-29.md#哲学-てつがく) — philosophy
-- [唇 (くちびる)](vocab-16.md#唇-くちびる) — a lip, one's lips
-- [唯 (たった)](vocab-26.md#唯-たった) — only, just, merely (emphasizing a small amount)
-- [唯一 (ゆいいつ)](vocab-34.md#唯一-ゆいいつ) — only, sole, unique
-- [唱える (となえる)](vocab-30.md#唱える-となえる) — to recite, chant; to advocate, proclaim (an opinion/theory)
-- [唾 (つば)](vocab-29.md#唾-つば) — saliva, spittle, spit
-- [商 (しょう)](vocab-21.md#商-しょう) — quotient (in division)
-- [問い合わせ (といあわせ)](vocab-29.md#問い合わせ-といあわせ) — an inquiry
-- [問屋 (とんや)](vocab-04.md#問屋-とんや) — Wholesaler
-- [啓蒙する (けいもうする)](vocab-03.md#啓蒙する-けいもうする) — to enlighten, educate
-- [善 (ぜん)](vocab-23.md#善-ぜん) — goodness, good, virtue
-- [善し悪し (よしあし)](vocab-36.md#善し悪し-よしあし) — good and bad (points), merits and demerits, whether something is good or bad
-- [善良 (ぜんりょう)](vocab-04.md#善良-ぜんりょう) — Good-natured
-- [喜び/歓び (よろこび)](vocab-36.md#喜び歓び-よろこび) — joy, pleasure, happiness, delight
-- [喜ぶ/歓ぶ (よろこぶ)](vocab-36.md#喜ぶ歓ぶ-よろこぶ) — to be glad, be pleased, rejoice
-- [喪失 (そうしつ)](vocab-24.md#喪失-そうしつ) — loss, to lose (something abstract, e.g. memory, confidence)
-- [喫茶 (きっさ)](vocab-14.md#喫茶-きっさ) — tea drinking; a coffee shop (as in 喫茶店)
-- [営む (いとなむ)](vocab-07.md#営む-いとなむ) — to carry on (a business); to lead/conduct (a life, ceremony)
-- [営業 (えいぎょう)](vocab-09.md#営業-えいぎょう) — business operations, sales (as a job function)
-- [嗅ぐ (かぐ)](vocab-12.md#嗅ぐ-かぐ) — to smell, to sniff (at something)
-- [嗜好 (しこう)](vocab-19.md#嗜好-しこう) — taste(s), preference, inclination
-- [嘘つき (うそつき)](vocab-08.md#嘘つき-うそつき) — a liar
-- [嘲笑う (あざわらう)](vocab-06.md#嘲笑う-あざわらう) — to laugh at, ridicule, make fun of (with contempt)
-- [噂 (うわさ)](vocab-08.md#噂-うわさ) — gossip, a rumor
-- [器 (うつわ)](vocab-08.md#器-うつわ) — a container, a vessel, a bowl/dish; (figuratively) one's capacity/caliber
-- [器用 (きよう)](vocab-15.md#器用-きよう) — clever, dexterous, skillful (with one's hands or at handling tasks)
-- [噴出 (ふんしゅつ)](vocab-32.md#噴出-ふんしゅつ) — eruption, spouting, gushing out
-- [噴水 (ふんすい)](vocab-32.md#噴水-ふんすい) — a fountain
-- [四 (よん)](vocab-33.md#四-よん) — four
-- [四つ角 (よつかど)](vocab-32.md#四つ角-よつかど) — a street corner, crossroads, intersection
-- [四つ角/交差点 【よつかど/こうさてん】](vocab-05.md#四つ角交差点-よつかどこうさてん) — Intersection, crossroads (where streets cross).
-- [四日 (よっか)](vocab-32.md#四日-よっか) — the 4th (of the month), four days
-- [四角い (しかくい)](vocab-19.md#四角い-しかくい) — square (shape), rectangular, boxy
-- [回収 (かいしゅう)](vocab-12.md#回収-かいしゅう) — collection, retrieval, recall/withdrawal (of products, money, etc.)
-- [回復 (かいふく)](vocab-11.md#回復-かいふく) — restoration, recovery (of health, economy, relations)
-- [回数 (かいすう)](vocab-12.md#回数-かいすう) — the number of times, frequency
-- [回数券 (かいすうけん)](vocab-12.md#回数券-かいすうけん) — a coupon book, book of discount tickets (e.g. for trains, buses)
-- [回覧 (かいらん)](vocab-11.md#回覧-かいらん) — circulation (of a document among a group)
-- [回転 (かいてん)](vocab-11.md#回転-かいてん) — revolution, rotation; turnover (of business/stock)
-- [回避する (かいひする)](vocab-03.md#回避する-かいひする) — to avoid
-- [因って/依って (よって)](vocab-32.md#因って依って-よって) — accordingly, therefore, because of, due to
-- [団体 (だんたい)](vocab-26.md#団体-だんたい) — a group, an organization, a party/body (of people)
-- [団地 (だんち)](vocab-26.md#団地-だんち) — a housing complex, a (public) housing development
-- [団扇 (うちわ)](vocab-08.md#団扇-うちわ) — a (hand-held, flat) fan
-- [囲む (かこむ)](vocab-13.md#囲む-かこむ) — to surround, to encircle
-- [図々しい (ずうずうしい／ずーずーしい)](vocab-01.md#図々しい-ずうずうしいずーずーしい) — impudent, shameless, brazen, forward, audacious, cheeky
-- [園芸 (えんげい)](vocab-09.md#園芸-えんげい) — gardening
-- [土 (つち)](vocab-28.md#土-つち) — earth, soil, ground, dirt
-- [土曜 (どよう)](vocab-30.md#土曜-どよう) — Saturday
-- [土木 (どぼく)](vocab-30.md#土木-どぼく) — civil engineering, construction (of infrastructure)
-- [在庫 (ざいこ)](vocab-04.md#在庫-ざいこ) — Inventory
-- [地下 (ちか)](vocab-27.md#地下-ちか) — underground, basement
-- [地下水 (ちかすい)](vocab-27.md#地下水-ちかすい) — groundwater
-- [地下鉄 (ちかてつ)](vocab-27.md#地下鉄-ちかてつ) — subway, underground railway
-- [地位 (ちい)](vocab-27.md#地位-ちい) — rank, position, status (social or professional)
-- [地名 (ちめい)](vocab-27.md#地名-ちめい) — a place name
-- [地味 (じみ)](vocab-04.md#地味-じみ) — Plain, subdued
-- [地域 (ちいき)](vocab-27.md#地域-ちいき) — an area, a region, a district
-- [地帯 (ちたい)](vocab-27.md#地帯-ちたい) — a zone, belt, area
-- [地平線 (ちへいせん)](vocab-27.md#地平線-ちへいせん) — the horizon (over land)
-- [地方 (ちほう)](vocab-27.md#地方-ちほう) — a district, region, the provinces (as opposed to the capital/city)
-- [地点 (ちてん)](vocab-27.md#地点-ちてん) — a spot, a point (location)
-- [地獄 (じごく)](vocab-19.md#地獄-じごく) — hell
-- [地質 (ちしつ)](vocab-27.md#地質-ちしつ) — geology, the nature/composition of the soil or ground
-- [地震 (じしん)](vocab-20.md#地震-じしん) — earthquake
-- [均衡 (きんこう)](vocab-02.md#均衡-きんこう) — Balance, equilibrium
-- [垂れる (たれる)](vocab-26.md#垂れる-たれる) — to hang down, to sag, to drip/drop
-- [垢 (あか)](vocab-06.md#垢-あか) — dirt, grime (especially from skin)
-- [垣根 (かきね)](vocab-02.md#垣根-かきね) — Fence, hedge
-- [埋まる (うまる)](vocab-08.md#埋まる-うまる) — to be buried, to be filled up
-- [埋める (うずめる)](vocab-08.md#埋める-うずめる) — to bury, to nestle into, to lay low
-- [埋める (うめる)](vocab-08.md#埋める-うめる) — to bury, to fill in, to make up for
-- [埋め込む (うめこむ)](vocab-08.md#埋め込む-うめこむ) — to embed, to implant
-- [城 (しろ)](vocab-21.md#城-しろ) — castle
-- [城下町 (じょうかまち)](vocab-21.md#城下町-じょうかまち) — castle town (a town that developed around a feudal castle)
-- [執着 (しゅうちゃく)](vocab-02.md#執着-しゅうちゃく) — Attachment, obsession
-- [執着 (しゅうちゃく／しゅうじゃく)](vocab-01.md#執着-しゅうちゃくしゅうじゃく) — attachment, adhesion, insistence, tenacity, fixation, obsession
-- [執筆 (しっぴつ)](vocab-04.md#執筆-しっぴつ) — Writing (a manuscript)
-- [基地 (きち)](vocab-14.md#基地-きち) — a base, military base
-- [基本 (きほん)](vocab-14.md#基本-きほん) — a basis, foundation, the fundamentals
-- [基盤 (きばん)](vocab-14.md#基盤-きばん) — a base, foundation (often figurative, structural)
-- [報いる 【むくいる】](vocab-05.md#報いる-むくいる) — To repay, reward, requite (an act of kindness, effort, or sometimes a wrong —...
-- [報告 (ほうこく)](vocab-32.md#報告-ほうこく) — report, to inform/report (on a matter)
-- [報道 (ほうどう)](vocab-32.md#報道-ほうどう) — news, report, media coverage
-- [報酬 【ほうしゅう】](vocab-05.md#報酬-ほうしゅう) — Reward, compensation, remuneration (payment for work, service, or achievement).
-- [塔 (とう)](vocab-29.md#塔-とう) — a tower, a pagoda
-- [塩辛い (しおからい)](vocab-19.md#塩辛い-しおからい) — salty
-- [塵取り (ちりとり)](vocab-28.md#塵取り-ちりとり) — dustpan
-- [塵紙 (ちりがみ)](vocab-28.md#塵紙-ちりがみ) — tissue paper, (coarse) toilet paper
-- [境地 (きょうち)](vocab-03.md#境地-きょうち) — state of mind
-- [境界 (きょうかい)](vocab-15.md#境界-きょうかい) — a boundary, border, dividing line
-- [境遇 (きょうぐう)](vocab-15.md#境遇-きょうぐう) — one's circumstances, environment, lot in life (often used for difficult or no...
-- [墓 (はか)](vocab-31.md#墓-はか) — a grave, a tomb
-- [増加 (ぞうか)](vocab-23.md#増加-ぞうか) — an increase, to increase, to grow
-- [増大 (ぞうだい)](vocab-24.md#増大-ぞうだい) — an increase, to increase (often in scale/magnitude)
-- [増強 (ぞうきょう)](vocab-24.md#増強-ぞうきょう) — reinforcement, buildup, to strengthen/augment
-- [増減 (ぞうげん)](vocab-24.md#増減-ぞうげん) — increase and/or decrease, fluctuation
-- [墜落 (ついらく)](vocab-28.md#墜落-ついらく) — a fall, a crash (especially of aircraft), to drop
-- [壮大 (そうだい)](vocab-24.md#壮大-そうだい) — magnificent, grand, grandiose (na-adjective)
-- [声明 (せいめい)](vocab-04.md#声明-せいめい) — Declaration, statement
-- [売り上げ (うりあげ)](vocab-08.md#売り上げ-うりあげ) — sales, sales revenue, proceeds
-- [売り出し (うりだし)](vocab-08.md#売り出し-うりだし) — a (bargain/promotional) sale, a launch onto the market
-- [売り出す (うりだす)](vocab-08.md#売り出す-うりだす) — to put on the market, to launch (a product), to begin selling
-- [売り切れ (うりきれ)](vocab-08.md#売り切れ-うりきれ) — sold out
-- [売り切れる (うりきれる)](vocab-08.md#売り切れる-うりきれる) — to be sold out, to sell out completely
-- [売れる (うれる)](vocab-08.md#売れる-うれる) — to sell, to be sold; to become popular
-- [売れ行き (うれゆき)](vocab-08.md#売れ行き-うれゆき) — sales (trend), how well something is selling
-- [売店 (ばいてん)](vocab-31.md#売店-ばいてん) — a small shop, kiosk, newsstand (often inside a station or facility)
-- [売買 (ばいばい)](vocab-31.md#売買-ばいばい) — buying and selling, trade, trading
-- [夕べ (ゆうべ)](vocab-35.md#夕べ-ゆうべ) — an evening; last night
-- [夕刊 (ゆうかん)](vocab-35.md#夕刊-ゆうかん) — an evening paper (newspaper edition)
-- [夕日 (ゆうひ)](vocab-35.md#夕日-ゆうひ) — the setting sun
-- [夕暮れ (ゆうぐれ)](vocab-35.md#夕暮れ-ゆうぐれ) — evening, dusk, twilight
-- [夕焼け (ゆうやけ)](vocab-35.md#夕焼け-ゆうやけ) — the glow of the sky at sunset, afterglow
-- [夕立 (ゆうだち)](vocab-35.md#夕立-ゆうだち) — a sudden shower (typically in summer evening)
-- [外~ (がい~)](vocab-12.md#外-がい) — outside-, foreign- (prefix, e.g., 外貨 foreign currency, 外見 outward appearance)
-- [外す (はずす)](vocab-31.md#外す-はずす) — to take off, remove, undo, miss (a target), to step away
-- [外らす (そらす)](vocab-24.md#外らす-そらす) — to turn aside, avert, look away from, dodge
-- [外交 (がいこう)](vocab-12.md#外交-がいこう) — diplomacy
-- [外出 (がいしゅつ)](vocab-12.md#外出-がいしゅつ) — going out, leaving the house
-- [外方 (そっぽ)](vocab-24.md#外方-そっぽ) — to look the other way, turn away, ignore (in the idiom そっぽを向く)
-- [外来 (がいらい)](vocab-11.md#外来-がいらい) — foreign, coming from outside; outpatient (medical)
-- [外相 (がいしょう)](vocab-12.md#外相-がいしょう) — Minister/Secretary of Foreign Affairs, Foreign Minister
-- [外観 (がいかん)](vocab-12.md#外観-がいかん) — outward appearance, exterior
-- [外貨 (がいか)](vocab-12.md#外貨-がいか) — foreign currency
-- [外部 (かいぶ)](vocab-11.md#外部-かいぶ) — the outside, external (part)
-- [多少 (たしょう)](vocab-25.md#多少-たしょう) — a little, some, to a small extent; (lit.) amount/quantity
-- [多忙 (たぼう)](vocab-26.md#多忙-たぼう) — (very) busy, swamped with work
-- [多数決 (たすうけつ)](vocab-25.md#多数決-たすうけつ) — decision by majority vote
-- [多様 (たよう)](vocab-26.md#多様-たよう) — various, diverse
-- [夜 (よ)](vocab-35.md#夜-よ) — a night, evening
-- [夜 (よる)](vocab-36.md#夜-よる) — night, evening
-- [夜中 (よなか)](vocab-33.md#夜中-よなか) — midnight, the dead of night
-- [夜明け (よあけ)](vocab-35.md#夜明け-よあけ) — dawn, daybreak
-- [夜更かし (よふかし)](vocab-06.md#夜更かし-よふかし) — staying up late
-- [夜更け (よふけ)](vocab-36.md#夜更け-よふけ) — late at night, the dead of night
-- [大~ (おお~)](vocab-09.md#大-おお) — big, large, loud, great (prefix)
-- [大いに (おおいに)](vocab-09.md#大いに-おおいに) — very (much), greatly
-- [大げさ (おおげさ)](vocab-03.md#大げさ-おおげさ) — exaggerated
-- [大した (たいした)](vocab-25.md#大した-たいした) — great, remarkable, considerable (often used before a noun, frequently in nega...
-- [大して (たいして)](vocab-25.md#大して-たいして) — (not) very, (not) so much — used with negative predicates
-- [大まかな (おおまかな)](vocab-10.md#大まかな-おおまかな) — rough, broad, approximate
-- [大人しい (おとなしい)](vocab-10.md#大人しい-おとなしい) — obedient, gentle, quiet, well-behaved
-- [大会 (たいかい)](vocab-25.md#大会-たいかい) — a mass meeting, a general assembly, a tournament/competition
-- [大使 (たいし)](vocab-25.md#大使-たいし) — ambassador
-- [大凡 (おおよそ)](vocab-10.md#大凡-おおよそ) — almost, roughly, approximately
-- [大分/だいぶん (だいぶ/だいぶん)](vocab-25.md#大分だいぶん-だいぶだいぶん) — considerably, fairly, pretty (much), to a great extent
-- [大切 (たいせつ)](vocab-25.md#大切-たいせつ) — important, precious, valuable
-- [大半 (たいはん)](vocab-25.md#大半-たいはん) — the greater part (of), most, the majority
-- [大好き (だいすき)](vocab-25.md#大好き-だいすき) — favorite, to really like/love (something)
-- [大学院 (だいがくいん)](vocab-25.md#大学院-だいがくいん) — a graduate school
-- [大家 (おおや)](vocab-10.md#大家-おおや) — a landlord/landlady
-- [大家 (たいか)](vocab-25.md#大家-たいか) — an authority, a master, a distinguished expert
-- [大工 (だいく)](vocab-25.md#大工-だいく) — a carpenter
-- [大幅 (おおはば)](vocab-01.md#大幅-おおはば) — large-scale, substantial (change)
-- [大戦 (たいせん)](vocab-25.md#大戦-たいせん) — a great war, World War
-- [大方 (おおかた)](vocab-09.md#大方-おおかた) — people in general, mostly, probably
-- [大木 (たいぼく)](vocab-25.md#大木-たいぼく) — a big/large tree
-- [大柄 (おおがら)](vocab-09.md#大柄-おおがら) — large build (of a person); large pattern (of fabric)
-- [大概 (たいがい)](vocab-25.md#大概-たいがい) — generally, mostly, for the most part
-- [大気 (たいき)](vocab-25.md#大気-たいき) — the atmosphere, the air
-- [大水 (おおみず)](vocab-10.md#大水-おおみず) — a flood
-- [大空 (おおぞら)](vocab-10.md#大空-おおぞら) — the sky, the heavens
-- [大筋 (おおすじ)](vocab-10.md#大筋-おおすじ) — the gist, outline
-- [大統領 (だいとうりょう)](vocab-25.md#大統領-だいとうりょう) — a president (of a country), the President
-- [大胆 (だいたん)](vocab-25.md#大胆-だいたん) — bold, daring, audacious
-- [大臣 (だいじん)](vocab-25.md#大臣-だいじん) — a minister, a secretary of state
-- [大衆 (たいしゅう)](vocab-25.md#大衆-たいしゅう) — the general public, the masses
-- [大通り (おおどおり)](vocab-10.md#大通り-おおどおり) — a main street
-- [大部 (たいぶ)](vocab-25.md#大部-たいぶ) — a large part, voluminous (often referring to a thick book/document)
-- [大部分 (だいぶぶん)](vocab-25.md#大部分-だいぶぶん) — most of, the majority of
-- [大金 (たいきん)](vocab-25.md#大金-たいきん) — a large sum of money
-- [大陸 (たいりく)](vocab-25.md#大陸-たいりく) — continent
-- [大雑把 (おおざっぱ)](vocab-09.md#大雑把-おおざっぱ) — rough, broad, careless (na-adjective)
-- [天体 (てんたい)](vocab-29.md#天体-てんたい) — a heavenly body, astronomical object
-- [天災 (てんさい)](vocab-29.md#天災-てんさい) — a natural calamity/disaster
-- [天然 (てんねん)](vocab-29.md#天然-てんねん) — natural (not artificial)
-- [天皇 (てんのう)](vocab-29.md#天皇-てんのう) — the Emperor (of Japan)
-- [太陽 (たいよう)](vocab-25.md#太陽-たいよう) — the sun
-- [太鼓 (たいこ)](vocab-25.md#太鼓-たいこ) — a drum (traditional Japanese)
-- [夫婦 (ふうふ)](vocab-32.md#夫婦-ふうふ) — husband and wife, a married couple
-- [失う (うしなう)](vocab-08.md#失う-うしなう) — to lose, to miss
-- [失恋 (しつれん)](vocab-21.md#失恋-しつれん) — heartbreak, unrequited/broken love
-- [失望 (しつぼう)](vocab-21.md#失望-しつぼう) — disappointment, despair
-- [失業 (しつぎょう)](vocab-21.md#失業-しつぎょう) — unemployment
-- [失礼 (しつれい)](vocab-21.md#失礼-しつれい) — impoliteness, rudeness; "excuse me" (as a set phrase)
-- [失脚 (しっきゃく)](vocab-02.md#失脚-しっきゃく) — Downfall, loss of position (especially political)
-- [奇妙 (きみょう)](vocab-14.md#奇妙-きみょう) — strange, odd, bizarre
-- [奉る (たてまつる)](vocab-26.md#奉る-たてまつる) — to dedicate/present reverently (to a deity or superior); to fawn on, to flatt...
-- [奉仕 (ほうし)](vocab-32.md#奉仕-ほうし) — service, volunteer work, to serve
-- [奉仕 【ほうし】](vocab-05.md#奉仕-ほうし) — Service, selfless service/devotion (to the public, community, or a higher cau...
-- [契約 (けいやく)](vocab-02.md#契約-けいやく) — Contract
-- [奥 (おく)](vocab-10.md#奥-おく) — the inner part, the back, depths
-- [奥さん/様 (おくさん/さま)](vocab-10.md#奥さん様-おくさんさま) — (your/someone's) wife; Mrs., madam
-- [奨励 (しょうれい)](vocab-02.md#奨励-しょうれい) — Encouragement, promotion (of a policy or activity)
-- [奪う (うばう)](vocab-03.md#奪う-うばう) — to steal
-- [女の人 (おんなのひと)](vocab-11.md#女の人-おんなのひと) — woman, lady
-- [女性 (じょせい)](vocab-21.md#女性-じょせい) — woman, female (person)
-- [女房 (にょうぼう)](vocab-30.md#女房-にょうぼう) — a wife (casual/old-fashioned term, often used by the husband)
-- [奴 (やつ)](vocab-34.md#奴-やつ) — fellow, guy, thing (casual, sometimes derogatory)
-- [好悪 【こうお】](vocab-05.md#好悪-こうお) — Likes and dislikes, preference (what one is fond of vs. averse to).
-- [好調 (こうちょう)](vocab-18.md#好調-こうちょう) — good condition, flourishing, in good form
-- [妥協 (だきょう)](vocab-25.md#妥協-だきょう) — compromise (with a person), to settle for less than ideal
-- [妥協 【だきょう】](vocab-05.md#妥協-だきょう) — Compromise (reaching a middle ground by each side yielding something).
-- [妥当 (だとう)](vocab-26.md#妥当-だとう) — proper, appropriate, valid, reasonable
-- [妥結 (だけつ)](vocab-25.md#妥結-だけつ) — reaching an agreement, coming to terms (in negotiations)
-- [妨害 (ぼうがい)](vocab-32.md#妨害-ぼうがい) — disturbance, to obstruct/disrupt/interfere with
-- [妹 (いもうと)](vocab-07.md#妹-いもうと) — one's younger sister
-- [始まり (はじまり)](vocab-31.md#始まり-はじまり) — a beginning, start, origin
-- [始める (はじめる)](vocab-31.md#始める-はじめる) — to begin, start (something)
-- [委託 (いたく)](vocab-02.md#委託-いたく) — Consignment, entrustment
-- [姿勢 (しせい)](vocab-02.md#姿勢-しせい) — Posture, stance, attitude
-- [威力 (いりょく)](vocab-01.md#威力-いりょく) — power, might, force
-- [威張る (いばる)](vocab-07.md#威張る-いばる) — to boast, brag, be proud, act domineering/bossy
-- [婉曲 (えんきょく)](vocab-09.md#婉曲-えんきょく) — euphemistic
-- [嫁 (よめ)](vocab-36.md#嫁-よめ) — bride; daughter-in-law
-- [嫌 (きらい)](vocab-16.md#嫌-きらい) — dislike, hate; disagreeable (na-adjective)
-- [嫌/否 (いや)](vocab-07.md#嫌否-いや) — no; disagreeable, unpleasant, reluctant
-- [嫌う (きらう)](vocab-16.md#嫌う-きらう) — to dislike, detest, loathe
-- [嫌がる (いやがる)](vocab-07.md#嫌がる-いやがる) — to dislike, hate, show reluctance/aversion (observable from outside)
-- [存じる/ずる (ぞんじる/ずる)](vocab-24.md#存じるずる-ぞんじるずる) — to know, to think (humble form)
-- [存在 (そんざい)](vocab-24.md#存在-そんざい) — existence
-- [存続 (そんぞく)](vocab-24.md#存続-そんぞく) — to continue to exist, survive, be retained
-- [孝行(する) (こうこう)](vocab-18.md#孝行する-こうこう) — filial piety, to be dutiful to one's parents
-- [孤児 (こじ)](vocab-04.md#孤児-こじ) — Orphan
-- [学 (がく)](vocab-12.md#学-がく) — learning, scholarship, studies (also used as a suffix for academic fields)
-- [学力 (がくりょく)](vocab-12.md#学力-がくりょく) — scholastic ability, academic achievement/proficiency
-- [学問 (がくもん)](vocab-12.md#学問-がくもん) — learning, scholarship, academic pursuit
-- [学士 (がくし)](vocab-12.md#学士-がくし) — bachelor's degree, a holder of a bachelor's degree
-- [学年 (がくねん)](vocab-12.md#学年-がくねん) — a school year, a grade level
-- [学歴 (がくれき)](vocab-12.md#学歴-がくれき) — academic background, educational history/credentials
-- [学生証 (がくせいしょう)](vocab-21.md#学生証-がくせいしょう) — student ID card
-- [学習 (がくしゅう)](vocab-12.md#学習-がくしゅう) — learning, study
-- [学者 (がくしゃ)](vocab-12.md#学者-がくしゃ) — a scholar, an academic
-- [学芸 (がくげい)](vocab-12.md#学芸-がくげい) — liberal arts, arts and sciences, academic and artistic matters
-- [学術 (がくじゅつ)](vocab-12.md#学術-がくじゅつ) — science and learning, academic scholarship
-- [学部 (がくぶ)](vocab-12.md#学部-がくぶ) — an academic department, a faculty (in a university)
-- [宇宙 (うちゅう)](vocab-08.md#宇宙-うちゅう) — the universe, the cosmos, space
-- [安否 (あんぴ)](vocab-07.md#安否-あんぴ) — safety, well-being (of a person, especially after a disaster or during separa...
-- [安定 (あんてい)](vocab-07.md#安定-あんてい) — stability
-- [安心 (あんしん)](vocab-07.md#安心-あんしん) — relief, peace of mind; to feel relieved/reassured
-- [安易 (あんい)](vocab-07.md#安易-あんい) — easy, easygoing, facile (often with a negative nuance of being too simplistic)
-- [安静 (あんせい)](vocab-07.md#安静-あんせい) — rest, quiet (especially medical recuperation)
-- [完了 (かんりょう)](vocab-14.md#完了-かんりょう) — completion
-- [完成 (かんせい)](vocab-13.md#完成-かんせい) — completion
-- [完璧 (かんぺき)](vocab-14.md#完璧-かんぺき) — perfection, perfect
-- [宗教 (しゅうきょう)](vocab-20.md#宗教-しゅうきょう) — religion, faith
-- [宗派 (しゅうは)](vocab-20.md#宗派-しゅうは) — sect, denomination (especially of Buddhism)
-- [官庁 (かんちょう)](vocab-13.md#官庁-かんちょう) — a government office, government agency
-- [宙返り (ちゅうがえり)](vocab-27.md#宙返り-ちゅうがえり) — somersault, looping (in the air)
-- [宜しい (よろしい)](vocab-36.md#宜しい-よろしい) — all right, fine, good (polite/formal form of いい)
-- [宝 (たから)](vocab-25.md#宝-たから) — treasure, riches, a precious thing/heirloom
-- [実 (じつ)](vocab-21.md#実-じつ) — truth, reality, substance (also: fruit, in different contexts)
-- [実例 (じつれい)](vocab-21.md#実例-じつれい) — example, instance, concrete illustration
-- [実情/実状 (じつじょう)](vocab-21.md#実情実状-じつじょう) — actual condition, real state of affairs
-- [実感 (じっかん)](vocab-21.md#実感-じっかん) — a realistic feeling, to really feel/sense something as real
-- [実態 (じったい)](vocab-21.md#実態-じったい) — actual conditions, the real state of affairs
-- [実技 (じつぎ)](vocab-21.md#実技-じつぎ) — practical skill, practical techniques, hands-on practice
-- [実施 (じっし)](vocab-21.md#実施-じっし) — enforcement, implementation, putting into practice (official measures)
-- [実況 (じっきょう)](vocab-21.md#実況-じっきょう) — actual situation/conditions; live broadcast/commentary
-- [実物 (じつぶつ)](vocab-21.md#実物-じつぶつ) — the real thing, actual object (as opposed to a picture/model)
-- [実現 (じつげん)](vocab-21.md#実現-じつげん) — realization, materialization (of a goal/dream/plan)
-- [実用 (じつよう)](vocab-21.md#実用-じつよう) — practical use, utility
-- [実績 (じっせき)](vocab-21.md#実績-じっせき) — actual results, track record, achievements
-- [実行 (じっこう)](vocab-21.md#実行-じっこう) — practice, execution, carrying out (a plan)
-- [実費 (じっぴ)](vocab-21.md#実費-じっぴ) — actual expenses, cost price (without markup)
-- [実質 (じっしつ)](vocab-21.md#実質-じっしつ) — substance, essence, real/effective nature (as opposed to nominal)
-- [実践 (じっせん)](vocab-21.md#実践-じっせん) — (actual) practice, putting into practice, praxis
-- [客 (きゃく)](vocab-14.md#客-きゃく) — a guest, customer, visitor
-- [客席 (きゃくせき)](vocab-15.md#客席-きゃくせき) — a seat (for the audience), the audience area
-- [客観 (きゃっかん)](vocab-15.md#客観-きゃっかん) — objectivity
-- [客間 (きゃくま)](vocab-15.md#客間-きゃくま) — a drawing room, guest room (in a traditional Japanese house)
-- [宣伝 (せんでん)](vocab-23.md#宣伝-せんでん) — advertisement, publicity, to publicize
-- [宣教 (せんきょう)](vocab-23.md#宣教-せんきょう) — propagation of religion, missionary work
-- [宣言 (せんげん)](vocab-23.md#宣言-せんげん) — declaration, proclamation, to declare
-- [害 (がい)](vocab-12.md#害-がい) — harm, damage
-- [害する (がいする)](vocab-11.md#害する-がいする) — to harm, to injure, to spoil (e.g., one's health, mood, relations)
-- [宴会 (えんかい)](vocab-09.md#宴会-えんかい) — a banquet, party
-- [家主 (やぬし)](vocab-34.md#家主-やぬし) — landlord, homeowner (of a rental property)
-- [家屋 (かおく)](vocab-12.md#家屋-かおく) — a house, a building (as property, in legal/formal contexts)
-- [家来 (けらい)](vocab-17.md#家来-けらい) — retainer, follower, vassal
-- [家計 (かけい)](vocab-12.md#家計-かけい) — a household budget, family finances
-- [家賃 (やちん)](vocab-34.md#家賃-やちん) — rent (for housing)
-- [容器 (ようき)](vocab-35.md#容器-ようき) — a container
-- [容積 (ようせき)](vocab-35.md#容積-ようせき) — capacity, volume
-- [宿 (やど)](vocab-34.md#宿-やど) — an inn, a hotel, lodging
-- [宿命 (しゅくめい)](vocab-02.md#宿命-しゅくめい) — Fate, destiny
-- [宿泊 (しゅくはく)](vocab-20.md#宿泊-しゅくはく) — staying overnight, lodging, accommodation
-- [宿題 (しゅくだい)](vocab-20.md#宿題-しゅくだい) — homework (also figuratively: a pending issue/task to resolve)
-- [寄りかかる (よりかかる)](vocab-33.md#寄りかかる-よりかかる) — to lean against, to depend/rely on
-- [寄与 (きよ)](vocab-15.md#寄与-きよ) — contribution (to progress, society, a cause); to contribute
-- [寄付 (きふ)](vocab-14.md#寄付-きふ) — contribution, donation
-- [密着 (みっちゃく)](vocab-01.md#密着-みっちゃく) — close adhesion, sticking firmly (to), being glued (to)
-- [富 (とみ)](vocab-30.md#富-とみ) — riches, wealth, fortune
-- [寒帯 (かんたい)](vocab-13.md#寒帯-かんたい) — the Frigid Zone (polar climate zone)
-- [寛大 (かんだい)](vocab-01.md#寛大-かんだい) — generous, magnanimous
-- [寛容 (かんよう)](vocab-01.md#寛容-かんよう) — tolerant, lenient
-- [寛容さ (かんようさ)](vocab-01.md#寛容さ-かんようさ) — tolerance, magnanimity
-- [寝かす (ねかす)](vocab-31.md#寝かす-ねかす) — to lay down, put to bed, let lie (also: to let something sit/ferment)
-- [寝ぼける (ねぼける)](vocab-31.md#寝ぼける-ねぼける) — to be half asleep, to act in a daze from just waking up
-- [寝転ぶ (ねころぶ)](vocab-04.md#寝転ぶ-ねころぶ) — To lie down
-- [審判 (しんぱん)](vocab-21.md#審判-しんぱん) — judgment; referee, umpire
-- [審査 (しんさ)](vocab-04.md#審査-しんさ) — Examination, screening
-- [寮 (りょう)](vocab-06.md#寮-りょう) — dormitory
-- [寸前 (すんぜん)](vocab-01.md#寸前-すんぜん) — just before, on the verge of, on the brink of, just in front of
-- [寺 (てら)](vocab-29.md#寺-てら) — (Buddhist) temple
-- [対 (つい)](vocab-28.md#対-つい) — a pair, a couple, a set of two
-- [対する (たいする)](vocab-25.md#対する-たいする) — to face, to be directed toward, regarding, versus (used in 〜に対して/対する)
-- [対処 (たいしょ)](vocab-25.md#対処-たいしょ) — handling (a situation), response, dealing with (a problem)
-- [対応 (たいおう)](vocab-25.md#対応-たいおう) — correspondence; to respond to, deal with, handle
-- [対抗 (たいこう)](vocab-06.md#対抗-たいこう) — rivalry, opposition, competing against
-- [対比 (たいひ)](vocab-25.md#対比-たいひ) — comparison, contrast
-- [対決 (たいけつ)](vocab-25.md#対決-たいけつ) — confrontation, to confront, face off
-- [対立 (たいりつ)](vocab-25.md#対立-たいりつ) — opposition, antagonism, confrontation (of ideas, interests, or parties)
-- [対等 (たいとう)](vocab-25.md#対等-たいとう) — equal basis, equality (of status/standing)
-- [対策 (たいさく)](vocab-25.md#対策-たいさく) — measures, countermeasures, a policy response (to a problem)
-- [対話 (たいわ)](vocab-25.md#対話-たいわ) — dialogue, conversation (often implying meaningful, two-way exchange)
-- [対談 (たいだん)](vocab-25.md#対談-たいだん) — a talk, dialogue, interview (face-to-face discussion, often published/broadcast)
-- [対象 (たいしょう)](vocab-25.md#対象-たいしょう) — object, subject, target (of an action, study, or policy)
-- [対面 (たいめん)](vocab-25.md#対面-たいめん) — a meeting face-to-face, meeting someone in person (often for the first time)
-- [封建的 (ほうけんてき)](vocab-32.md#封建的-ほうけんてき) — feudalistic, old-fashioned (in a hierarchical/oppressive sense)
-- [封筒 (ふうとう)](vocab-32.md#封筒-ふうとう) — an envelope
-- [封鎖 (ふうさ)](vocab-32.md#封鎖-ふうさ) — blockade, to block up/seal off
-- [専ら 【もっぱら】](vocab-05.md#専ら-もっぱら) — Solely, exclusively, mainly (devoting oneself to one thing in particular; als...
-- [専修 (せんしゅう)](vocab-23.md#専修-せんしゅう) — special course, specialized study
-- [専制 (せんせい)](vocab-23.md#専制-せんせい) — autocracy, despotism, absolute rule
-- [専攻 (せんこう)](vocab-23.md#専攻-せんこう) — one's specialty/major, to major in
-- [専用 (せんよう)](vocab-23.md#専用-せんよう) — exclusive use, dedicated (for a specific purpose/user)
-- [尊敬 (そんけい)](vocab-24.md#尊敬-そんけい) — respect, esteem, to look up to
-- [尊重 (そんちょう)](vocab-24.md#尊重-そんちょう) — respect (for), to honor (an opinion, right, decision)
-- [小売り (こうり)](vocab-19.md#小売り-こうり) — retailing, retail sales
-- [少なくとも (すくなくとも)](vocab-22.md#少なくとも-すくなくとも) — at least
-- [尚更 【なおさら】](vocab-05.md#尚更-なおさら) — All the more, even more so (used to intensify a statement given an additional...
-- [尤も (もっとも)](vocab-34.md#尤も-もっとも) — reasonable, natural (as adjective); however, though (as conjunction)
-- [就任 (しゅうにん)](vocab-20.md#就任-しゅうにん) — assumption of office, inauguration, taking up a post
-- [就業時間 (しゅうぎょうじかん)](vocab-20.md#就業時間-しゅうぎょうじかん) — working hours
-- [尺 (しゃく)](vocab-20.md#尺-しゃく) — shaku (traditional Japanese unit of length, about 30.3 cm)
-- [尽きる (つきる)](vocab-28.md#尽きる-つきる) — to run out, to be used up, to be exhausted (of resources, patience, etc.)
-- [尽くす (つくす)](vocab-04.md#尽くす-つくす) — To exhaust, do one's utmost
-- [尾 (お)](vocab-09.md#尾-お) — tail
-- [尿 (にょう)](vocab-30.md#尿-にょう) — urine
-- [局限 (きょくげん)](vocab-16.md#局限-きょくげん) — to confine, to limit (to a narrow scope)
-- [局面 (きょくめん)](vocab-04.md#局面-きょくめん) — Phase, situation
-- [居住 (きょじゅう)](vocab-16.md#居住-きょじゅう) — residence, dwelling, living (in a place)
-- [居心地 (いごこち)](vocab-03.md#居心地-いごこち) — comfort/feel of a place
-- [居眠り (いねむり)](vocab-07.md#居眠り-いねむり) — dozing off, nodding off (while supposed to be awake, e.g., sitting up)
-- [居間 (いま)](vocab-07.md#居間-いま) — living room
-- [屈折(する) (くっせつ)](vocab-16.md#屈折する-くっせつ) — refraction (of light); (figuratively) a twist, distortion, complexity (of fee...
-- [屈指 (くっし)](vocab-01.md#屈指-くっし) — leading, foremost, preeminent, outstanding, one of the best
-- [届く (とどく)](vocab-30.md#届く-とどく) — to reach, to arrive, to be delivered
-- [届ける (とどける)](vocab-30.md#届ける-とどける) — to deliver, to report/notify (officially)
-- [屋外 (おくがい)](vocab-10.md#屋外-おくがい) — outdoors
-- [屋根 (やね)](vocab-34.md#屋根-やね) — a roof
-- [屍体 (したい)](vocab-02.md#屍体-したい) — Corpse
-- [屑 (くず)](vocab-16.md#屑-くず) — waste, rubbish, scraps; (figuratively, harsh) a worthless person
-- [展望 (てんぼう)](vocab-29.md#展望-てんぼう) — a view, prospect, outlook
-- [展覧会 (てんらんかい)](vocab-29.md#展覧会-てんらんかい) — an exhibition
-- [属する (ぞくする)](vocab-24.md#属する-ぞくする) — to belong to
-- [履歴 (りれき)](vocab-33.md#履歴-りれき) — one's personal history, record (of past actions)
-- [岩 (いわ)](vocab-07.md#岩-いわ) — a rock, a crag, a boulder
-- [島 (しま)](vocab-29.md#島-しま) — island
-- [崩す (くずす)](vocab-16.md#崩す-くずす) — to destroy, demolish, break down; to break (a large bill into smaller change)
-- [崩れる (くずれる)](vocab-16.md#崩れる-くずれる) — to crumble, to collapse, to fall to pieces, to become disordered
-- [州 (しゅう)](vocab-20.md#州-しゅう) — state, county, province, region
-- [巡り 【めぐり】](vocab-05.md#巡り-めぐり) — Going around, touring, circulation (e.g., of blood, seasons, or visiting a se...
-- [巣 (す)](vocab-01.md#巣-す) — nest, den
-- [工事 (こうじ)](vocab-18.md#工事-こうじ) — construction (work), roadwork
-- [工作 (こうさく)](vocab-18.md#工作-こうさく) — handicraft, construction (model-making); covert maneuvering
-- [工場 (こうじょう)](vocab-18.md#工場-こうじょう) — a factory
-- [工場 (こうば)](vocab-18.md#工場-こうば) — a factory (small, local workshop)
-- [工夫 (くふう)](vocab-02.md#工夫-くふう) — Device, contrivance, ingenuity (finding a clever way to do something)
-- [工学 (こうがく)](vocab-18.md#工学-こうがく) — engineering
-- [工業 (こうぎょう)](vocab-18.md#工業-こうぎょう) — industry (manufacturing)
-- [工芸 (こうげい)](vocab-18.md#工芸-こうげい) — industrial arts and crafts, craftsmanship
-- [巧[み] (たくみ)](vocab-25.md#巧み-たくみ) — skillful, skilled, clever (in technique)
-- [巧妙 (こうみょう)](vocab-04.md#巧妙-こうみょう) — Skillful, ingenious
-- [巨大 (きょだい)](vocab-16.md#巨大-きょだい) — huge, enormous, gigantic
-- [市場 (しじょう)](vocab-20.md#市場-しじょう) — market, marketplace (economic/commercial sense)
-- [市街 (しがい)](vocab-19.md#市街-しがい) — the streets, city, town (urban area)
-- [布 (きれ)](vocab-16.md#布-きれ) — cloth, a piece of cloth, fabric
-- [布巾 (ふきん)](vocab-01.md#布巾-ふきん) — dishcloth
-- [希望 (きぼう)](vocab-14.md#希望-きぼう) — hope, wish, desire
-- [希望的観測 (きぼうてきかんそく)](vocab-03.md#希望的観測-きぼうてきかんそく) — wishful thinking
-- [希薄 (きはく)](vocab-03.md#希薄-きはく) — sparse, thin (relationship)
-- [帯 (おび)](vocab-10.md#帯-おび) — an obi (sash); a book's promotional paper band
-- [帯びる (おびる)](vocab-03.md#帯びる-おびる) — to carry/bear
-- [帰す (かえす)](vocab-11.md#帰す-かえす) — to let/send a person go back, to send someone home
-- [帰宅 (きたく)](vocab-14.md#帰宅-きたく) — to come/go home, returning home
-- [常に (つねに)](vocab-29.md#常に-つねに) — always, at all times, whenever, constantly
-- [干渉 (かんしょう)](vocab-01.md#干渉-かんしょう) — interference, meddling
-- [平[ら] (たいら)](vocab-25.md#平ら-たいら) — level, flat, even, smooth
-- [平等 (びょうどう)](vocab-32.md#平等-びょうどう) — equality, equal, even(ly)
-- [年中 (ねんじゅう)](vocab-31.md#年中-ねんじゅう) — all year round; always, constantly
-- [年代 (ねんだい)](vocab-31.md#年代-ねんだい) — an age, an era, a period; a decade (e.g. the 1980s)
-- [年代記 (ねんだいき)](vocab-31.md#年代記-ねんだいき) — a chronicle, a historical record arranged by year
-- [年号 (ねんごう)](vocab-31.md#年号-ねんごう) — an era name (e.g. Reiwa, Heisei)
-- [年賀状 (ねんがじょう)](vocab-31.md#年賀状-ねんがじょう) — a New Year's card
-- [年間 (ねんかん)](vocab-31.md#年間-ねんかん) — a year, a period of one year; (as suffix) annual, yearly
-- [年齢 (ねんれい)](vocab-31.md#年齢-ねんれい) — age (of a person), years
-- [年齢相応 (ねんれいそうおう)](vocab-03.md#年齢相応-ねんれいそうおう) — appropriate for one's age
-- [幸福 (こうふく)](vocab-19.md#幸福-こうふく) — happiness, well-being, bliss; happy
-- [幹 【みき】](vocab-05.md#幹-みき) — Trunk (of a tree); figuratively, the main/core part of something (as opposed ...
-- [幹線 (かんせん)](vocab-13.md#幹線-かんせん) — a trunk line, main line (railway, road, etc.)
-- [幹部 (かんぶ)](vocab-02.md#幹部-かんぶ) — Executive, senior staff
-- [幼い (おさない)](vocab-10.md#幼い-おさない) — young, childish, immature
-- [幼児 (ようじ)](vocab-35.md#幼児-ようじ) — a baby, infant, little child (roughly ages 1-6)
-- [幼稚 (ようち)](vocab-35.md#幼稚-ようち) — childishness; immature, infantile
-- [幼稚園 (ようちえん)](vocab-35.md#幼稚園-ようちえん) — kindergarten
-- [幽霊 (ゆうれい)](vocab-35.md#幽霊-ゆうれい) — a ghost, apparition, phantom
-- [広める (ひろめる)](vocab-32.md#広める-ひろめる) — to spread, widen, popularize, broaden (knowledge, information, a custom)
-- [広告(する) (こうこく)](vocab-18.md#広告する-こうこく) — advertisement, to advertise
-- [広場 (ひろば)](vocab-32.md#広場-ひろば) — a public square, an open space (in a town/city)
-- [庇う (かばう)](vocab-01.md#庇う-かばう) — to protect, shield, cover for
-- [床 (ゆか)](vocab-35.md#床-ゆか) — a floor
-- [序で (ついで)](vocab-28.md#序で-ついで) — opportunity, occasion; (doing something) incidentally/while at it
-- [底 (そこ)](vocab-24.md#底-そこ) — the bottom, the sole, the depths
-- [度 (ど)](vocab-29.md#度-ど) — degree, point, times/occasions
-- [度々 (たびたび)](vocab-26.md#度々-たびたび) — often, frequently, repeatedly
-- [座る (すわる)](vocab-22.md#座る-すわる) — to sit down
-- [庭 (にわ)](vocab-31.md#庭-にわ) — garden, yard
-- [廊下 (ろうか)](vocab-06.md#廊下-ろうか) — corridor, hallway
-- [延期 (えんき)](vocab-09.md#延期-えんき) — postponement, adjournment
-- [延長 (えんちょう)](vocab-09.md#延長-えんちょう) — extension
-- [建てる (たてる)](vocab-26.md#建てる-たてる) — to build, to construct
-- [建て前 (たてまえ)](vocab-26.md#建て前-たてまえ) — one's public stance or official position, as opposed to true feelings
-- [建物 (たてもの)](vocab-26.md#建物-たてもの) — building, structure
-- [建築(する) (けんちく)](vocab-18.md#建築する-けんちく) — construction, building, architecture
-- [建設(する) (けんせつ)](vocab-18.md#建設する-けんせつ) — construction, building, establishment
-- [弁解 【べんかい】](vocab-05.md#弁解-べんかい) — Excuse, explanation/justification offered to defend oneself (often with a sli...
-- [式典 (しきてん)](vocab-19.md#式典-しきてん) — ceremony, celebration, formal event
-- [弓 (ゆみ)](vocab-35.md#弓-ゆみ) — a bow, archery
-- [引き上げる (ひきあげる)](vocab-31.md#引き上げる-ひきあげる) — to raise up, lift up, pull up; to raise (a rate/price); to withdraw (troops)
-- [引き下げる (ひきさげる)](vocab-31.md#引き下げる-ひきさげる) — to lower, reduce, bring down (a rate, price, or level)
-- [引き出し (ひきだし)](vocab-32.md#引き出し-ひきだし) — a drawer; (figurative) one's range of knowledge/skills to draw upon
-- [引き出す (ひきだす)](vocab-32.md#引き出す-ひきだす) — to draw out, pull out, bring out, withdraw (money)
-- [引き取る (ひきとる)](vocab-32.md#引き取る-ひきとる) — to take over, take charge of, take back, take in (e.g. a person or animal)
-- [引き算 (ひきざん)](vocab-31.md#引き算-ひきざん) — subtraction
-- [引き返す (ひきかえす)](vocab-31.md#引き返す-ひきかえす) — to turn back, go back, return (partway through a journey)
-- [引き離す (ひきはなす)](vocab-32.md#引き離す-ひきはなす) — to separate, keep apart, pull apart; to outdistance (a competitor)
-- [引く (ひく)](vocab-32.md#引く-ひく) — to pull, draw back, subtract, play (a stringed/keyboard instrument), catch (a...
-- [弛み (たるみ)](vocab-26.md#弛み-たるみ) — slack, sag (physical looseness), carelessness/laxity (figurative)
-- [弛む (たるむ)](vocab-26.md#弛む-たるむ) — to sag, to become slack/loose
-- [弟 (おとうと)](vocab-10.md#弟-おとうと) — younger brother
-- [弱 (じゃく)](vocab-20.md#弱-じゃく) — a little under/less than (a given number); weak (as a suffix)
-- [弱い (よわい)](vocab-36.md#弱い-よわい) — weak (physically, in strength, ability, or resistance)
-- [弱まる (よわまる)](vocab-33.md#弱まる-よわまる) — to grow weak, to weaken (intransitive)
-- [弱める (よわめる)](vocab-33.md#弱める-よわめる) — to weaken (something), to turn down/lessen
-- [弱る (よわる)](vocab-33.md#弱る-よわる) — to grow weak, lose strength; to be in a fix, be perplexed
-- [弱点 (じゃくてん)](vocab-20.md#弱点-じゃくてん) — weak point, weakness, shortcoming
-- [強 (きょう)](vocab-15.md#強-きょう) — a little more than (a stated quantity); "-plus" (e.g. 1時間強 "a bit over an hour")
-- [強いる (しいる)](vocab-04.md#強いる-しいる) — To force
-- [強制 (きょうせい)](vocab-15.md#強制-きょうせい) — compulsion, coercion, force (making someone do something against their will)
-- [強化 (きょうか)](vocab-15.md#強化-きょうか) — reinforcement, strengthening, intensification
-- [強情 (ごうじょう)](vocab-01.md#強情-ごうじょう) — obstinate, stubborn, headstrong
-- [強烈 (きょうれつ)](vocab-15.md#強烈-きょうれつ) — intense, strong, fierce (impact, impression, sensation)
-- [強盗 (ごうとう)](vocab-19.md#強盗-ごうとう) — robbery, burglary; a robber
-- [強硬 (きょうこう)](vocab-02.md#強硬-きょうこう) — Firm, hard-line
-- [強調 (きょうちょう)](vocab-15.md#強調-きょうちょう) — emphasis, stress (on a point)
-- [弾く (はじく)](vocab-31.md#弾く-はじく) — to snap, flick, repel (e.g. water-repellent)
-- [弾む (はずむ)](vocab-01.md#弾む-はずむ) — to spring, to bound, to bounce, to be stimulated, to be encouraged
-- [弾力 (だんりょく)](vocab-27.md#弾力-だんりょく) — elasticity, springiness, flexibility (literal and figurative)
-- [当事者 (とうじしゃ)](vocab-29.md#当事者-とうじしゃ) — the person(s) in question, a party directly involved
-- [当然 (とうぜん)](vocab-29.md#当然-とうぜん) — of course, naturally, as a matter of course
-- [当番 (とうばん)](vocab-29.md#当番-とうばん) — being on duty, one's turn (for a rotating task)
-- [形勢 (けいせい)](vocab-17.md#形勢-けいせい) — the situation, the state of affairs, the tide (of a contest)
-- [形容動詞 (けいようどうし)](vocab-17.md#形容動詞-けいようどうし) — na-adjective (grammatical term)
-- [形容詞 (けいようし)](vocab-17.md#形容詞-けいようし) — an adjective (grammatical term)
-- [形式 (けいしき)](vocab-17.md#形式-けいしき) — form, format, formality
-- [形態 (けいたい)](vocab-17.md#形態-けいたい) — shape, form, mode (of existence or organization)
-- [彫刻 (ちょうこく)](vocab-01.md#彫刻-ちょうこく) — sculpture, carving
-- [影/陰 (かげ)](vocab-12.md#影陰-かげ) — shade, shadow; behind the scenes, in secret
-- [影響 (えいきょう)](vocab-09.md#影響-えいきょう) — influence, effect, impact
-- [彼 (かれ)](vocab-14.md#彼-かれ) — he; boyfriend
-- [彼女 (かのじょ)](vocab-13.md#彼女-かのじょ) — she; (also) girlfriend
-- [往復 (おうふく)](vocab-09.md#往復-おうふく) — a round trip
-- [往診 (おうしん)](vocab-09.md#往診-おうしん) — a doctor's house call
-- [待望 (たいぼう)](vocab-25.md#待望-たいぼう) — long-awaited, eagerly anticipated expectation
-- [待遇 (たいぐう)](vocab-25.md#待遇-たいぐう) — treatment, pay, reception, terms of employment
-- [後者 (こうしゃ)](vocab-18.md#後者-こうしゃ) — the latter
-- [後輩 (こうはい)](vocab-19.md#後輩-こうはい) — junior (person with less seniority, e.g., in school or workplace)
-- [徐々に (じょじょに)](vocab-21.md#徐々に-じょじょに) — gradually, slowly, little by little
-- [徐行 (じょこう)](vocab-04.md#徐行-じょこう) — To go slowly
-- [従って (したがって)](vocab-20.md#従って-したがって) — therefore, consequently, accordingly
-- [従事 (じゅうじ)](vocab-04.md#従事-じゅうじ) — To be engaged in (an occupation)
-- [従兄弟/従姉妹 (いとこ)](vocab-07.md#従兄弟従姉妹-いとこ) — a (first) cousin
-- [従来 (じゅうらい)](vocab-20.md#従来-じゅうらい) — up to now, conventional, as has been the case until now
-- [従業員 (じゅうぎょういん)](vocab-20.md#従業員-じゅうぎょういん) — employee, personnel, staff member
-- [得る (える/うる)](vocab-09.md#得る-えるうる) — to gain, obtain, acquire
-- [御中 (おんちゅう)](vocab-11.md#御中-おんちゅう) — Messrs., "To" (honorific suffix after a company/organization name in correspo...
-- [御辞儀 (おじぎ)](vocab-10.md#御辞儀-おじぎ) — a bow
-- [復旧 (ふっきゅう)](vocab-32.md#復旧-ふっきゅう) — restoration, repair work (returning to a previous working state)
-- [復活 (ふっかつ)](vocab-32.md#復活-ふっかつ) — revival, resurrection, comeback
-- [復興 (ふっこう)](vocab-32.md#復興-ふっこう) — reconstruction, revival (of a region, economy, or culture)
-- [微か (かすか)](vocab-13.md#微か-かすか) — faint, dim, slight (barely perceptible)
-- [微笑む (ほほえむ)](vocab-32.md#微笑む-ほほえむ) — to smile (gently/softly)
-- [徴収 (ちょうしゅう)](vocab-27.md#徴収-ちょうしゅう) — levy, collection (of fees, taxes)
-- [徹底 (てってい)](vocab-29.md#徹底-てってい) — thoroughness, being thorough/exhaustive
-- [心理 (しんり)](vocab-21.md#心理-しんり) — mentality, mind, psychology (mental state)
-- [心理学 (しんりがく)](vocab-22.md#心理学-しんりがく) — psychology (the academic discipline)
-- [心細い (こころぼそい)](vocab-03.md#心細い-こころぼそい) — lonely, helpless
-- [心臓 (しんぞう)](vocab-21.md#心臓-しんぞう) — heart (the organ)
-- [心身 (しんしん)](vocab-21.md#心身-しんしん) — mind and body
-- [心配 (しんぱい)](vocab-21.md#心配-しんぱい) — worry, anxiety, concern
-- [必ず (かならず)](vocab-13.md#必ず-かならず) — certainly, without fail, always
-- [必ずしも (かならずしも)](vocab-13.md#必ずしも-かならずしも) — not always, not necessarily (used with a negative)
-- [応じる/ずる (おうじる)](vocab-09.md#応じるずる-おうじる) — to respond to, comply with, according to
-- [応募 (おうぼ)](vocab-09.md#応募-おうぼ) — application, entry, subscription (to apply for something)
-- [応対 (おうたい)](vocab-09.md#応対-おうたい) — reception; to receive, serve (a visitor, caller)
-- [応急 (おうきゅう)](vocab-09.md#応急-おうきゅう) — emergency, temporary (first-aid/stopgap)
-- [応接 (おうせつ)](vocab-09.md#応接-おうせつ) — reception (of guests/visitors)
-- [応援 (おうえん)](vocab-09.md#応援-おうえん) — aid, help, support; cheering
-- [応用 (おうよう)](vocab-09.md#応用-おうよう) — (practical) application
-- [忠告 (ちゅうこく)](vocab-27.md#忠告-ちゅうこく) — advice, counsel, admonition, warning
-- [忠実 (ちゅうじつ)](vocab-27.md#忠実-ちゅうじつ) — faithful, loyal, devoted; faithfulness
-- [快晴 (かいせい)](vocab-11.md#快晴-かいせい) — fine, clear weather (a cloudless sky)
-- [快適 (かいてき)](vocab-11.md#快適-かいてき) — comfortable, pleasant
-- [念願 (ねんがん)](vocab-31.md#念願-ねんがん) — one's cherished desire, long-held wish
-- [思いっ切り (おもいっきり)](vocab-11.md#思いっ切り-おもいっきり) — with all one's might; to one's heart's content
-- [思いを馳せる (おもいをはせる)](vocab-02.md#思いを馳せる-おもいをはせる) — To imagine, ponder (especially about far-off places, times, or people)
-- [思い付き (おもいつき)](vocab-11.md#思い付き-おもいつき) — an idea, a notion (often spur-of-the-moment)
-- [思い付く (おもいつく)](vocab-11.md#思い付く-おもいつく) — to think of, to hit upon (an idea)
-- [思い出 (おもいで)](vocab-11.md#思い出-おもいで) — a memory
-- [思い掛けない (おもいがけない)](vocab-11.md#思い掛けない-おもいがけない) — unexpected
-- [思い込む (おもいこむ)](vocab-11.md#思い込む-おもいこむ) — to be convinced of, to assume (often wrongly)
-- [思わず (おもわず)](vocab-11.md#思わず-おもわず) — unintentionally, instinctively, before one realizes
-- [思慮 (しりょ)](vocab-01.md#思慮-しりょ) — prudence, discretion, thought, consideration
-- [怠る (おこたる)](vocab-03.md#怠る-おこたる) — to neglect
-- [怠慢 (たいまん)](vocab-25.md#怠慢-たいまん) — neglect, negligence, laziness (in fulfilling duties)
-- [急[に] (きゅうに)](vocab-15.md#急に-きゅうに) — suddenly, abruptly, all at once
-- [急かす (せかす)](vocab-04.md#急かす-せかす) — To hurry someone
-- [急激 (きゅうげき)](vocab-15.md#急激-きゅうげき) — sudden, rapid, sharp (change)
-- [急行 (きゅうこう)](vocab-15.md#急行-きゅうこう) — an express train; to rush/hurry to a place
-- [急速 (きゅうそく)](vocab-15.md#急速-きゅうそく) — rapid, swift, fast-moving (used for change/growth/progress)
-- [性別 (せいべつ)](vocab-22.md#性別-せいべつ) — gender/sex distinction
-- [性格 (せいかく)](vocab-21.md#性格-せいかく) — character, personality
-- [性能 (せいのう)](vocab-22.md#性能-せいのう) — performance, efficiency (especially of a machine/device)
-- [性質 (せいしつ)](vocab-22.md#性質-せいしつ) — nature, disposition, inherent character (of a person or thing)
-- [怪我(する) (けが)](vocab-17.md#怪我する-けが) — injury, wound; to be injured/hurt
-- [怪獣 (かいじゅう)](vocab-03.md#怪獣-かいじゅう) — monster
-- [怯える (おびえる)](vocab-10.md#怯える-おびえる) — to be frightened, scared
-- [恋愛 (れんあい)](vocab-34.md#恋愛-れんあい) — romantic love, love affair
-- [恐らく (おそらく)](vocab-10.md#恐らく-おそらく) — probably, perhaps
-- [恐れ (おそれ)](vocab-03.md#恐れ-おそれ) — fear, risk
-- [恐れる (おそれる)](vocab-10.md#恐れる-おそれる) — to fear, dread
-- [恐れ入る (おそれいる)](vocab-10.md#恐れ入る-おそれいる) — to be sorry/grateful (for troubling someone); to be amazed
-- [恐ろしい (おそろしい)](vocab-10.md#恐ろしい-おそろしい) — terrible, dreadful, frightening
-- [恐怖 (きょうふ)](vocab-15.md#恐怖-きょうふ) — fear, dread, terror
-- [恐縮 (きょうしゅく)](vocab-15.md#恐縮-きょうしゅく) — to feel much obliged, grateful, or sorry (for troubling someone); a polite ex...
-- [恥 (はじ)](vocab-31.md#恥-はじ) — shame, disgrace, embarrassment
-- [恥じらい (はじらい)](vocab-31.md#恥じらい-はじらい) — shyness, bashfulness (noun form of 恥じらう)
-- [恥じらう (はじらう)](vocab-31.md#恥じらう-はじらう) — to be shy, bashful, to feel diffident or hesitant
-- [恥じる (はじる)](vocab-31.md#恥じる-はじる) — to be ashamed, feel shame
-- [恥ずかしい (はずかしい)](vocab-31.md#恥ずかしい-はずかしい) — embarrassing, shameful; to feel shy/embarrassed
-- [恨み (うらみ)](vocab-08.md#恨み-うらみ) — a grudge, resentment
-- [恨む (うらむ)](vocab-08.md#恨む-うらむ) — to resent, to bear a grudge against
-- [恩 (おん)](vocab-11.md#恩-おん) — a favor, kindness, debt of gratitude, obligation
-- [恩恵 (おんけい)](vocab-11.md#恩恵-おんけい) — a benefit, a blessing
-- [恵まれる 【めぐまれる】](vocab-05.md#恵まれる-めぐまれる) — To be blessed, fortunate (with good circumstances, talent, resources, or envi...
-- [悔しい (くやしい)](vocab-16.md#悔しい-くやしい) — mortifying, regrettable, frustrating, vexing (feeling of unfairness/defeat)
-- [悔む (くやむ)](vocab-16.md#悔む-くやむ) — to regret, to repent, to mourn
-- [悟る (さとる)](vocab-02.md#悟る-さとる) — To realize, perceive, attain enlightenment
-- [悠々 (ゆうゆう)](vocab-35.md#悠々-ゆうゆう) — calm, composed, leisurely
-- [患者 (かんじゃ)](vocab-01.md#患者-かんじゃ) — patient
-- [悩む (なやむ)](vocab-30.md#悩む-なやむ) — to worry, to suffer, to be troubled/agonize over
-- [悪 (あく)](vocab-06.md#悪-あく) — evil, wickedness, vice
-- [悪口 (わるくち)](vocab-36.md#悪口-わるくち) — bad-mouthing, verbal abuse, speaking ill of someone
-- [悪者 (わるもの)](vocab-36.md#悪者-わるもの) — villain, bad person, the "bad guy"
-- [悪魔 (あくま)](vocab-06.md#悪魔-あくま) — the Devil, Satan, a fiend
-- [悲しむ (かなしむ)](vocab-13.md#悲しむ-かなしむ) — to feel sad, to grieve, to lament
-- [悲嘆のきわみ (ひたんのきわみ)](vocab-03.md#悲嘆のきわみ-ひたんのきわみ) — depths of grief
-- [悲観 (ひかん)](vocab-31.md#悲観-ひかん) — pessimism, being pessimistic
-- [情けない (なさけない)](vocab-30.md#情けない-なさけない) — deplorable, shameful, pitiful, pathetic
-- [情勢 (じょうせい)](vocab-21.md#情勢-じょうせい) — state of affairs, situation, circumstances (often political/social)
-- [情緒 (じょうちょ)](vocab-03.md#情緒-じょうちょ) — emotion
-- [惑星 (わくせい)](vocab-36.md#惑星-わくせい) — planet
-- [惜しい (おしい)](vocab-10.md#惜しい-おしい) — regrettable, precious, a pity to lose; so close
-- [惜しむ (おしむ)](vocab-10.md#惜しむ-おしむ) — to spare, grudge, regret
-- [想像 (そうぞう)](vocab-24.md#想像-そうぞう) — imagination, to imagine
-- [愉快 (ゆかい)](vocab-35.md#愉快-ゆかい) — pleasure, delight; pleasant, enjoyable
-- [意図 (いと)](vocab-07.md#意図-いと) — intention, purpose, intent
-- [意欲 (いよく)](vocab-07.md#意欲-いよく) — will, strong desire, motivation, enthusiasm
-- [意義 (いぎ)](vocab-04.md#意義-いぎ) — Significance (see 異議 nuance cluster above)
-- [愚か (おろか)](vocab-11.md#愚か-おろか) — foolish, silly, stupid
-- [愚民政策 【ぐみんせいさく】](vocab-05.md#愚民政策-ぐみんせいさく) — Obscurantist policy, a policy of deliberately keeping the populace ignorant t...
-- [愛 (あい)](vocab-06.md#愛-あい) — love, affection
-- [愛情 (あいじょう)](vocab-06.md#愛情-あいじょう) — love, affection
-- [感じる/ずる (かんじる)](vocab-13.md#感じるずる-かんじる) — to feel, to sense
-- [感動 (かんどう)](vocab-13.md#感動-かんどう) — to be moved, touched (emotionally)
-- [感度 (かんど)](vocab-13.md#感度-かんど) — sensitivity, reception (signal strength)
-- [感情 (かんじょう)](vocab-13.md#感情-かんじょう) — emotion, feeling
-- [感激 (かんげき)](vocab-13.md#感激-かんげき) — deep emotion, to be deeply moved
-- [感無量 (かんむりょう)](vocab-14.md#感無量-かんむりょう) — being full of emotion, deeply moved beyond words
-- [感覚 (かんかく)](vocab-13.md#感覚-かんかく) — a sense, a sensation, a feel (for something)
-- [感謝 (かんしゃ)](vocab-13.md#感謝-かんしゃ) — thanks, gratitude
-- [態度 (たいど)](vocab-25.md#態度-たいど) — manner, bearing, attitude, behavior
-- [慌ただしい (あわただしい)](vocab-07.md#慌ただしい-あわただしい) — busy, hurried, hectic
-- [慌てる (あわてる)](vocab-03.md#慌てる-あわてる) — to panic
-- [慎む (つつしむ)](vocab-28.md#慎む-つつしむ) — to refrain (from), to be discreet/careful, to exercise restraint
-- [慎重 (しんちょう)](vocab-21.md#慎重-しんちょう) — cautious, careful, prudent, discreet
-- [慣習 (かんしゅう)](vocab-13.md#慣習-かんしゅう) — a habit, custom (social/cultural convention)
-- [慰めた (なぐさめた)](vocab-02.md#慰めた-なぐさめた) — Comforted, consoled
-- [憂鬱 【ゆううつ】](vocab-05.md#憂鬱-ゆううつ) — Melancholy, depression, a gloomy/dispirited mood (can range from mild blues t...
-- [憂鬱/憂うつ (ゆううつ)](vocab-34.md#憂鬱憂うつ-ゆううつ) — depression, gloom, melancholy
-- [憎い (にくい)](vocab-30.md#憎い-にくい) — hateful, detestable (can also be used admiringly, "impressively clever/sly")
-- [憎しみ (にくしみ)](vocab-30.md#憎しみ-にくしみ) — hatred, detestation
-- [憎む (にくむ)](vocab-30.md#憎む-にくむ) — to hate, to detest
-- [憎らしい (にくらしい)](vocab-30.md#憎らしい-にくらしい) — hateful, detestable, infuriatingly (can be used playfully too)
-- [憤慨 【ふんがい】](vocab-05.md#憤慨-ふんがい) — Indignation, resentful anger (especially at something perceived as unjust).
-- [憧れ (あこがれ)](vocab-06.md#憧れ-あこがれ) — admiration, adoration, yearning
-- [憧れる (あこがれる)](vocab-06.md#憧れる-あこがれる) — to long for, be attracted to, admire (an ideal)
-- [懐かしい (なつかしい)](vocab-30.md#懐かしい-なつかしい) — dear, missed, nostalgic, bringing back fond memories
-- [懲りる (こりる)](vocab-02.md#懲りる-こりる) — To learn one's lesson, be discouraged from repeating a mistake
-- [懸念 (けねん)](vocab-03.md#懸念-けねん) — worry, concern
-- [懸賞 (けんしょう)](vocab-18.md#懸賞-けんしょう) — prize, reward (as in a prize competition or reward for information)
-- [成人 (せいじん)](vocab-22.md#成人-せいじん) — adult, grown-up; to come of age
-- [成分 (せいぶん)](vocab-22.md#成分-せいぶん) — an ingredient, a component (especially chemical/material)
-- [成功 (せいこう)](vocab-22.md#成功-せいこう) — success, to succeed
-- [成熟 (せいじゅく)](vocab-22.md#成熟-せいじゅく) — ripeness, maturity (of a person, fruit, situation, etc.)
-- [成立 (せいりつ)](vocab-22.md#成立-せいりつ) — to be established/formed, to be concluded (e.g. a law, deal, or relationship ...
-- [成績 (せいせき)](vocab-22.md#成績-せいせき) — a (school) record, results, grades
-- [成長/生長 (せいちょう)](vocab-22.md#成長生長-せいちょう) — growth, to grow up, to mature
-- [我 (われ)](vocab-36.md#我-われ) — oneself, I, ego, self
-- [我々 (われわれ)](vocab-36.md#我々-われわれ) — we, our (formal, often used in speeches or writing)
-- [我が~ (わが)](vocab-36.md#我が-わが) — my, our (formal/literary possessive prefix, e.g. わが国 "my country")
-- [或る (ある)](vocab-06.md#或る-ある) — a certain, one, some (used before a noun to introduce it vaguely)
-- [戦い (たたかい)](vocab-26.md#戦い-たたかい) — a battle, a war, a fight, a struggle
-- [戦う (たたかう)](vocab-26.md#戦う-たたかう) — to fight, to do battle, to make war, to contend
-- [戦力 (せんりょく)](vocab-23.md#戦力-せんりょく) — war potential, military strength, fighting capability
-- [戦災 (せんさい)](vocab-23.md#戦災-せんさい) — war damage, war-related disaster
-- [戦術 (せんじゅつ)](vocab-23.md#戦術-せんじゅつ) — tactics, strategy
-- [戯曲 (ぎきょく)](vocab-04.md#戯曲-ぎきょく) — Drama, play (script)
-- [所以 【ゆえん】](vocab-05.md#所以-ゆえん) — Reason, the reason why (something is so); often in the pattern 〜の所以である, "this...
-- [所得 (しょとく)](vocab-06.md#所得-しょとく) — income
-- [所有 (しょゆう)](vocab-21.md#所有-しょゆう) — ownership, possession; to own
-- [扇子 (せんす)](vocab-23.md#扇子-せんす) — a folding fan
-- [扇風機 (せんぷうき)](vocab-23.md#扇風機-せんぷうき) — an electric fan
-- [扉 (とびら)](vocab-29.md#扉-とびら) — a door
-- [手伝い (てつだい)](vocab-29.md#手伝い-てつだい) — help, assistance (as a noun)
-- [手伝う (てつだう)](vocab-29.md#手伝う-てつだう) — to help (with someone's work/task)
-- [手引き (てびき)](vocab-29.md#手引き-てびき) — guidance, a guidebook/manual, leading someone by the hand
-- [手当 (てあて)](vocab-01.md#手当-てあて) — allowance; first aid; treatment
-- [手本 (てほん)](vocab-29.md#手本-てほん) — a model, example to follow, copybook
-- [手続き (てつづき)](vocab-29.md#手続き-てつづき) — a procedure, process, formalities
-- [手芸 (てげい)](vocab-29.md#手芸-てげい) — handicraft, needlework/craftwork
-- [手薄 (てうす)](vocab-04.md#手薄-てうす) — Shorthanded
-- [手袋 (てぶくろ)](vocab-29.md#手袋-てぶくろ) — gloves
-- [手近 (てぢか)](vocab-29.md#手近-てぢか) — close by, nearby, handy, familiar
-- [手配 (てはい)](vocab-29.md#手配-てはい) — arrangement, preparation, disposition (also: an arrest warrant/manhunt arrang...
-- [手間 (てま)](vocab-29.md#手間-てま) — trouble, bother, time and labor (needed for a task)
-- [手首 (てくび)](vocab-29.md#手首-てくび) — a wrist
-- [打ち切る (うちきる)](vocab-08.md#打ち切る-うちきる) — to cut off, to break off, to discontinue
-- [打ち合わせ (うちあわせ)](vocab-08.md#打ち合わせ-うちあわせ) — arrangements, a (business) meeting to coordinate plans
-- [打ち合わせる (うちあわせる)](vocab-08.md#打ち合わせる-うちあわせる) — to arrange/discuss beforehand, to knock together
-- [打ち明ける (うちあける)](vocab-08.md#打ち明ける-うちあける) — to confide, to confess, to tell the truth (about something hidden)
-- [打ち消し (うちけし)](vocab-08.md#打ち消し-うちけし) — denial, negation
-- [打ち消す (うちけす)](vocab-08.md#打ち消す-うちけす) — to deny, negate, drown out (a sound)
-- [打ち解ける (うちとける)](vocab-01.md#打ち解ける-うちとける) — to open up (to someone), to become unreserved, to lower one's guard
-- [打ち込む (うちこむ)](vocab-08.md#打ち込む-うちこむ) — to beat/drive in, to dedicate oneself to, to type in (data)
-- [打撃 (だげき)](vocab-25.md#打撃-だげき) — a blow, impact, damage (literal or figurative); batting (baseball)
-- [打開 (だかい)](vocab-25.md#打開-だかい) — a breakthrough, to break through (a deadlock or difficult situation)
-- [扱う (あつかう)](vocab-03.md#扱う-あつかう) — to handle
-- [扶養 【ふよう】](vocab-05.md#扶養-ふよう) — Support (a dependent), providing for someone financially (a legal/tax term, e...
-- [批判 (ひはん)](vocab-32.md#批判-ひはん) — criticism, to criticize, comment critically
-- [批評 (ひひょう)](vocab-32.md#批評-ひひょう) — criticism, critique, review, commentary
-- [承る (うけたまわる)](vocab-08.md#承る-うけたまわる) — to hear, to receive, to comply with (humble form of 聞く/受ける/引き受ける)
-- [承諾 (しょうだく)](vocab-02.md#承諾-しょうだく) — Consent, agreement
-- [技能 (ぎのう)](vocab-14.md#技能-ぎのう) — skill, ability, technical proficiency
-- [把握 (はあく)](vocab-04.md#把握-はあく) — Grasp, understanding
-- [抑制 (よくせい)](vocab-36.md#抑制-よくせい) — restraint, repression, inhibition
-- [抑圧 (よくあつ)](vocab-04.md#抑圧-よくあつ) — Repression
-- [投入 (とうにゅう)](vocab-29.md#投入-とうにゅう) — infusion, input, injection (of resources, money, etc.)
-- [投票 (とうひょう)](vocab-29.md#投票-とうひょう) — voting, a vote, a ballot
-- [抗生物質 (こうせいぶっしつ)](vocab-03.md#抗生物質-こうせいぶっしつ) — antibiotic
-- [折り返す (おりかえす)](vocab-11.md#折り返す-おりかえす) — to fold back, turn up (e.g., sleeves); to turn back and return; to call back
-- [折衷 (せっちゅう)](vocab-04.md#折衷-せっちゅう) — Eclecticism, compromise
-- [折角 (せっかく)](vocab-23.md#折角-せっかく) — with great effort/trouble (taken); (used adverbially) "going to all this trou...
-- [披露宴 (ひろうえん)](vocab-32.md#披露宴-ひろうえん) — a wedding reception, a banquet to announce a marriage
-- [抱える (かかえる)](vocab-12.md#抱える-かかえる) — to hold (in one's arms), to carry (a burden), to have (a problem), to employ
-- [抱く (だく)](vocab-25.md#抱く-だく) — to hold in one's arms, to embrace
-- [抱っこ (だっこ)](vocab-26.md#抱っこ-だっこ) — picking someone up and holding them, carrying in one's arms (often a child)
-- [抵抗 (ていこう)](vocab-06.md#抵抗-ていこう) — resistance
-- [押さえる (おさえる)](vocab-10.md#押さえる-おさえる) — to hold down, press, restrain, grasp
-- [押し切る (おしきる)](vocab-10.md#押し切る-おしきる) — to overcome, override, push through
-- [押し寄せる (おしよせる)](vocab-10.md#押し寄せる-おしよせる) — to surge forward, crowd in
-- [押し込む (おしこむ)](vocab-10.md#押し込む-おしこむ) — to cram into, stuff into; to force one's way in
-- [抽象 (ちゅうしょう)](vocab-27.md#抽象-ちゅうしょう) — abstraction, abstract
-- [抽選 (ちゅうせん)](vocab-27.md#抽選-ちゅうせん) — a lottery, drawing lots
-- [担当 (たんとう)](vocab-26.md#担当-たんとう) — charge (of a duty/area), in charge, responsible (for)
-- [担架 (たんか)](vocab-02.md#担架-たんか) — Stretcher (medical)
-- [拍手 (はくしゅ)](vocab-31.md#拍手-はくしゅ) — applause, hand-clapping
-- [拒否 (きょひ)](vocab-02.md#拒否-きょひ) — Refusal, rejection
-- [拒絶 (きょぜつ)](vocab-16.md#拒絶-きょぜつ) — refusal, denial, rejection
-- [拘束 (こうそく)](vocab-03.md#拘束-こうそく) — restraint
-- [拝む (おがむ)](vocab-10.md#拝む-おがむ) — to worship, pray; (humble) to see
-- [拝借 【はいしゃく】](vocab-05.md#拝借-はいしゃく) — (Humble) borrowing — a humble-register word for "to borrow," used when the sp...
-- [拡充 (かくじゅう)](vocab-12.md#拡充-かくじゅう) — expansion and enrichment, enlargement (of facilities, services, systems)
-- [拡大 (かくだい)](vocab-12.md#拡大-かくだい) — magnification, expansion, enlargement
-- [拡張 (かくちょう)](vocab-12.md#拡張-かくちょう) — extension, enlargement (often of territory, scope, or systems)
-- [拡散 (かくさん)](vocab-12.md#拡散-かくさん) — diffusion, spreading (of information, substances, etc.)
-- [持ち上がる (もちあがる)](vocab-34.md#持ち上がる-もちあがる) — to be lifted, raised; (an issue, problem) to come up, arise
-- [持ち上げる (もちあげる)](vocab-34.md#持ち上げる-もちあげる) — to lift, raise (an object); (figuratively) to flatter
-- [持ち切り (もちきり)](vocab-34.md#持ち切り-もちきり) — the hot topic, the talk of the town, what everyone's talking about
-- [持って行く (もっていく)](vocab-34.md#持って行く-もっていく) — to take (something) away, bring along
-- [指令 (しれい)](vocab-21.md#指令-しれい) — order, command, instruction (often official/military)
-- [指図 (さしず)](vocab-02.md#指図-さしず) — Instructions, directions (often with a nuance of being bossy or unsolicited)
-- [指定 (してい)](vocab-21.md#指定-してい) — designation, specification, to designate/specify
-- [指導 (しどう)](vocab-21.md#指導-しどう) — guidance, instruction, coaching, discipline
-- [指差す (ゆびさす)](vocab-35.md#指差す-ゆびさす) — to point, indicate (with a finger)
-- [指揮者 (しきしゃ)](vocab-20.md#指揮者-しきしゃ) — conductor (of an orchestra), commander
-- [指摘 (してき)](vocab-02.md#指摘-してき) — Indication, pointing out (a mistake, problem, or fact)
-- [指摘する (してきする)](vocab-21.md#指摘する-してきする) — to point out (a problem, mistake, or fact)
-- [指示 (しじ)](vocab-02.md#指示-しじ) — Instruction, directive
-- [挑む (いどむ)](vocab-04.md#挑む-いどむ) — To challenge (see nuance cluster above)
-- [挑戦 (ちょうせん)](vocab-04.md#挑戦-ちょうせん) — Challenge
-- [挨拶 (あいさつ)](vocab-03.md#挨拶-あいさつ) — greeting
-- [捕まえる (つかまえる)](vocab-28.md#捕まえる-つかまえる) — to catch, to arrest, to grab hold of
-- [捕まる (つかまる)](vocab-28.md#捕まる-つかまる) — to be caught, to be arrested, to get hold of / hang onto something
-- [捕らえる (とらえる)](vocab-30.md#捕らえる-とらえる) — to catch, capture, grasp (also figuratively: to grasp an idea/meaning)
-- [捕る (とる)](vocab-32.md#捕る-とる) — to catch, capture, seize
-- [捻る (つねる)](vocab-29.md#捻る-つねる) — to pinch
-- [授業 (じゅぎょう)](vocab-20.md#授業-じゅぎょう) — class, lesson (at school)
-- [掛かる/罹る (かかる)](vocab-12.md#掛かる罹る-かかる) — to fall ill, to be afflicted (with a disease); also generally "to hang, to co...
-- [掛け算 (かけざん)](vocab-12.md#掛け算-かけざん) — multiplication
-- [探検 (たんけん)](vocab-04.md#探検-たんけん) — Exploration
-- [接する (せっする)](vocab-23.md#接する-せっする) — to come in contact with; to deal with/treat (people); to adjoin, border
-- [接戦 【せっせん】](vocab-05.md#接戦-せっせん) — A close match/contest, a tight race where the outcome is uncertain until the ...
-- [接続 (せつぞく)](vocab-23.md#接続-せつぞく) — connection, to connect, to join
-- [接続詞 (せつぞくし)](vocab-23.md#接続詞-せつぞくし) — conjunction (grammar term)
-- [接触 (せっしょく)](vocab-23.md#接触-せっしょく) — touch, contact (physical or interpersonal/diplomatic)
-- [接近 (せっきん)](vocab-23.md#接近-せっきん) — approach, to come close to, draw near
-- [控える 【ひかえる】](vocab-05.md#控える-ひかえる) — To hold back, refrain from, cut down on; also "to be near/at hand" (時間が差し迫る) ...
-- [控除 (こうじょ)](vocab-18.md#控除-こうじょ) — subtraction, deduction
-- [推奨 (すいしょう)](vocab-21.md#推奨-すいしょう) — recommendation, to recommend
-- [推測 (すいそく)](vocab-22.md#推測-すいそく) — a guess, supposition, to suppose/infer
-- [推理 (すいり)](vocab-22.md#推理-すいり) — inference, reasoning, deduction
-- [推進 (すいしん)](vocab-21.md#推進-すいしん) — propulsion; to propel, promote, advance (a plan/policy)
-- [掲げる (かかげる)](vocab-03.md#掲げる-かかげる) — to hoist
-- [掲載 (けいさい)](vocab-02.md#掲載-けいさい) — Publication (in print), posting
-- [掴む (つかむ)](vocab-28.md#掴む-つかむ) — to catch, to take hold of, to seize, to grasp, to grip
-- [掻き回す (かきまわす)](vocab-12.md#掻き回す-かきまわす) — to stir up, to rummage through, to throw into confusion
-- [揃い (そろい)](vocab-24.md#揃い-そろい) — a matching set, a complete set
-- [揃う (そろう)](vocab-24.md#揃う-そろう) — to gather, come together, be complete/uniform
-- [揃える (そろえる)](vocab-24.md#揃える-そろえる) — to arrange in order, make uniform, gather (a complete set)
-- [描く (えがく)](vocab-09.md#描く-えがく) — to draw, to depict, to describe (in writing/art)
-- [描写 (びょうしゃ)](vocab-04.md#描写-びょうしゃ) — Depiction
-- [提唱する 【ていしょうする】](vocab-05.md#提唱する-ていしょうする) — To advocate, propose (a theory, policy, or idea), especially in academic or p...
-- [揚げる (あげる)](vocab-06.md#揚げる-あげる) — to hoist (a flag); to deep-fry
-- [換気 (かんき)](vocab-13.md#換気-かんき) — ventilation
-- [換算 (かんさん)](vocab-13.md#換算-かんさん) — conversion (of units, currency, etc.)
-- [握手 (あくしゅ)](vocab-06.md#握手-あくしゅ) — a handshake; to shake hands
-- [援助 (えんじょ)](vocab-09.md#援助-えんじょ) — assistance, support
-- [揺さぶる (ゆさぶる)](vocab-35.md#揺さぶる-ゆさぶる) — to shake, jolt, sway, disturb, shock
-- [揺らぐ (ゆらぐ)](vocab-35.md#揺らぐ-ゆらぐ) — to shake, totter, waver, falter
-- [損 (そん)](vocab-24.md#損-そん) — a loss; to suffer a loss, be at a disadvantage
-- [損なう (そこなう)](vocab-24.md#損なう-そこなう) — to spoil, ruin, hurt, damage
-- [損失 (そんしつ)](vocab-24.md#損失-そんしつ) — a loss (financial or otherwise)
-- [損害 (そんがい)](vocab-24.md#損害-そんがい) — damage, a loss (esp. financial/material)
-- [損得 (そんとく)](vocab-25.md#損得-そんとく) — loss and gain, profit and loss, advantages and disadvantages
-- [携[わ]る (たずさわる)](vocab-26.md#携わる-たずさわる) — to participate in, take part in, be concerned/involved with (often work or a ...
-- [摩擦 【まさつ】](vocab-05.md#摩擦-まさつ) — Friction (both physical, as in physics, and figurative, as in interpersonal o...
-- [操作 (そうさ)](vocab-24.md#操作-そうさ) — operation, handling, manipulation (of a machine/device)
-- [操縦 (そうじゅう)](vocab-24.md#操縦-そうじゅう) — piloting, operating, to steer/control
-- [支出 (ししゅつ)](vocab-20.md#支出-ししゅつ) — expenditure, disbursement, spending
-- [支給 (しきゅう)](vocab-19.md#支給-しきゅう) — to provide, supply, pay out (allowance, wages, equipment)
-- [改まる (あらたまる)](vocab-07.md#改まる-あらたまる) — to become formal/stiff; to be renewed, reformed
-- [改めて (あらためて)](vocab-07.md#改めて-あらためて) — once more, afresh, formally (doing something again with renewed attention)
-- [改める (あらためる)](vocab-07.md#改める-あらためる) — to renew, correct, reform, revise
-- [改善 (かいぜん)](vocab-11.md#改善-かいぜん) — improvement, betterment
-- [改定 (かいてい)](vocab-11.md#改定-かいてい) — revision (of rules, fares, prices)
-- [改悪 (かいあく)](vocab-12.md#改悪-かいあく) — a change for the worse
-- [改札 (かいさつ)](vocab-12.md#改札-かいさつ) — a ticket gate (at a train station)
-- [改良 (かいりょう)](vocab-11.md#改良-かいりょう) — improvement, reform (often of a physical product or method)
-- [改革 (かいかく)](vocab-12.md#改革-かいかく) — a reform
-- [攻め (せめ)](vocab-23.md#攻め-せめ) — the offensive, attack (as a noun)
-- [攻撃(する) (こうげき)](vocab-18.md#攻撃する-こうげき) — attack, offense, assault
-- [攻撃性 (こうげきせい)](vocab-04.md#攻撃性-こうげきせい) — Aggressiveness
-- [放棄 (ほうき)](vocab-32.md#放棄-ほうき) — abandonment, renunciation, to give up/renounce
-- [放棄 【ほうき】](vocab-05.md#放棄-ほうき) — To give up, abandon, relinquish (a right, responsibility, or possession).
-- [放置 (ほうち)](vocab-03.md#放置-ほうち) — to leave neglected
-- [政党 (せいとう)](vocab-22.md#政党-せいとう) — a political party
-- [政府 (せいふ)](vocab-22.md#政府-せいふ) — the government, the Cabinet/administration
-- [政権 (せいけん)](vocab-22.md#政権-せいけん) — political power, administration, regime
-- [政治 (せいじ)](vocab-22.md#政治-せいじ) — politics, government, political affairs
-- [政策 (せいさく)](vocab-04.md#政策-せいさく) — Policy
-- [故(に) (ゆえ(に))](vocab-35.md#故に-ゆえに) — therefore, accordingly, consequently
-- [敏感 (びんかん)](vocab-32.md#敏感-びんかん) — sensitivity, sensitive
-- [救う (すくう)](vocab-22.md#救う-すくう) — to save, rescue, help
-- [救助 (きゅうじょ)](vocab-15.md#救助-きゅうじょ) — rescue
-- [救援 (きゅうえん)](vocab-15.md#救援-きゅうえん) — relief, rescue, aid
-- [救済 (きゅうさい)](vocab-01.md#救済-きゅうさい) — relief, aid, salvation
-- [敗北 (はいぼく)](vocab-31.md#敗北-はいぼく) — defeat, being defeated
-- [教え (おしえ)](vocab-10.md#教え-おしえ) — teaching, instruction, doctrine
-- [教わる (おそわる)](vocab-10.md#教わる-おそわる) — to be taught, to learn (from someone)
-- [教員 (きょういん)](vocab-15.md#教員-きょういん) — a teacher, faculty member, teaching staff
-- [教師 (きょうし)](vocab-15.md#教師-きょうし) — a teacher, an instructor
-- [教授 (きょうじゅ)](vocab-15.md#教授-きょうじゅ) — a professor; (as する verb) to teach, instruct
-- [教材 (きょうざい)](vocab-15.md#教材-きょうざい) — teaching material(s), educational material
-- [教科書 (きょうかしょ)](vocab-15.md#教科書-きょうかしょ) — a textbook
-- [教習 (きょうしゅう)](vocab-15.md#教習-きょうしゅう) — instruction, training, lessons (especially for a skill like driving)
-- [教職 (きょうしょく)](vocab-15.md#教職-きょうしょく) — the teaching profession, a position as a teacher
-- [教訓 (きょうくん)](vocab-02.md#教訓-きょうくん) — Lesson, moral
-- [教養 (きょうよう)](vocab-15.md#教養-きょうよう) — culture, cultivation, general education/refinement (breadth of knowledge and ...
-- [敢えて (あえて)](vocab-06.md#敢えて-あえて) — dare (to do something), deliberately (despite difficulty/risk)
-- [敢然 (かんぜん)](vocab-01.md#敢然-かんぜん) — boldly, bravely, resolutely, determinedly
-- [散らかす (ちらかす)](vocab-28.md#散らかす-ちらかす) — to scatter things about, to make a mess, to litter
-- [散らかる (ちらかる)](vocab-28.md#散らかる-ちらかる) — to be scattered about, to be in disorder, to be messy
-- [散らす (ちらす)](vocab-28.md#散らす-ちらす) — to scatter, to spread, to distract
-- [敬う (うやまう)](vocab-08.md#敬う-うやまう) — to respect, to esteem, to revere
-- [数字 (すうじ)](vocab-22.md#数字-すうじ) — numeral, digit, figure
-- [数学 (すうがく)](vocab-22.md#数学-すうがく) — mathematics
-- [整う (ととのう)](vocab-30.md#整う-ととのう) — to be ready, to be arranged, to be well-ordered/proportioned
-- [整備 (せいび)](vocab-22.md#整備-せいび) — maintenance, equipping, putting in order/readiness
-- [整列 (せいれつ)](vocab-22.md#整列-せいれつ) — to stand/form in a line, to line up in order
-- [整数 (せいすう)](vocab-22.md#整数-せいすう) — an integer, a whole number
-- [整然 (せいぜん)](vocab-01.md#整然-せいぜん) — orderly, regular, systematic, well-organized
-- [整理 (せいり)](vocab-22.md#整理-せいり) — to organize, put in order, tidy up (also figuratively: sort out one's thoughts)
-- [敵わない (かなわない)](vocab-13.md#敵わない-かなわない) — to be no match for, to be unable to compete with
-- [敷く (しく)](vocab-19.md#敷く-しく) — to spread, lay out, carpet, cover (a surface)
-- [文化財 (ぶんかざい)](vocab-32.md#文化財-ぶんかざい) — a cultural asset, cultural property
-- [文字 (もじ)](vocab-34.md#文字-もじ) — a letter, a character (written symbol)
-- [文献 (ぶんけん)](vocab-32.md#文献-ぶんけん) — literature, (reference) documents, written sources
-- [料金 (りょうきん)](vocab-33.md#料金-りょうきん) — charge, fee, toll, fare
-- [斜面 (しゃめん)](vocab-01.md#斜面-しゃめん) — slope, incline
-- [斬新な (ざんしんな)](vocab-03.md#斬新な-ざんしんな) — novel, original
-- [断定 (だんてい)](vocab-26.md#断定-だんてい) — conclusion, a definitive judgment; to conclude/decide firmly
-- [断水 (だんすい)](vocab-26.md#断水-だんすい) — water supply cut off, water outage
-- [断然 (だんぜん)](vocab-26.md#断然-だんぜん) — firmly, definitely, absolutely, by far
-- [断言 (だんげん)](vocab-26.md#断言-だんげん) — declaration, positive/firm statement; to assert confidently
-- [断面 (だんめん)](vocab-27.md#断面-だんめん) — a section, a cross section, a profile (of something cut through)
-- [新た (あらた)](vocab-07.md#新た-あらた) — new, fresh, renewed
-- [新人 (しんじん)](vocab-21.md#新人-しんじん) — newcomer, rookie, new employee
-- [新婚旅行 (しんこんりょこう)](vocab-21.md#新婚旅行-しんこんりょこう) — honeymoon
-- [新幹線 (しんかんせん)](vocab-21.md#新幹線-しんかんせん) — the Shinkansen, Japan's bullet train
-- [新興 (しんこう)](vocab-21.md#新興-しんこう) — newly risen, emerging, up-and-coming
-- [方式 (ほうしき)](vocab-32.md#方式-ほうしき) — a formula, a method, a system
-- [方程式 (ほうていしき)](vocab-32.md#方程式-ほうていしき) — an equation
-- [方策 (ほうさく)](vocab-32.md#方策-ほうさく) — a policy, a scheme, measures (to address something)
-- [於いて (おいて)](vocab-09.md#於いて-おいて) — at, in, as to (formal locative/topic marker)
-- [施す 【ほどこす】](vocab-05.md#施す-ほどこす) — To give (charity), perform/apply (a treatment, measure, or decoration), bestow.
-- [施設 (しせつ)](vocab-02.md#施設-しせつ) — Facility, institution
-- [旅券 (りょけん)](vocab-33.md#旅券-りょけん) — passport
-- [旅客 (りょかく)](vocab-33.md#旅客-りょかく) — traveler, passenger
-- [旅行 (りょこう)](vocab-33.md#旅行-りょこう) — travel, trip, journey
-- [旅費 (りょひ)](vocab-36.md#旅費-りょひ) — travel expenses
-- [旅館 (りょかん)](vocab-33.md#旅館-りょかん) — Japanese-style inn
-- [旗 (はた)](vocab-31.md#旗-はた) — a flag, a banner
-- [既に (すでに)](vocab-22.md#既に-すでに) — already
-- [既婚者 (きこんしゃ)](vocab-01.md#既婚者-きこんしゃ) — married person
-- [日中 (にっちゅう)](vocab-30.md#日中-にっちゅう) — during the daytime
-- [日傘 (ひがさ)](vocab-31.md#日傘-ひがさ) — a parasol (sun umbrella)
-- [日光 (にっこう)](vocab-30.md#日光-にっこう) — sunlight, sunshine
-- [日課 (にっか)](vocab-30.md#日課-にっか) — daily work, daily routine
-- [日陰 (ひかげ)](vocab-31.md#日陰-ひかげ) — (the) shade; a shaded, obscure position
-- [旦那 (だんな)](vocab-26.md#旦那-だんな) — one's husband (casual); one's master/patron (historical/business)
-- [旧知 (きゅうち)](vocab-15.md#旧知-きゅうち) — an old acquaintance; someone one has known for a long time
-- [明かす (あかす)](vocab-06.md#明かす-あかす) — to disclose, confide, reveal (a secret); to spend (the night)
-- [明かり (あかり)](vocab-06.md#明かり-あかり) — a light, lamp, glow
-- [明くる (あくる)](vocab-06.md#明くる-あくる) — the next/following (day, year) — adnominal, used only before nouns
-- [明ける (あける)](vocab-06.md#明ける-あける) — to dawn; to come to an end (of a period, year, season)
-- [明け方 (あけがた)](vocab-06.md#明け方-あけがた) — dawn, daybreak
-- [明らか (あきらか)](vocab-06.md#明らか-あきらか) — clear, obvious, evident, plain
-- [明らむ (あからむ)](vocab-06.md#明らむ-あからむ) — to grow light, brighten (as in dawn breaking)
-- [明朗 【めいろう】](vocab-05.md#明朗-めいろう) — Cheerful, bright (in personality); also "clear/transparent" (e.g., in account...
-- [明示的 【めいじてき】](vocab-05.md#明示的-めいじてき) — Explicit, clearly and directly stated (as opposed to implied).
-- [星座 (せいざ)](vocab-22.md#星座-せいざ) — constellation (also used for Western zodiac signs)
-- [映える (はえる)](vocab-01.md#映える-はえる) — to shine, look attractive, be set off (by contrast)
-- [映像 (えいぞう)](vocab-09.md#映像-えいぞう) — an image, a picture, footage (video/visual media)
-- [映写 (えいしゃ)](vocab-09.md#映写-えいしゃ) — projection (of a film), screening
-- [是正 (ぜせい)](vocab-23.md#是正-ぜせい) — correction, rectification, putting right (formal/official)
-- [是非とも (ぜひとも)](vocab-23.md#是非とも-ぜひとも) — by all means, at all costs, please do
-- [昼食 (ちゅうしょく)](vocab-27.md#昼食-ちゅうしょく) — lunch
-- [時刻 (じこく)](vocab-19.md#時刻-じこく) — time, the hour, a point in time
-- [時刻表 (じこくひょう)](vocab-19.md#時刻表-じこくひょう) — a schedule, timetable (trains, buses, flights)
-- [時差 (じさ)](vocab-19.md#時差-じさ) — difference in time (between time zones); jet lag
-- [時間割 (じかんわり)](vocab-19.md#時間割-じかんわり) — timetable, class schedule
-- [普遍性 (ふへんせい)](vocab-04.md#普遍性-ふへんせい) — Universality
-- [景気 (けいき)](vocab-17.md#景気-けいき) — business conditions, the economy (its state), economic climate
-- [景色 (けしき)](vocab-17.md#景色-けしき) — scene, scenery, view
-- [晴天 (せいてん)](vocab-22.md#晴天-せいてん) — fine/fair weather, a clear sky
-- [暗に (あんに)](vocab-07.md#暗に-あんに) — implicitly, indirectly, secretly (suggesting something without stating directly)
-- [暗唱 (あんしょう)](vocab-04.md#暗唱-あんしょう) — Memorization/recitation
-- [暗殺 (あんさつ)](vocab-07.md#暗殺-あんさつ) — assassination
-- [暗示 (あんじ)](vocab-07.md#暗示-あんじ) — a suggestion, hint, implication
-- [暗算 (あんざん)](vocab-07.md#暗算-あんざん) — mental arithmetic, calculating in one's head
-- [暗記 (あんき)](vocab-07.md#暗記-あんき) — memorization, learning by heart
-- [暦年齢 (れきねんれい)](vocab-03.md#暦年齢-れきねんれい) — chronological age
-- [暮らし (くらし)](vocab-16.md#暮らし-くらし) — life, living, livelihood, one's daily existence
-- [暮らす (くらす)](vocab-16.md#暮らす-くらす) — to live, to make a living, to get by, to spend one's days
-- [暮れ (くれ)](vocab-16.md#暮れ-くれ) — nightfall, sunset, the end/close of the year
-- [暮れる (くれる)](vocab-16.md#暮れる-くれる) — to get dark, to grow late (of the day); (figuratively) to be at a loss, immersed
-- [暴れる (あばれる)](vocab-03.md#暴れる-あばれる) — to rampage (see nuance cluster above)
-- [暴動 (ぼうどう)](vocab-32.md#暴動-ぼうどう) — a riot, to start a riot
-- [曖昧 (あいまい)](vocab-06.md#曖昧-あいまい) — unclear, vague, ambiguous, equivocal
-- [曲 (きょく)](vocab-16.md#曲-きょく) — a piece of music, a song, a tune
-- [曲線 (きょくせん)](vocab-16.md#曲線-きょくせん) — a curve (geometric or figurative, e.g. a graph line)
-- [書[き]取[り] (かきとり)](vocab-12.md#書き取り-かきとり) — a dictation (writing exercise), spelling/writing-down practice
-- [書[き]取る (かきとる)](vocab-12.md#書き取る-かきとる) — to write down, to take dictation, to transcribe
-- [書[き]留[め] (かきとめ)](vocab-12.md#書き留め-かきとめ) — registered mail
-- [書店 (しょてん)](vocab-21.md#書店-しょてん) — bookstore
-- [書籍 (しょせき)](vocab-21.md#書籍-しょせき) — books, publications (formal term)
-- [書評 (しょひょう)](vocab-21.md#書評-しょひょう) — book review
-- [書道 (しょどう)](vocab-21.md#書道-しょどう) — (Japanese) calligraphy
-- [書類 (しょるい)](vocab-21.md#書類-しょるい) — documents, papers (official/business forms)
-- [月並み (つきなみ)](vocab-28.md#月並み-つきなみ) — trite, commonplace, hackneyed, mediocre
-- [月日 (つきひ)](vocab-28.md#月日-つきひ) — time, days, the passage of time ("time flies")
-- [月曜日/月 (げつようび/げつ)](vocab-17.md#月曜日月-げつようびげつ) — Monday
-- [月末 (げつまつ)](vocab-17.md#月末-げつまつ) — the end of the month
-- [月給 (げっきゅう)](vocab-17.md#月給-げっきゅう) — a monthly salary, monthly pay
-- [月謝 (げっしゃ)](vocab-02.md#月謝-げっしゃ) — Monthly tuition fee
-- [月賦 (げっぷ)](vocab-17.md#月賦-げっぷ) — a monthly installment plan
-- [有り難い (ありがたい)](vocab-07.md#有り難い-ありがたい) — grateful, thankful; (of an offer/situation) welcome, appreciated
-- [有利 (ゆうり)](vocab-35.md#有利-ゆうり) — profitable, advantageous, favorable
-- [有力 (ゆうりょく)](vocab-35.md#有力-ゆうりょく) — powerful, influential, leading
-- [有料 (ゆうりょう)](vocab-35.md#有料-ゆうりょう) — charged, pay (e.g. toll road), fee-based
-- [有望 (ゆうぼう)](vocab-35.md#有望-ゆうぼう) — promising, full of promise
-- [有様 (ありさま)](vocab-07.md#有様-ありさま) — a state, condition, the way things are (often with negative connotation)
-- [有無 (うむ)](vocab-08.md#有無-うむ) — whether or not (something exists), existence or non-existence
-- [有益 (ゆうえき)](vocab-34.md#有益-ゆうえき) — helpful, useful, beneficial, instructive
-- [有能 (ゆうのう)](vocab-35.md#有能-ゆうのう) — able, capable, competent
-- [朗読 (ろうどく)](vocab-36.md#朗読-ろうどく) — reading aloud, recitation
-- [望ましい (のぞましい)](vocab-31.md#望ましい-のぞましい) — desirable, advisable, preferable
-- [望む (のぞむ)](vocab-31.md#望む-のぞむ) — to wish, hope for, expect, desire
-- [朝刊 (ちょうかん)](vocab-27.md#朝刊-ちょうかん) — a morning newspaper
-- [期待 (きたい)](vocab-14.md#期待-きたい) — expectation, hope, anticipation
-- [木材 (もくざい)](vocab-19.md#木材-もくざい) — wood, timber, lumber
-- [未だ (いまだ)](vocab-07.md#未だ-いまだ) — still, yet, so far (not yet happened)
-- [未練 【みれん】](vocab-05.md#未練-みれん) — Lingering attachment/regret, reluctance to let go (especially of a past relat...
-- [本舗 (ほんぽ)](vocab-32.md#本舗-ほんぽ) — main shop, main store (the original/head store of a brand)
-- [本音 【ほんね】](vocab-05.md#本音-ほんね) — True intention, one's genuine feelings/opinion (as opposed to a diplomatic pu...
-- [机 (つくえ)](vocab-28.md#机-つくえ) — a desk, a table
-- [杖 (つえ)](vocab-28.md#杖-つえ) — a cane, a (walking) stick, a (magic) wand
-- [束 (たば)](vocab-26.md#束-たば) — a bundle, a bunch (of flowers, papers, etc.)
-- [束ねる (たばねる)](vocab-26.md#束ねる-たばねる) — to bundle, to tie up in a bundle; to unite/lead (a group)
-- [束縛 (そくばく)](vocab-24.md#束縛-そくばく) — restraint, restriction, binding (someone's freedom)
-- [来る (きたる)](vocab-14.md#来る-きたる) — next, coming, forthcoming (adnominal, used before a date/event)
-- [来場 (らいじょう)](vocab-36.md#来場-らいじょう) — to attend, arrive at a venue (for an event, exhibition, etc.)
-- [来客 (らいきゃく)](vocab-33.md#来客-らいきゃく) — a visitor, a guest (who has come to call)
-- [来日 (らいにち)](vocab-33.md#来日-らいにち) — coming to Japan (from abroad)
-- [来週 (らいしゅう)](vocab-33.md#来週-らいしゅう) — next week
-- [東洋 (とうよう)](vocab-29.md#東洋-とうよう) — the East, Asia, the Orient
-- [林業 (りんぎょう)](vocab-33.md#林業-りんぎょう) — forestry
-- [果たして (はたして)](vocab-31.md#果たして-はたして) — really, as expected, is it really true? (often used with a question or doubt)
-- [果たす (はたす)](vocab-31.md#果たす-はたす) — to carry out, fulfill, accomplish (one's duty, purpose, role)
-- [果実 (かじつ)](vocab-13.md#果実-かじつ) — fruit; a profit, the fruits (of one's labor)
-- [枯れる (かれる)](vocab-14.md#枯れる-かれる) — to wither, to die (of plants)
-- [架空 (かくう)](vocab-03.md#架空-かくう) — fictional
-- [柄 (え)](vocab-09.md#柄-え) — a handle, a grip
-- [柄 (がら)](vocab-14.md#柄-がら) — pattern, design; build, physique; character/nature
-- [染まる (そまる)](vocab-24.md#染まる-そまる) — to be dyed, be stained, be infected (by an influence)
-- [染める (そめる)](vocab-24.md#染める-そめる) — to dye, to blush/tint
-- [柔らかい/軟らかい (やわらかい)](vocab-34.md#柔らかい軟らかい-やわらかい) — soft, gentle, tender (meat, texture)
-- [柔軟 (じゅうなん)](vocab-20.md#柔軟-じゅうなん) — flexible, supple, pliable (also figuratively: adaptable)
-- [柔道 (じゅうどう)](vocab-20.md#柔道-じゅうどう) — Judo (Japanese martial art)
-- [柱 (はしら)](vocab-31.md#柱-はしら) — a pillar, a post, a column; (figurative) a mainstay, pillar of support
-- [栄養 (えいよう)](vocab-09.md#栄養-えいよう) — nutrition
-- [校庭 (こうてい)](vocab-18.md#校庭-こうてい) — school grounds, playground, campus
-- [株 (かぶ)](vocab-13.md#株-かぶ) — a stump; a stock, a share
-- [株式 (かぶしき)](vocab-13.md#株式-かぶしき) — a share, stock
-- [核家族 (かくかぞく)](vocab-03.md#核家族-かくかぞく) — nuclear family
-- [根 (ね)](vocab-31.md#根-ね) — a root (of a plant); (figuratively) the root/origin/basic nature of something
-- [根回し 【ねまわし】](vocab-05.md#根回し-ねまわし) — Groundwork, behind-the-scenes lobbying/consensus-building before a formal dec...
-- [格別 (かくべつ)](vocab-12.md#格別-かくべつ) — especially, exceptionally, remarkable
-- [格差 (かくさ)](vocab-01.md#格差-かくさ) — gap, disparity
-- [栽培 (さいばい)](vocab-03.md#栽培-さいばい) — cultivation
-- [桁 (けた)](vocab-17.md#桁-けた) — a digit/place (in a number), a beam, a girder
-- [案 (あん)](vocab-07.md#案-あん) — a plan, proposal, idea
-- [案の定 (あんのじょう)](vocab-07.md#案の定-あんのじょう) — as expected, sure enough (often regarding an anticipated negative outcome)
-- [案内 (あんない)](vocab-07.md#案内-あんない) — guidance, information, invitation
-- [案外 (あんがい)](vocab-07.md#案外-あんがい) — unexpectedly, surprisingly (contrary to expectation)
-- [梅 (うめ)](vocab-08.md#梅-うめ) — a plum, Japanese apricot
-- [梅干し (うめぼし)](vocab-08.md#梅干し-うめぼし) — a pickled (dried) plum
-- [棄権 (きけん)](vocab-01.md#棄権-きけん) — abstention (vote), forfeit
-- [棒読み (ぼうよみ)](vocab-03.md#棒読み-ぼうよみ) — reading in a flat/monotone way
-- [植わる (うわる)](vocab-08.md#植わる-うわる) — to be planted, to stand planted (of trees/plants)
-- [検事 (けんじ)](vocab-18.md#検事-けんじ) — public prosecutor
-- [検査(する) (けんさ)](vocab-18.md#検査する-けんさ) — inspection; to examine, test, audit
-- [楕円 (だえん)](vocab-25.md#楕円-だえん) — an ellipse, an oval
-- [業を煮やす 【ごうをにやす】](vocab-05.md#業を煮やす-ごうをにやす) — To lose patience, become exasperated/fed up (idiomatic expression).
-- [業務 (ぎょうむ)](vocab-15.md#業務-ぎょうむ) — business operations, duties, tasks (in a professional/organizational context)
-- [極端 (きょくたん)](vocab-16.md#極端-きょくたん) — extreme, excessive (na-adjective/noun)
-- [楽 (らく)](vocab-33.md#楽-らく) — comfortable, easy, relieved (of burden)
-- [楽しみ (たのしみ)](vocab-26.md#楽しみ-たのしみ) — pleasure, something to look forward to, a hobby/enjoyment
-- [楽しむ (たのしむ)](vocab-26.md#楽しむ-たのしむ) — to enjoy, to take delight in, to amuse oneself
-- [楽観 (らっかん)](vocab-33.md#楽観-らっかん) — optimism
-- [楽譜 (がくふ)](vocab-01.md#楽譜-がくふ) — sheet music, musical score
-- [概念 (がいねん)](vocab-11.md#概念-がいねん) — a general idea, concept
-- [概略 (がいりゃく)](vocab-11.md#概略-がいりゃく) — an outline, summary
-- [概要 (がいよう)](vocab-11.md#概要-がいよう) — an outline, summary
-- [概論 (がいろん)](vocab-11.md#概論-がいろん) — an outline, introduction (to a field of study, e.g., a textbook title)
-- [構築 (こうちく)](vocab-04.md#構築-こうちく) — Construction
-- [構造 (こうぞう)](vocab-18.md#構造-こうぞう) — structure, construction (of a system or object)
-- [様子 (ようす)](vocab-35.md#様子-ようす) — state, condition, appearance, look
-- [様式 (ようしき)](vocab-35.md#様式-ようしき) — a pattern, a form, a style, a mode
-- [様相 (ようそう)](vocab-35.md#様相-ようそう) — an aspect, a condition, a phase
-- [標本 (ひょうほん)](vocab-32.md#標本-ひょうほん) — a specimen, a sample
-- [標準 (ひょうじゅん)](vocab-32.md#標準-ひょうじゅん) — standard, benchmark, norm
-- [模型 (もけい)](vocab-19.md#模型-もけい) — a model (miniature/scale replica)
-- [模様 【もよう】](vocab-05.md#模様-もよう) — Pattern, design (on fabric, surfaces); also used to describe "the look of thi...
-- [模索 (もさく)](vocab-34.md#模索-もさく) — groping, trial and error, fumbling (for a solution)
-- [権威 (けんい)](vocab-18.md#権威-けんい) — authority (status/influence), a leading expert
-- [権限 (けんげん)](vocab-18.md#権限-けんげん) — authority, commission, competence, power (to act within a scope)
-- [横たえる (よこたえる)](vocab-01.md#横たえる-よこたえる) — to lay down, to wear (a sword, etc.) at one's side
-- [横切る (よこぎる)](vocab-36.md#横切る-よこぎる) — to cross (a street), to cut across
-- [横断 (おうだん)](vocab-09.md#横断-おうだん) — crossing; to cross, traverse
-- [横断歩道 (おうだんほどう)](vocab-09.md#横断歩道-おうだんほどう) — a pedestrian crossing, crosswalk
-- [横綱 (よこづな)](vocab-36.md#横綱-よこづな) — a grand champion (sumo wrestler), the highest sumo rank
-- [橋渡し (はしわたし)](vocab-31.md#橋渡し-はしわたし) — mediation, acting as a go-between, bridging (figuratively)
-- [機能 (きのう)](vocab-14.md#機能-きのう) — a function, capability
-- [機転をきかせる (きてんをきかせる)](vocab-03.md#機転をきかせる-きてんをきかせる) — to improvise cleverly, adapt smartly
-- [檻 (おり)](vocab-11.md#檻-おり) — a cage
-- [欄 (らん)](vocab-33.md#欄-らん) — column (e.g. in a newspaper), space/field (on a form)
-- [欠乏 (けつぼう)](vocab-17.md#欠乏-けつぼう) — want, shortage, deficiency (often of something physical/material)
-- [欠勤 (けっきん)](vocab-02.md#欠勤-けっきん) — Absence from work
-- [欠如 (けつじょ)](vocab-17.md#欠如-けつじょ) — want, lack, deficiency (of something abstract, e.g., common sense)
-- [欠席(する) (けっせき)](vocab-17.md#欠席する-けっせき) — an absence; to be absent
-- [欠損 (けっそん)](vocab-02.md#欠損-けっそん) — Loss, deficit (financial or physical)
-- [欠点 (けってん)](vocab-02.md#欠点-けってん) — Shortcoming, fault
-- [欠陥 (けっかん)](vocab-02.md#欠陥-けっかん) — Defect, flaw
-- [次 (つぎ)](vocab-28.md#次-つぎ) — next
-- [次々に (つぎつぎに)](vocab-28.md#次々に-つぎつぎに) — one after another, in succession, continuously (events happening)
-- [欧米 (おうべい)](vocab-09.md#欧米-おうべい) — Europe and America, the West
-- [欲 (よく)](vocab-35.md#欲-よく) — desire, greed
-- [欲張り (よくばり)](vocab-36.md#欲張り-よくばり) — greed; a greedy person
-- [欲望 (よくぼう)](vocab-36.md#欲望-よくぼう) — greed, desire
-- [欲深い (よくふかい)](vocab-36.md#欲深い-よくふかい) — acquisitive, avid, grabby, greedy
-- [欺く (あざむく)](vocab-06.md#欺く-あざむく) — to deceive, cheat, trick
-- [歌手 (かしゅ)](vocab-13.md#歌手-かしゅ) — a singer
-- [歓迎 (かんげい)](vocab-13.md#歓迎-かんげい) — welcome
-- [止す (よす)](vocab-36.md#止す-よす) — to stop, give up, cancel (an action or plan)
-- [止せる (よせる)](vocab-32.md#止せる-よせる) — to stop, give up, cancel (doing something)
-- [止む (やむ)](vocab-34.md#止む-やむ) — (rain, wind, etc.) to stop, cease
-- [正常 (せいじょう)](vocab-22.md#正常-せいじょう) — normal, normality, regular (state)
-- [正式 (せいしき)](vocab-22.md#正式-せいしき) — formal, official, legal(ly recognized)
-- [正方形 (せいほうけい)](vocab-22.md#正方形-せいほうけい) — a (regular) square
-- [正義 (せいぎ)](vocab-22.md#正義-せいぎ) — justice, righteousness
-- [正解 (せいかい)](vocab-22.md#正解-せいかい) — the right/correct answer
-- [正門 (せいもん)](vocab-22.md#正門-せいもん) — the front/main gate (of a school, building, etc.)
-- [歪む (ゆがむ)](vocab-35.md#歪む-ゆがむ) — to warp, be warped/distorted, bend
-- [歯科 (しか)](vocab-19.md#歯科-しか) — dentistry, a dental clinic/department
-- [歴史 (れきし)](vocab-36.md#歴史-れきし) — history
-- [残す (のこす)](vocab-31.md#残す-のこす) — to leave (behind), save, deposit, leave uneaten
-- [残らず (のこらず)](vocab-31.md#残らず-のこらず) — all, every bit, without exception, leaving nothing behind
-- [残り (のこり)](vocab-31.md#残り-のこり) — the remainder, the rest, leftovers
-- [段 (だん)](vocab-26.md#段-だん) — a step (of stairs), a stage/level, a paragraph, a rank (e.g., in martial arts)
-- [段階 (だんかい)](vocab-26.md#段階-だんかい) — level, stage, phase (of a process)
-- [比率 (ひりつ)](vocab-32.md#比率-ひりつ) — a ratio, a proportion, a percentage
-- [比較 (ひかく)](vocab-31.md#比較-ひかく) — comparison
-- [比較的 (ひかくてき)](vocab-31.md#比較的-ひかくてき) — comparatively, relatively
-- [毛布 (もうふ)](vocab-19.md#毛布-もうふ) — a blanket
-- [毛皮 (けがわ)](vocab-17.md#毛皮-けがわ) — fur, a fur coat
-- [毛糸 (けいと)](vocab-17.md#毛糸-けいと) — woolen yarn/thread
-- [気に入る (きにいる)](vocab-14.md#気に入る-きにいる) — to like, be pleased with, take a liking to
-- [気の毒 (きのどく)](vocab-14.md#気の毒-きのどく) — pitiable, unfortunate, regrettable
-- [気まぐれ (きまぐれ)](vocab-14.md#気まぐれ-きまぐれ) — whim, caprice, fickleness
-- [気付く (きづく)](vocab-14.md#気付く-きづく) — to notice, become aware
-- [気分 (きぶん)](vocab-14.md#気分-きぶん) — mood, feeling (physical or emotional state at a given moment)
-- [気味 (きみ)](vocab-14.md#気味-きみ) — feeling, a tendency, a sense (of)
-- [気品 (きひん)](vocab-14.md#気品-きひん) — dignity, refinement, grace
-- [気圧 (きあつ)](vocab-14.md#気圧-きあつ) — atmospheric pressure
-- [気持ち (きもち)](vocab-14.md#気持ち-きもち) — a feeling
-- [気楽 (きらく)](vocab-16.md#気楽-きらく) — carefree, easygoing, relaxed (without worry or pressure)
-- [気流 (きりゅう)](vocab-16.md#気流-きりゅう) — a current of air, air current (often turbulence)
-- [気立て (きだて)](vocab-14.md#気立て-きだて) — disposition, nature, temperament
-- [気配 (けはい)](vocab-17.md#気配-けはい) — a sign, an indication, a presence/feeling of something
-- [気風 (きふう)](vocab-14.md#気風-きふう) — character, disposition, spirit (of a group, region, or era)
-- [水分 (すいぶん)](vocab-22.md#水分-すいぶん) — water content, moisture
-- [水平 (すいへい)](vocab-21.md#水平-すいへい) — level, horizontal
-- [水曜日 (すいようび)](vocab-22.md#水曜日-すいようび) — Wednesday
-- [水準 (すいじゅん)](vocab-21.md#水準-すいじゅん) — a standard, a level (of quality, achievement, etc.)
-- [水玉 (みずたま)](vocab-04.md#水玉-みずたま) — Polka dot
-- [水田 (すいでん)](vocab-22.md#水田-すいでん) — paddy field, rice paddy
-- [水筒 (すいとう)](vocab-21.md#水筒-すいとう) — a water bottle, canteen
-- [水素 (すいそ)](vocab-21.md#水素-すいそ) — hydrogen
-- [水面 (すいめん)](vocab-22.md#水面-すいめん) — the surface of the water
-- [永久 (えいきゅう)](vocab-09.md#永久-えいきゅう) — permanence, eternity, perpetuity
-- [永遠 (えいえん)](vocab-09.md#永遠-えいえん) — eternity, permanence, forever
-- [氾濫 【はんらん】](vocab-05.md#氾濫-はんらん) — Flood, overflow (of a river); figuratively, a flood/glut of something (e.g., ...
-- [求婚 (きゅうこん)](vocab-15.md#求婚-きゅうこん) — a proposal of marriage
-- [汗 (あせ)](vocab-06.md#汗-あせ) — sweat, perspiration
-- [汗をかく (かく)](vocab-12.md#汗をかく-かく) — to sweat, to perspire
-- [汗顔の至り (かんがんのいたり)](vocab-03.md#汗顔の至り-かんがんのいたり) — extreme embarrassment
-- [汚い (きたない)](vocab-14.md#汚い-きたない) — dirty, filthy; mean, underhanded
-- [汚す (よごす)](vocab-36.md#汚す-よごす) — to soil, dirty, stain, disgrace
-- [汚れ (よごれ)](vocab-36.md#汚れ-よごれ) — dirt, a stain, a spot; grime
-- [汚染 (おせん)](vocab-10.md#汚染-おせん) — pollution, contamination
-- [汲む・酌む (くむ)](vocab-16.md#汲む酌む-くむ) — to pump/scoop (water), to pour (wine/sake), to understand/guess (someone's fe...
-- [決 (けつ)](vocab-17.md#決-けつ) — decision, a vote
-- [決まり (きまり)](vocab-14.md#決まり-きまり) — a rule; the end/conclusion (of something)
-- [決まる (きまる)](vocab-14.md#決まる-きまる) — to be decided, settled
-- [決めこむ (きめこむ)](vocab-02.md#決めこむ-きめこむ) — To assume/decide arbitrarily (often incorrectly, without basis)
-- [決める (きめる)](vocab-14.md#決める-きめる) — to decide
-- [決勝 (けっしょう)](vocab-17.md#決勝-けっしょう) — the finals (of a competition)
-- [決定(する) (けってい)](vocab-17.md#決定する-けってい) — decision; to determine, set, fix
-- [決心(する) (けっしん)](vocab-17.md#決心する-けっしん) — determination, resolution; to make up one's mind
-- [決意 (けつい)](vocab-17.md#決意-けつい) — determination, resolution, resolve
-- [決断 (けつだん)](vocab-17.md#決断-けつだん) — definite decision, determination (to act decisively)
-- [決算 (けっさん)](vocab-17.md#決算-けっさん) — settlement of accounts, closing of books, an accounting period
-- [決行(する) (けっこう)](vocab-17.md#決行する-けっこう) — to carry out resolutely, go ahead with (despite obstacles)
-- [決議 (けつぎ)](vocab-17.md#決議-けつぎ) — resolution, decision (formal, e.g., in an assembly)
-- [沈む (しずむ)](vocab-20.md#沈む-しずむ) — to sink, settle, subside; to be depressed
-- [沈める (しずめる)](vocab-20.md#沈める-しずめる) — to sink, submerge (something) — transitive
-- [沈殿 (ちんでん)](vocab-28.md#沈殿-ちんでん) — sedimentation, precipitation, to settle (of particles in liquid)
-- [沈没 (ちんぼつ)](vocab-28.md#沈没-ちんぼつ) — to sink, to founder (a ship, etc.)
-- [沈黙 (ちんもく)](vocab-04.md#沈黙-ちんもく) — Silence
-- [没個性化現象 (ぼつこせいかげんしょう)](vocab-03.md#没個性化現象-ぼつこせいかげんしょう) — depersonalization phenomenon (occurs under anonymity)
-- [没収 (ぼっしゅう)](vocab-32.md#没収-ぼっしゅう) — confiscation, to confiscate, impound
-- [没収 【ぼっしゅう】](vocab-05.md#没収-ぼっしゅう) — Confiscation, seizure (of property, items, or privileges, often as a penalty).
-- [没落 (ぼつらく)](vocab-32.md#没落-ぼつらく) — fall, downfall, ruin (e.g., of an empire, family, or class)
-- [没頭 (ぼっとう)](vocab-32.md#没頭-ぼっとう) — to be absorbed/engrossed in (something)
-- [油断 (ゆだん)](vocab-35.md#油断-ゆだん) — carelessness, negligence; to be off guard
-- [治安 (ちあん)](vocab-27.md#治安-ちあん) — public order, public peace and security
-- [治療 (ちりょう)](vocab-28.md#治療-ちりょう) — (medical) treatment, therapy
-- [沼 【ぬま】](vocab-05.md#沼-ぬま) — Swamp, marsh, bog (a body of still, shallow water with muddy/weedy ground); s...
-- [沿う (そう)](vocab-02.md#沿う-そう) — To follow along (a path, river, or policy)
-- [沿岸 (えんがん)](vocab-09.md#沿岸-えんがん) — the coast, coastal area
-- [沿線 (えんせん)](vocab-09.md#沿線-えんせん) — along (on) a railway line
-- [法則 (ほうそく)](vocab-32.md#法則-ほうそく) — a law (of nature), a principle, a rule
-- [法学 (ほうがく)](vocab-32.md#法学-ほうがく) — (the study of) law, jurisprudence
-- [法廷 (ほうてい)](vocab-32.md#法廷-ほうてい) — a (law) court, courtroom
-- [法律 (ほうりつ)](vocab-32.md#法律-ほうりつ) — a law, legislation
-- [泡 (あわ)](vocab-06.md#泡-あわ) — a bubble, foam
-- [波及 (はきゅう)](vocab-03.md#波及-はきゅう) — ripple effect, spreading influence
-- [泥 (どろ)](vocab-30.md#泥-どろ) — mud, dirt, mire
-- [注 (ちゅう)](vocab-27.md#注-ちゅう) — a note, annotation, comment
-- [注ぐ (そそぐ)](vocab-24.md#注ぐ-そそぐ) — to pour, flow into, water, add, devote (effort)
-- [注ぐ (つぐ)](vocab-28.md#注ぐ-つぐ) — to pour (e.g. milk into a glass)
-- [注射 (ちゅうしゃ)](vocab-27.md#注射-ちゅうしゃ) — injection, to inject
-- [注意(する) (ちゅうい(する))](vocab-27.md#注意する-ちゅういする) — to pay attention (to), to be careful, to warn/caution
-- [注文 (ちゅうもん)](vocab-27.md#注文-ちゅうもん) — an order, request, demand, condition
-- [注目 (ちゅうもく)](vocab-27.md#注目-ちゅうもく) — attention, notice; to pay/receive attention
-- [注視する (ちゅうしする)](vocab-03.md#注視する-ちゅうしする) — to stare intently, watch closely
-- [泳ぎ (およぎ)](vocab-11.md#泳ぎ-およぎ) — swimming
-- [洋~ (よう~)](vocab-35.md#洋-よう) — Western (as a prefix: clothes, music, style)
-- [洋品店 (ようひんてん)](vocab-35.md#洋品店-ようひんてん) — a shop dealing in Western-style apparel
-- [洋風 (ようふう)](vocab-35.md#洋風-ようふう) — Western style, European style
-- [洗剤 (せんざい)](vocab-23.md#洗剤-せんざい) — detergent, cleanser
-- [洗面 (せんめん)](vocab-23.md#洗面-せんめん) — washing one's face
-- [津波 (つなみ)](vocab-29.md#津波-つなみ) — a tsunami, a tidal wave
-- [洪水 (こうずい)](vocab-18.md#洪水-こうずい) — flood, inundation
-- [活力 (かつりょく)](vocab-13.md#活力-かつりょく) — vitality, energy, vigor
-- [活用 (かつよう)](vocab-13.md#活用-かつよう) — conjugation (grammar); practical application, making good use of
-- [派手 (はで)](vocab-04.md#派手-はで) — Showy, flashy
-- [流域 (りゅういき)](vocab-33.md#流域-りゅういき) — river basin, catchment area, drainage area
-- [流行 (りゅうこう)](vocab-33.md#流行-りゅうこう) — fashion, trend, prevalence (of a trend or disease)
-- [流通 (りゅうつう)](vocab-33.md#流通-りゅうつう) — circulation, distribution (of goods, money, information)
-- [浅い (あさい)](vocab-06.md#浅い-あさい) — shallow (water, knowledge, relationship, etc.)
-- [浅ましい (あさましい)](vocab-06.md#浅ましい-あさましい) — mean, shameful, contemptible, miserable (describing greedy/undignified behavior)
-- [浪費 (ろうひ)](vocab-36.md#浪費-ろうひ) — waste, extravagance, squandering (money, time, resources)
-- [浮かぶ (うかぶ)](vocab-08.md#浮かぶ-うかぶ) — to float, surface, appear, come to mind (flash into thought)
-- [浮かべる (うかべる)](vocab-08.md#浮かべる-うかべる) — to float (something), launch, visualize, show (an expression)
-- [浮気 (うわき)](vocab-08.md#浮気-うわき) — an affair, infidelity, cheating, flirtation
-- [浴室 (よくしつ)](vocab-35.md#浴室-よくしつ) — a bathroom (bathing room)
-- [浴衣 (ゆかた)](vocab-35.md#浴衣-ゆかた) — an unlined cotton kimono (worn in summer/at festivals)
-- [海外 (かいがい)](vocab-12.md#海外-かいがい) — overseas, abroad
-- [海峡 (かいきょう)](vocab-03.md#海峡-かいきょう) — strait
-- [海抜 (かいばつ)](vocab-11.md#海抜-かいばつ) — elevation, (height) above sea level
-- [海水浴 (かいすいよく)](vocab-12.md#海水浴-かいすいよく) — sea bathing, swimming in the ocean (as a leisure activity)
-- [海流 (かいりゅう)](vocab-11.md#海流-かいりゅう) — an ocean current
-- [海路 (かいろ)](vocab-11.md#海路-かいろ) — a sea route
-- [海運 (かいうん)](vocab-12.md#海運-かいうん) — shipping, marine transport
-- [浸ける/漬ける (つける)](vocab-28.md#浸ける漬ける-つける) — to soak, to pickle, to immerse in liquid
-- [消す (けす)](vocab-17.md#消す-けす) — to switch off, turn off, erase, extinguish
-- [消化 (しょうか)](vocab-21.md#消化-しょうか) — digestion; (figuratively) assimilation, absorption of information/tasks
-- [消去 (しょうきょ)](vocab-01.md#消去-しょうきょ) — deletion, elimination
-- [液 (えき)](vocab-09.md#液-えき) — liquid, fluid, juice
-- [液体 (えきたい)](vocab-09.md#液体-えきたい) — a liquid (as a state of matter)
-- [淑やか (しとやか)](vocab-02.md#淑やか-しとやか) — Graceful, demure
-- [淡水 (たんすい)](vocab-26.md#淡水-たんすい) — fresh water (as opposed to salt water)
-- [深刻 (しんこく)](vocab-21.md#深刻-しんこく) — serious, grave, severe (of a problem/situation)
-- [深夜 (しんや)](vocab-22.md#深夜-しんや) — late night, dead of night
-- [添える (そえる)](vocab-24.md#添える-そえる) — to attach, add, garnish
-- [清らか (きよらか)](vocab-16.md#清らか-きよらか) — pure, clear, clean (often of spirit, water, or sound)
-- [清掃 (せいそう)](vocab-22.md#清掃-せいそう) — cleaning (a room, street, facility)
-- [清潔 (せいけつ)](vocab-22.md#清潔-せいけつ) — clean, cleanliness, untainted
-- [清濁 (せいだく)](vocab-22.md#清濁-せいだく) — good and bad (people) together; clear and muddy (water); voiced/unvoiced soun...
-- [清純 (せいじゅん)](vocab-22.md#清純-せいじゅん) — purity, innocence (especially of a young person's character/image)
-- [渋滞 (じゅうたい)](vocab-20.md#渋滞-じゅうたい) — traffic jam, congestion
-- [減少 (げんしょう)](vocab-02.md#減少-げんしょう) — Decrease, decline
-- [渡り鳥 (わたりどり)](vocab-36.md#渡り鳥-わたりどり) — migratory bird
-- [渦 (うず)](vocab-08.md#渦-うず) — a whirlpool, an eddy
-- [温和 (おんわ)](vocab-11.md#温和-おんわ) — mild, gentle (of temperament or climate)
-- [温室 (おんしつ)](vocab-11.md#温室-おんしつ) — a greenhouse
-- [温帯 (おんたい)](vocab-11.md#温帯-おんたい) — the temperate zone
-- [温度 (おんど)](vocab-11.md#温度-おんど) — temperature
-- [温暖 (おんだん)](vocab-11.md#温暖-おんだん) — warm, mild (of climate)
-- [温泉 (おんせん)](vocab-11.md#温泉-おんせん) — a hot spring
-- [測定 (そくてい)](vocab-24.md#測定-そくてい) — measurement, measuring, survey
-- [測量 (そくりょう)](vocab-24.md#測量-そくりょう) — a measurement, surveying (of land)
-- [湧く (わく)](vocab-36.md#湧く-わく) — to gush out, well up, spring forth (water, emotions, ideas)
-- [湯気 (ゆげ)](vocab-35.md#湯気-ゆげ) — steam, visible vapor
-- [湯飲み (ゆのみ)](vocab-35.md#湯飲み-ゆのみ) — a teacup, a cup (for Japanese tea)
-- [湾 (わん)](vocab-37.md#湾-わん) — bay, inlet, gulf
-- [源 【みなもと】](vocab-05.md#源-みなもと) — Source, origin, fountainhead (of a river, or figuratively of an idea, problem...
-- [溜まる/貯まる (たまる)](vocab-26.md#溜まる貯まる-たまる) — to accumulate, to collect, to pile up, to be overdue
-- [溜める (ためる)](vocab-26.md#溜める-ためる) — to store up, to accumulate, to gather, to retain
-- [溜め息 (ためいき)](vocab-26.md#溜め息-ためいき) — a sigh
-- [溶岩 (ようがん)](vocab-35.md#溶岩-ようがん) — lava
-- [溶液 (ようえき)](vocab-35.md#溶液-ようえき) — a solution (chemistry)
-- [溺れる (おぼれる)](vocab-11.md#溺れる-おぼれる) — to drown; (figurative) to be absorbed in, indulge in
-- [滅亡 (めつぼう)](vocab-19.md#滅亡-めつぼう) — extinction, ruin, fall (of a nation, civilization, species)
-- [滅亡 【めつぼう】](vocab-05.md#滅亡-めつぼう) — Extinction, ruin, downfall (typically of a nation, civilization, species, or ...
-- [滑らか (なめらか)](vocab-30.md#滑らか-なめらか) — smooth (texture, motion, speech)
-- [滑稽 【こっけい】](vocab-05.md#滑稽-こっけい) — Ridiculous, comical, absurdly funny.
-- [滝 (たき)](vocab-25.md#滝-たき) — a waterfall, falls
-- [滞る (とどこおる)](vocab-30.md#滞る-とどこおる) — to stagnate, to be delayed, to fall into arrears
-- [滞在 (たいざい)](vocab-25.md#滞在-たいざい) — a stay, a sojourn (in a place, usually away from home)
-- [滞納 (たいのう)](vocab-25.md#滞納-たいのう) — arrears, nonpayment, falling behind on payments
-- [漁師 (りょうし)](vocab-36.md#漁師-りょうし) — fisherman
-- [漁村 (ぎょそん)](vocab-16.md#漁村-ぎょそん) — a fishing village
-- [漁業 (ぎょぎょう)](vocab-16.md#漁業-ぎょぎょう) — fishery, fishing industry
-- [漁船 (ぎょせん)](vocab-16.md#漁船-ぎょせん) — a fishing boat
-- [漂う (ただよう)](vocab-04.md#漂う-ただよう) — To drift, float
-- [演じる/ずる (えんじる)](vocab-09.md#演じるずる-えんじる) — to perform, enact
-- [演出 (えんしゅつ)](vocab-09.md#演出-えんしゅつ) — direction (of a show); staging, production
-- [演劇 (えんげき)](vocab-09.md#演劇-えんげき) — drama, play
-- [演奏 (えんそう)](vocab-09.md#演奏-えんそう) — a (musical) performance
-- [演技 (えんぎ)](vocab-09.md#演技-えんぎ) — acting, performance
-- [演習 (えんしゅう)](vocab-09.md#演習-えんしゅう) — practice, exercises, maneuvers
-- [演説 (えんぜつ)](vocab-09.md#演説-えんぜつ) — a speech, an address
-- [漠然 (ばくぜん)](vocab-01.md#漠然-ばくぜん) — vague, obscure, indistinct, hazy, ambiguous
-- [漢和辞典 (かんわじてん)](vocab-14.md#漢和辞典-かんわじてん) — a Kanji-Japanese dictionary
-- [漢字 (かんじ)](vocab-13.md#漢字-かんじ) — kanji, Chinese characters
-- [漸く (ようやく)](vocab-35.md#漸く-ようやく) — at last, finally, gradually, barely
-- [潜入 (せんにゅう)](vocab-23.md#潜入-せんにゅう) — infiltration, to sneak into
-- [潜水 (せんすい)](vocab-23.md#潜水-せんすい) — diving, to dive, to submerge
-- [潤う (うるおう)](vocab-08.md#潤う-うるおう) — to become moist; to benefit/profit, to prosper
-- [潮 (しお)](vocab-19.md#潮-しお) — tide, flux and reflux (of the sea); (figuratively) opportunity, moment
-- [潰す (つぶす)](vocab-29.md#潰す-つぶす) — to crush, to smash, to kill time, to ruin/bankrupt (a business)
-- [潰れる (つぶれる)](vocab-29.md#潰れる-つぶれる) — to go under, to be crushed, to collapse, to be ruined (of a business)
-- [潰瘍 (かいよう)](vocab-03.md#潰瘍-かいよう) — ulcer
-- [激励(する) (げきれい)](vocab-17.md#激励する-げきれい) — encouragement; to give encouragement, cheer someone on
-- [激増 (げきぞう)](vocab-17.md#激増-げきぞう) — a sudden/sharp increase, surge
-- [濯ぐ (ゆすぐ)](vocab-35.md#濯ぐ-ゆすぐ) — to wash out, rinse
-- [瀬戸物 (せともの)](vocab-23.md#瀬戸物-せともの) — porcelain, chinaware, pottery
-- [灌漑 (かんがい)](vocab-13.md#灌漑-かんがい) — irrigation
-- [火事 (かじ)](vocab-13.md#火事-かじ) — a fire (destructive, e.g. building fire)
-- [火曜日 (かようび)](vocab-14.md#火曜日-かようび) — Tuesday
-- [火災 (かさい)](vocab-06.md#火災-かさい) — a fire (disaster)
-- [灯油 (とうゆ)](vocab-29.md#灯油-とうゆ) — kerosene
-- [炊く/焚く (たく)](vocab-25.md#炊く焚く-たく) — to cook (rice), to burn/light (a fire)
-- [炒めて (いためて)](vocab-02.md#炒めて-いためて) — Stir-fried
-- [炭素 (たんそ)](vocab-26.md#炭素-たんそ) — carbon (the chemical element)
-- [炭鉱 (たんこう)](vocab-26.md#炭鉱-たんこう) — a coal mine, a coal pit
-- [点 (てん)](vocab-29.md#点-てん) — a mark, a point (also: a dot, a score)
-- [為替 (かわせ)](vocab-14.md#為替-かわせ) — exchange (of currency), a money order
-- [焚[き]火 (たきび)](vocab-25.md#焚き火-たきび) — a bonfire, an open fire
-- [焦る (あせる)](vocab-04.md#焦る-あせる) — To be impatient, hurried
-- [然も (しかも)](vocab-19.md#然も-しかも) — moreover, besides, furthermore, and what's more
-- [煌々と (こうこうと)](vocab-18.md#煌々と-こうこうと) — brilliantly glowing, shining brightly
-- [煌びやか (きらびやか)](vocab-16.md#煌びやか-きらびやか) — gorgeous, glittering, dazzlingly splendid
-- [煎る/炒る (いる)](vocab-07.md#煎る炒る-いる) — to roast, parch, toast (dry-heat cooking, e.g., beans, tea leaves, sesame)
-- [煙 (けむり)](vocab-17.md#煙-けむり) — smoke; (figuratively) to smolder, fade/look dim
-- [煙い (けむい)](vocab-17.md#煙い-けむい) — smoky; to feel awkward/uncomfortable (figurative)
-- [煙たい (けむたい)](vocab-17.md#煙たい-けむたい) — smoky; to feel ill at ease/intimidated by someone (figurative)
-- [煙る (けむる)](vocab-04.md#煙る-けむる) — To smoke, be hazy
-- [煙突 (えんとつ)](vocab-09.md#煙突-えんとつ) — a chimney, a stovepipe
-- [照る/照らす (てる)](vocab-29.md#照る照らす-てる) — to shine, light up, illuminate
-- [煩わしい (わずらわしい)](vocab-06.md#煩わしい-わずらわしい) — troublesome, annoying, bothersome
-- [熟 (つくづく)](vocab-01.md#熟-つくづく) — deeply, keenly, severely, completely, utterly, intently, carefully
-- [熟語 (じゅくご)](vocab-20.md#熟語-じゅくご) — idiom, set phrase, compound word (especially kanji compounds)
-- [熱する (ねっする)](vocab-31.md#熱する-ねっする) — to heat (something); to become heated/enthusiastic, engrossed
-- [熱中する (ねっちゅうする)](vocab-31.md#熱中する-ねっちゅうする) — to be devoted to, engrossed in, absorbed in (an activity/hobby)
-- [熱帯 (ねったい)](vocab-31.md#熱帯-ねったい) — the tropics, the torrid zone
-- [熱心 (ねっしん)](vocab-31.md#熱心-ねっしん) — eager, enthusiastic, earnest (about something)
-- [熱湯 (ねっとう)](vocab-31.md#熱湯-ねっとう) — boiling water
-- [燃える (もえる)](vocab-34.md#燃える-もえる) — to burn; (figuratively) to burn with passion/enthusiasm
-- [燃える/燃やす (もえる/もやす)](vocab-19.md#燃える燃やす-もえるもやす) — to burn (intransitive/transitive); burnable/noncombustible garbage
-- [燃料 (ねんりょう)](vocab-31.md#燃料-ねんりょう) — fuel
-- [燃焼 (ねんしょう)](vocab-31.md#燃焼-ねんしょう) — combustion, burning
-- [父 (ちち)](vocab-27.md#父-ちち) — (my) father
-- [父親 (ちちおや)](vocab-27.md#父親-ちちおや) — father, male parent
-- [牛 (うし)](vocab-08.md#牛-うし) — a cow, cattle, ox
-- [物心がつく (ものごころがつく)](vocab-03.md#物心がつく-ものごころがつく) — to reach an age of understanding
-- [物騒 (ぶっそう)](vocab-01.md#物騒-ぶっそう) — dangerous, unsettled, troubled, disturbed, insecure
-- [特に (とくに)](vocab-30.md#特に-とくに) — especially, particularly
-- [特典 (とくてん)](vocab-30.md#特典-とくてん) — a special privilege, perk, bonus
-- [特定 (とくてい)](vocab-30.md#特定-とくてい) — specific, particular; to specify/identify
-- [特急 (とっきゅう)](vocab-30.md#特急-とっきゅう) — a limited express (train); by extension, something done with extreme urgency
-- [特技 (とくぎ)](vocab-04.md#特技-とくぎ) — Special skill
-- [特殊 (とくしゅ)](vocab-04.md#特殊-とくしゅ) — Special, particular
-- [特派員 (とくはいん)](vocab-30.md#特派員-とくはいん) — a correspondent (news reporter stationed abroad)
-- [特産 (とくさん)](vocab-29.md#特産-とくさん) — a special product, local specialty
-- [特色 (とくしょく)](vocab-29.md#特色-とくしょく) — a feature, characteristic, distinguishing trait
-- [特許 (とっきょ)](vocab-30.md#特許-とっきょ) — a patent
-- [特集 (とくしゅう)](vocab-29.md#特集-とくしゅう) — a special feature, special topic/issue
-- [犯す (おかす)](vocab-10.md#犯す-おかす) — to sin, commit a crime
-- [狂う (くるう)](vocab-16.md#狂う-くるう) — to go mad/insane, to lose one's senses, to be infatuated, to go out of order ...
-- [狙う (ねらう)](vocab-31.md#狙う-ねらう) — to aim at (a target), to have one's eye on, to target
-- [独創 (どくそう)](vocab-30.md#独創-どくそう) — originality, a unique/original idea
-- [独占 (どくせん)](vocab-29.md#独占-どくせん) — exclusive possession, monopoly, monopolizing
-- [独特 (どくとく)](vocab-30.md#独特-どくとく) — characteristic, peculiar, distinctive
-- [独自 (どくじ)](vocab-29.md#独自-どくじ) — original, personal, unique (one's own)
-- [独裁 (どくさい)](vocab-29.md#独裁-どくさい) — dictatorship, autocratic rule
-- [独身 (どくしん)](vocab-29.md#独身-どくしん) — single, unmarried
-- [猛烈 (もうれつ)](vocab-06.md#猛烈-もうれつ) — fierce, intense, violent (of degree)
-- [猛獣 (もうじゅう)](vocab-04.md#猛獣-もうじゅう) — Wild beast
-- [献立 (こんだて)](vocab-04.md#献立-こんだて) — Menu
-- [獣 (けだもの)](vocab-17.md#獣-けだもの) — beast, brute (often with a negative, bestial connotation)
-- [獲得 (かくとく)](vocab-04.md#獲得-かくとく) — Acquisition
-- [獲物 (えもの)](vocab-03.md#獲物-えもの) — prey
-- [率 (りつ)](vocab-33.md#率-りつ) — rate, proportion, percentage
-- [玉/球/弾 (たま)](vocab-26.md#玉球弾-たま) — a ball, a bullet (reading/kanji varies by meaning: 玉 for jewel/ball, 球 for sp...
-- [王 (おう)](vocab-09.md#王-おう) — king, monarch, ruler
-- [王女 (おうじょ)](vocab-09.md#王女-おうじょ) — a princess
-- [王子 (おうじ)](vocab-09.md#王子-おうじ) — a prince
-- [王様 (おうさま)](vocab-09.md#王様-おうさま) — king, monarch
-- [玩具 (がんぐ)](vocab-13.md#玩具-がんぐ) — a toy
-- [現~ (げん~)](vocab-18.md#現-げん) — current, present (prefix)
-- [現れ/表れ (あらわれ)](vocab-07.md#現れ表れ-あらわれ) — a manifestation, sign, expression (of something)
-- [現れる (あらわれる)](vocab-07.md#現れる-あらわれる) — to appear, show up, emerge
-- [現代 (げんだい)](vocab-18.md#現代-げんだい) — the present age, modern times, today
-- [現像(する) (げんぞう)](vocab-18.md#現像する-げんぞう) — developing (photographic film)
-- [現在 (げんざい)](vocab-18.md#現在-げんざい) — the present, now
-- [現地 (げんち)](vocab-18.md#現地-げんち) — the actual place, the spot, local (time/area)
-- [現実 (げんじつ)](vocab-18.md#現実-げんじつ) — reality, actuality
-- [現状 (げんじょう)](vocab-18.md#現状-げんじょう) — the present state of affairs, current situation
-- [現金 (げんきん)](vocab-18.md#現金-げんきん) — cash; (figuratively) a calculating/mercenary person
-- [球 (きゅう)](vocab-15.md#球-きゅう) — a sphere, a ball
-- [理屈 (りくつ)](vocab-33.md#理屈-りくつ) — logic, reasoning, pretext, theory
-- [理性 (りせい)](vocab-33.md#理性-りせい) — reason, rationality
-- [理想 (りそう)](vocab-33.md#理想-りそう) — an ideal
-- [理由 (りゆう)](vocab-33.md#理由-りゆう) — reason, cause, grounds
-- [理科 (りか)](vocab-33.md#理科-りか) — science, the science course (school subject)
-- [理解 (りかい)](vocab-33.md#理解-りかい) — understanding, comprehension
-- [環境 (かんきょう)](vocab-13.md#環境-かんきょう) — environment, surroundings
-- [瓦 (かわら)](vocab-14.md#瓦-かわら) — a (roof) tile
-- [甚だ (はなはだ)](vocab-01.md#甚だ-はなはだ) — very, exceedingly (often negative connotation)
-- [生まれ (うまれ)](vocab-08.md#生まれ-うまれ) — birth, one's birthplace/background
-- [生存 (せいぞん)](vocab-22.md#生存-せいぞん) — existence, survival, to be alive
-- [生年月日 (せいねんがっぴ)](vocab-22.md#生年月日-せいねんがっぴ) — date of birth
-- [生態系 (せいたいけい)](vocab-02.md#生態系-せいたいけい) — Ecosystem
-- [生憎 (あいにく)](vocab-06.md#生憎-あいにく) — unfortunately, unluckily
-- [生活 (せいかつ)](vocab-22.md#生活-せいかつ) — life, livelihood, daily living
-- [生涯 (しょうがい)](vocab-02.md#生涯-しょうがい) — One's whole life, lifetime
-- [生物 (せいぶつ)](vocab-22.md#生物-せいぶつ) — a living thing, creature; (as school subject) biology
-- [生真面目 (きまじめ)](vocab-14.md#生真面目-きまじめ) — earnest, (overly) serious, rigidly conscientious
-- [甥 (おい)](vocab-09.md#甥-おい) — a nephew
-- [用いる (もちいる)](vocab-34.md#用いる-もちいる) — to use, make use of, employ (a method, tool, or word)
-- [用件 (ようけん)](vocab-35.md#用件-ようけん) — business (a matter to attend to)
-- [用品 (ようひん)](vocab-35.md#用品-ようひん) — things, articles, supplies
-- [用心 (ようじん)](vocab-35.md#用心-ようじん) — care, caution; to be careful
-- [用法 (ようほう)](vocab-35.md#用法-ようほう) — usage, directions (for use)
-- [用語 (ようご)](vocab-35.md#用語-ようご) — wording, a technical term
-- [用途 (ようと)](vocab-35.md#用途-ようと) — a use, purpose, application
-- [田植[え] (たうえ)](vocab-25.md#田植え-たうえ) — rice planting, transplanting rice seedlings
-- [田舎 (いなか)](vocab-03.md#田舎-いなか) — countryside
-- [甲板 (かんぱん)](vocab-02.md#甲板-かんぱん) — Deck (of a ship)
-- [申し上げる (もうしあげる)](vocab-34.md#申し上げる-もうしあげる) — to say, state, tell (humble form of 言う)
-- [申し入れる (もうしいれる)](vocab-34.md#申し入れる-もうしいれる) — to propose, offer, make a formal request/proposal
-- [申し出 (もうしで)](vocab-34.md#申し出-もうしで) — an offer, a proposal, a formal statement/report
-- [申し出る (もうしでる)](vocab-34.md#申し出る-もうしでる) — to offer, propose, volunteer (formally)
-- [申し分(ない) (もうしぶん(ない))](vocab-34.md#申し分ない-もうしぶんない) — (nothing to) complain about; flawless, perfect
-- [申し訳 (もうしわけ)](vocab-34.md#申し訳-もうしわけ) — an excuse, an apology, a pretext
-- [申し訳ない (もうしわけない)](vocab-34.md#申し訳ない-もうしわけない) — sorry, I'm afraid, I feel terrible (apologetic expression)
-- [男子 (だんし)](vocab-26.md#男子-だんし) — a boy, a male, men (often in formal/institutional contexts like sports or sch...
-- [画~ (が~)](vocab-11.md#画-が) — picture-related (prefix, e.g., 画集 art collection, 画商 art dealer)
-- [画家 (がか)](vocab-12.md#画家-がか) — a painter, an artist
-- [畑 (はたけ)](vocab-31.md#畑-はたけ) — a field, a farm (for crops other than rice); one's specialty or career field
-- [留学 (りゅうがく)](vocab-33.md#留学-りゅうがく) — studying abroad
-- [留守番 (るすばん)](vocab-33.md#留守番-るすばん) — looking after the house while others are out; (by extension) answering machine
-- [畜産 (ちくさん)](vocab-27.md#畜産-ちくさん) — stockbreeding, livestock farming/industry
-- [略す (りゃくす)](vocab-33.md#略す-りゃくす) — to omit, to abbreviate, to leave out
-- [略奪 (りゃくだつ)](vocab-33.md#略奪-りゃくだつ) — plunder, pillage, looting
-- [略称 (りゃくしょう)](vocab-33.md#略称-りゃくしょう) — abbreviation, abbreviated name
-- [略語 (りゃくご)](vocab-36.md#略語-りゃくご) — abbreviation (of a word or phrase)
-- [異論 (いろん)](vocab-07.md#異論-いろん) — a different opinion, objection, dissent
-- [異議 (いぎ)](vocab-03.md#異議-いぎ) — objection (see nuance cluster above)
-- [畳 (じょう)](vocab-21.md#畳-じょう) — counter for tatami mats (also read たたみ as the noun for the mat itself)
-- [畳む (たたむ)](vocab-26.md#畳む-たたむ) — to fold (up); to close down (a business)
-- [疑う (うたがう)](vocab-08.md#疑う-うたがう) — to doubt, to suspect, to question
-- [疑問 (ぎもん)](vocab-14.md#疑問-ぎもん) — doubt, a question, a query
-- [疲れ (つかれ)](vocab-28.md#疲れ-つかれ) — tiredness, fatigue, exhaustion
-- [疲れる (つかれる)](vocab-28.md#疲れる-つかれる) — to get tired, to become exhausted (from something)
-- [疲労 (ひろう)](vocab-32.md#疲労-ひろう) — fatigue, exhaustion, being tired
-- [疾病 (しっぺい)](vocab-21.md#疾病-しっぺい) — disease, illness (formal/medical term)
-- [症状 (しょうじょう)](vocab-21.md#症状-しょうじょう) — symptom (of an illness)
-- [痒い (かゆい)](vocab-14.md#痒い-かゆい) — itchy
-- [痛切 (つうせつ)](vocab-28.md#痛切-つうせつ) — keen, acute, poignant (a feeling), a serious/pressing problem
-- [痛感 (つうかん)](vocab-04.md#痛感-つうかん) — To keenly feel
-- [癌 (がん)](vocab-13.md#癌-がん) — cancer
-- [発掘 (はっくつ)](vocab-01.md#発掘-はっくつ) — excavation, discovery
-- [発生 (はっせい)](vocab-31.md#発生-はっせい) — occurrence, outbreak, generation (of something arising)
-- [発行 (はっこう)](vocab-31.md#発行-はっこう) — publication, issuance (of books, currency, tickets, etc.)
-- [発見 (はっけん)](vocab-31.md#発見-はっけん) — discovery
-- [発言 (はつげん)](vocab-31.md#発言-はつげん) — a remark, a statement, speaking up
-- [発車 (はっしゃ)](vocab-31.md#発車-はっしゃ) — departure (of a train, bus, etc.), setting off
-- [登録 (とうろく)](vocab-04.md#登録-とうろく) — Registration
-- [白い (しろい)](vocab-21.md#白い-しろい) — white
-- [白状 (はくじょう)](vocab-01.md#白状-はくじょう) — confession
-- [皇居 (こうきょ)](vocab-18.md#皇居-こうきょ) — the Imperial Palace
-- [皮/革 (かわ)](vocab-14.md#皮革-かわ) — skin, hide; leather
-- [皮肉 (ひにく)](vocab-32.md#皮肉-ひにく) — irony, sarcasm, satire
-- [皮肉る (ひにくる)](vocab-32.md#皮肉る-ひにくる) — to speak ironically, be sarcastic, make a sarcastic remark
-- [皮膚 (ひふ)](vocab-32.md#皮膚-ひふ) — skin (medical/biological term)
-- [盛大 (せいだい)](vocab-22.md#盛大-せいだい) — grand, magnificent, held on a large scale (especially of events/celebrations)
-- [監督 (かんとく)](vocab-03.md#監督-かんとく) — director
-- [監視 (かんし)](vocab-13.md#監視-かんし) — watch, surveillance, monitoring
-- [目下 (めした)](vocab-19.md#目下-めした) — one's inferior(s), subordinate(s), junior
-- [目付き (めつき)](vocab-19.md#目付き-めつき) — expression/look in one's eyes
-- [目処/目途 (めど)](vocab-34.md#目処目途-めど) — a prospect, an aim, an outlook, a target point
-- [目出度い (おめでたい)](vocab-11.md#目出度い-おめでたい) — happy, auspicious; (ironic) naive
-- [目印 (めじるし)](vocab-19.md#目印-めじるし) — a sign, a landmark, a marker
-- [目安 (めやす)](vocab-19.md#目安-めやす) — a mark, a guide, a rough standard/estimate
-- [目安 (めやす)](vocab-34.md#目安-めやす) — a standard, a rough guide, a yardstick, a benchmark
-- [目標 (もくひょう)](vocab-19.md#目標-もくひょう) — aim, a goal, a target, objective
-- [目次 (もくじ)](vocab-19.md#目次-もくじ) — table of contents
-- [目的 (もくてき)](vocab-19.md#目的-もくてき) — a purpose, a goal, an objective
-- [目盛り (めもり)](vocab-34.md#目盛り-めもり) — a graduation, a scale marking (on a ruler, gauge, thermometer, etc.)
-- [目盛り 【めもり】](vocab-05.md#目盛り-めもり) — Scale marking, graduation (the marked increments on a measuring instrument, l...
-- [目眩 (めまい)](vocab-19.md#目眩-めまい) — dizziness, to feel dizzy/giddy
-- [目立つ (めだつ)](vocab-19.md#目立つ-めだつ) — to be noticeable, to stand out
-- [目覚ましい (めざましい)](vocab-19.md#目覚ましい-めざましい) — remarkable, splendid, striking (achievement/progress)
-- [目覚める (めざめる)](vocab-19.md#目覚める-めざめる) — to wake up, to have one's eyes opened (to something), to awaken
-- [目論む (もくろむ)](vocab-34.md#目論む-もくろむ) — to plan, scheme, plot (often with a self-interested or secretive motive)
-- [目論見 (もくろみ)](vocab-19.md#目論見-もくろみ) — a contemplation, plan, scheme (often secretive or self-interested)
-- [盲点 【もうてん】](vocab-05.md#盲点-もうてん) — Blind spot (both the literal physiological blind spot in vision, and figurati...
-- [直ちに (ただちに)](vocab-26.md#直ちに-ただちに) — immediately, directly, at once
-- [直に (じかに)](vocab-19.md#直に-じかに) — directly, at first hand, in person, straight
-- [直に (じきに)](vocab-19.md#直に-じきに) — in a moment, soon, shortly
-- [直前 (ちょくぜん)](vocab-28.md#直前-ちょくぜん) — just before
-- [直径 (ちょっけい)](vocab-28.md#直径-ちょっけい) — a diameter
-- [直後 (ちょくご)](vocab-28.md#直後-ちょくご) — immediately after
-- [直感 (ちょっかん)](vocab-28.md#直感-ちょっかん) — intuition, a hunch; to judge on a hunch
-- [直接 (ちょくせつ)](vocab-28.md#直接-ちょくせつ) — direct, immediate; directly, in person
-- [直流 (ちょくりゅう)](vocab-28.md#直流-ちょくりゅう) — direct current (DC)
-- [直筆 (じきひつ)](vocab-03.md#直筆-じきひつ) — handwritten (by the person themselves)
-- [直線 (ちょくせん)](vocab-28.md#直線-ちょくせん) — a straight line; straight
-- [直角 (ちょっかく)](vocab-28.md#直角-ちょっかく) — a right angle
-- [直訳 (ちょくやく)](vocab-03.md#直訳-ちょくやく) — literal translation
-- [直通 (ちょくつう)](vocab-28.md#直通-ちょくつう) — direct, through (e.g., a train or phone line)
-- [直面 (ちょくめん)](vocab-28.md#直面-ちょくめん) — to face, be confronted with (a difficult situation)
-- [相互 (そうご)](vocab-24.md#相互-そうご) — mutual, reciprocal
-- [相場 (そうば)](vocab-24.md#相場-そうば) — market price, (stock) market, going rate
-- [相変わらず (あいかわらず)](vocab-06.md#相変わらず-あいかわらず) — as before, as usual, unchanged
-- [相対的(に) (そうたいてき)](vocab-24.md#相対的に-そうたいてき) — relative(ly), in relative terms
-- [相当 (そうとう)](vocab-24.md#相当-そうとう) — considerable, quite a lot; to correspond to, be equivalent to
-- [相応 (そうおう)](vocab-02.md#相応-そうおう) — Suitable, befitting
-- [相手 (あいて)](vocab-06.md#相手-あいて) — companion, partner, opponent, the other party
-- [相次ぐ (あいつぐ)](vocab-06.md#相次ぐ-あいつぐ) — to happen in succession, occur one after another
-- [相続 (そうぞく)](vocab-24.md#相続-そうぞく) — inheritance, succession, to inherit
-- [相談(する) (そうだん)](vocab-24.md#相談する-そうだん) — to discuss, to consult, to talk over
-- [相違 (そうい)](vocab-23.md#相違-そうい) — a difference, a discrepancy, to differ
-- [看板 (かんばん)](vocab-14.md#看板-かんばん) — a signboard, a sign
-- [看病 (かんびょう)](vocab-14.md#看病-かんびょう) — nursing, tending to a sick person (usually a family member)
-- [看護 (かんご)](vocab-13.md#看護-かんご) — nursing (medical care)
-- [県 (けん)](vocab-18.md#県-けん) — prefecture
-- [県庁 (けんちょう)](vocab-18.md#県庁-けんちょう) — prefectural office, prefecture authorities
-- [真剣 (しんけん)](vocab-21.md#真剣-しんけん) — serious, in earnest, earnestly
-- [真実 (しんじつ)](vocab-21.md#真実-しんじつ) — truth, the truth, true
-- [真相 (しんそう)](vocab-04.md#真相-しんそう) — The truth, real facts
-- [眠い (ねむい)](vocab-31.md#眠い-ねむい) — sleepy, drowsy
-- [眺める 【ながめる】](vocab-05.md#眺める-ながめる) — To look at, gaze at, view (often at length, taking in a scene, e.g., scenery).
-- [眼球 (がんきゅう)](vocab-13.md#眼球-がんきゅう) — an eyeball
-- [眼科 (がんか)](vocab-01.md#眼科-がんか) — ophthalmology
-- [着々 (ちゃくちゃく)](vocab-27.md#着々-ちゃくちゃく) — steadily, step by step (progressing smoothly)
-- [着く (つく)](vocab-28.md#着く-つく) — to arrive, to reach
-- [着工 (ちゃっこう)](vocab-27.md#着工-ちゃっこう) — the start of construction work
-- [着席 (ちゃくせき)](vocab-27.md#着席-ちゃくせき) — to take one's seat, to be seated
-- [着手 (ちゃくしゅ)](vocab-27.md#着手-ちゃくしゅ) — to start, to undertake, begin work on (a project)
-- [着物 (きもの)](vocab-14.md#着物-きもの) — kimono (traditional Japanese clothing)
-- [着目 (ちゃくもく)](vocab-27.md#着目-ちゃくもく) — to focus on, pay attention to, take notice of
-- [着色 (ちゃくしょく)](vocab-27.md#着色-ちゃくしょく) — coloring, coloration, tinting
-- [着陸 (ちゃくりく)](vocab-27.md#着陸-ちゃくりく) — landing (of an aircraft), to land
-- [睡眠 (すいみん)](vocab-21.md#睡眠-すいみん) — sleep, slumber
-- [矛盾 【むじゅん】](vocab-05.md#矛盾-むじゅん) — Contradiction, inconsistency.
-- [知り合い (しりあい)](vocab-21.md#知り合い-しりあい) — acquaintance
-- [知る (しる)](vocab-21.md#知る-しる) — to know, to become aware of
-- [知事 (ちじ)](vocab-27.md#知事-ちじ) — (prefecture) governor
-- [知人 (ちじん)](vocab-27.md#知人-ちじん) — an acquaintance
-- [知性 (ちせい)](vocab-27.md#知性-ちせい) — intellect, intelligence (as a quality of mind)
-- [知恵 (ちえ)](vocab-27.md#知恵-ちえ) — wisdom, intelligence, wit(s), practical sense
-- [知的 (ちてき)](vocab-27.md#知的-ちてき) — intellectual, intelligent
-- [知能 (ちのう)](vocab-27.md#知能-ちのう) — intelligence, mental faculties, brains (cognitive ability)
-- [知覚 (ちかく)](vocab-04.md#知覚-ちかく) — Perception
-- [知識 (ちしき)](vocab-27.md#知識-ちしき) — knowledge, information
-- [短大 (たんだい)](vocab-26.md#短大-たんだい) — a junior college (short-term two-year college)
-- [短所 (たんしょ)](vocab-26.md#短所-たんしょ) — a fault, a defect, a weak point, a shortcoming
-- [短期 (たんき)](vocab-26.md#短期-たんき) — a short term, a short period
-- [短波 (たんぱ)](vocab-26.md#短波-たんぱ) — short wave (radio frequency band)
-- [短編 (たんぺん)](vocab-26.md#短編-たんぺん) — a short piece (of writing/film), a short story or short film
-- [短縮 (たんしゅく)](vocab-26.md#短縮-たんしゅく) — shortening, reduction, curtailment
-- [石油 (せきゆ)](vocab-23.md#石油-せきゆ) — oil, petroleum
-- [石炭 (せきたん)](vocab-23.md#石炭-せきたん) — coal
-- [砂漠 (さばく)](vocab-03.md#砂漠-さばく) — desert
-- [研修 (けんしゅう)](vocab-18.md#研修-けんしゅう) — study and training, in-house/professional training
-- [研究(する) (けんきゅう)](vocab-18.md#研究する-けんきゅう) — study, research, investigation; to research
-- [砕く (くだく)](vocab-16.md#砕く-くだく) — to break into pieces, to smash, to crush
-- [破く (やぶく)](vocab-34.md#破く-やぶく) — to tear, rip, break (casual)
-- [破る (やぶる)](vocab-34.md#破る-やぶる) — to break, tear; to break (a promise, rule, record)
-- [破れる (やぶれる)](vocab-34.md#破れる-やぶれる) — to tear, rip, be torn (intransitive); to be defeated
-- [破壊 (はかい)](vocab-31.md#破壊-はかい) — destruction, demolition, vandalism
-- [破廉恥なこと (はれんちなこと)](vocab-03.md#破廉恥なこと-はれんちなこと) — something morally forbidden/shameless
-- [確[か]める (たしかめる)](vocab-25.md#確かめる-たしかめる) — to make sure, to ascertain, to verify, to check
-- [確か (たしか)](vocab-25.md#確か-たしか) — sure, certain, reliable; (as adverb) if I recall correctly
-- [確保 (かくほ)](vocab-12.md#確保-かくほ) — securing, reserving, ensuring (availability of something)
-- [確信 (かくしん)](vocab-01.md#確信-かくしん) — conviction, certainty
-- [確定 (かくてい)](vocab-12.md#確定-かくてい) — decision, settlement, fixing (something definitely)
-- [確実 (かくじつ)](vocab-12.md#確実-かくじつ) — certain, sure, reliable
-- [確率 (かくりつ)](vocab-12.md#確率-かくりつ) — probability
-- [確認 (かくにん)](vocab-12.md#確認-かくにん) — confirmation, verification
-- [磁気 (じき)](vocab-01.md#磁気-じき) — magnetism
-- [磁石 (じしゃく)](vocab-20.md#磁石-じしゃく) — a magnet, a compass
-- [磨く (みがく)](vocab-04.md#磨く-みがく) — To hone
-- [示唆 (しさ)](vocab-03.md#示唆-しさ) — hint, suggestion (noun form; see 示唆する above)
-- [示唆する (しさする)](vocab-03.md#示唆する-しさする) — to hint, suggest
-- [礼儀 (れいぎ)](vocab-33.md#礼儀-れいぎ) — courtesy, manners, etiquette
-- [礼儀正しい (れいぎただしい)](vocab-33.md#礼儀正しい-れいぎただしい) — polite, courteous, well-mannered
-- [社交 (しゃこう)](vocab-20.md#社交-しゃこう) — social interaction, socializing
-- [社会 (しゃかい)](vocab-20.md#社会-しゃかい) — society
-- [社会正義 (しゃかいせいぎ)](vocab-03.md#社会正義-しゃかいせいぎ) — social justice
-- [社会科学 (しゃかいかがく)](vocab-20.md#社会科学-しゃかいかがく) — social science
-- [社宅 (しゃたく)](vocab-20.md#社宅-しゃたく) — company housing (for employees)
-- [社説 (しゃせつ)](vocab-20.md#社説-しゃせつ) — editorial, leading article (in a newspaper)
-- [社長 (しゃちょう)](vocab-20.md#社長-しゃちょう) — company president, company head
-- [祈り (いのり)](vocab-07.md#祈り-いのり) — prayer, grace, a wish/blessing
-- [祖先 (そせん)](vocab-24.md#祖先-そせん) — an ancestor, a forefather
-- [祝い (いわい)](vocab-07.md#祝い-いわい) — celebration, a festival, congratulations; a celebratory gift
-- [祝う (いわう)](vocab-07.md#祝う-いわう) — to congratulate, celebrate
-- [祝日 (しゅくじつ)](vocab-20.md#祝日-しゅくじつ) — national holiday, public holiday
-- [祝賀 (しゅくが)](vocab-20.md#祝賀-しゅくが) — celebration, congratulations
-- [祝賀会 (しゅくがかい)](vocab-02.md#祝賀会-しゅくがかい) — Celebration party
-- [神秘的 (しんぴてき)](vocab-21.md#神秘的-しんぴてき) — mysterious, mystical
-- [禁じる/ずる (きんじる)](vocab-15.md#禁じるずる-きんじる) — to forbid, prohibit
-- [禁止 (きんし)](vocab-15.md#禁止-きんし) — prohibition, ban; to prohibit/forbid
-- [禁物 (きんもつ)](vocab-15.md#禁物-きんもつ) — a forbidden thing, a taboo, something one must avoid
-- [私有 (しゆう)](vocab-20.md#私有-しゆう) — private possession, private ownership (of land/property)
-- [私立 (しりつ)](vocab-21.md#私立-しりつ) — private (institution, especially schools)
-- [私鉄 (してつ)](vocab-21.md#私鉄-してつ) — private railway (non-government-operated train line)
-- [秘密 (ひみつ)](vocab-32.md#秘密-ひみつ) — a secret; privacy, secrecy
-- [秩序 (ちつじょ)](vocab-01.md#秩序-ちつじょ) — order, orderliness
-- [移動 (いどう)](vocab-07.md#移動-いどう) — move, transfer, movement (change of location)
-- [移民 (いみん)](vocab-07.md#移民-いみん) — emigration/immigration; an emigrant/immigrant
-- [移転 (いてん)](vocab-07.md#移転-いてん) — a move, relocation, transfer (of an office, business, residence)
-- [税 (ぜい)](vocab-22.md#税-ぜい) — a tax
-- [税制 (ぜいせい)](vocab-22.md#税制-ぜいせい) — the taxation system
-- [税務署 (ぜいむしょ)](vocab-22.md#税務署-ぜいむしょ) — tax office, taxation office
-- [税金 (ぜいきん)](vocab-22.md#税金-ぜいきん) — a tax (money paid to the government)
-- [税関 (ぜいかん)](vocab-22.md#税関-ぜいかん) — customs (the government agency/checkpoint)
-- [稔り（実り） 【みのり】](vocab-05.md#稔り実り-みのり) — Fruit, harvest; figuratively, the fruitful result/reward of effort.
-- [種 (たね)](vocab-26.md#種-たね) — a seed, a pit/stone (of fruit), a cause/source (of something), material for a...
-- [稲 (いね)](vocab-07.md#稲-いね) — rice, a rice plant (as it grows in the field)
-- [稲光 (いなびかり)](vocab-07.md#稲光-いなびかり) — lightning (the flash)
-- [稼いだ (かせいだ)](vocab-01.md#稼いだ-かせいだ) — earned (money) — past tense of 稼ぐ (かせぐ)
-- [稼ぐ (かせぐ)](vocab-02.md#稼ぐ-かせぐ) — To earn (money)
-- [稽古 (けいこ)](vocab-17.md#稽古-けいこ) — practice, training, a lesson (esp. traditional arts, martial arts)
-- [積極的 (せっきょくてき)](vocab-23.md#積極的-せっきょくてき) — positive, proactive, taking an active/assertive attitude
-- [穏やか (おだやか)](vocab-02.md#穏やか-おだやか) — Calm, gentle
-- [穏便 (おんびん)](vocab-01.md#穏便-おんびん) — gentle, peaceable, amicable, quiet, without fuss, simply
-- [究極 (きゅうきょく)](vocab-15.md#究極-きゅうきょく) — ultimate, the final extreme
-- [空 (から)](vocab-14.md#空-から) — empty
-- [空~ (くう~)](vocab-15.md#空-くう) — empty, air- (prefix meaning vacant, void, or aerial; e.g. 空港 airport, 空想 fant...
-- [空き (あき)](vocab-06.md#空き-あき) — a vacancy, opening, free space/time
-- [空っぽ (からっぽ)](vocab-14.md#空っぽ-からっぽ) — empty, vacant (emphatic)
-- [空ろ (うつろ)](vocab-08.md#空ろ-うつろ) — hollow, vacant, blank, empty (expression, feeling)
-- [空中 (くうちゅう)](vocab-15.md#空中-くうちゅう) — the air, mid-air; aerial
-- [空想 (くうそう)](vocab-15.md#空想-くうそう) — imagination, a daydream, fancy (often unrealistic or fanciful thinking)
-- [空腹 (くうふく)](vocab-15.md#空腹-くうふく) — hunger, an empty stomach
-- [空間 (くうかん)](vocab-15.md#空間-くうかん) — space, room (physical or conceptual)
-- [突き当たり (つきあたり)](vocab-28.md#突き当たり-つきあたり) — the end (of a street/corridor), a dead end, where a path terminates
-- [突き当たる (つきあたる)](vocab-28.md#突き当たる-つきあたる) — to bump against, to run into, to come up against, to reach a dead end
-- [突く/突っ突く (つつく/つっつく)](vocab-28.md#突く突っ突く-つつくつっつく) — to poke, to prod, to nudge, to find fault with
-- [突っ張る (つっぱる)](vocab-28.md#突っ張る-つっぱる) — to prop up, to brace, to stand firm, to feel taut/stiff (muscles)
-- [突然 (とつぜん)](vocab-30.md#突然-とつぜん) — suddenly, abruptly
-- [突破 (とっぱ)](vocab-30.md#突破-とっぱ) — breakthrough, to break through, to overcome (an obstacle or barrier)
-- [窒息 (ちっそく)](vocab-27.md#窒息-ちっそく) — suffocation, choking, asphyxiation
-- [窮する 【きゅうする】](vocab-05.md#窮する-きゅうする) — To be at a loss, to be in a difficult/cornered situation (financially, verbal...
-- [窮乏 (きゅうぼう)](vocab-02.md#窮乏-きゅうぼう) — Poverty, destitution
-- [窮屈 (きゅうくつ)](vocab-01.md#窮屈-きゅうくつ) — cramped, constrained, stiff
-- [立[ち]上[が]る (たちあがる)](vocab-26.md#立ち上がる-たちあがる) — to get up, stand up, rise; (figuratively) to take action, rise up
-- [立[ち]去る (たちさる)](vocab-26.md#立ち去る-たちさる) — to leave, to walk away, to depart (from a place)
-- [立[ち]寄る (たちよる)](vocab-26.md#立ち寄る-たちよる) — to drop by, to stop by, to call in (briefly, on the way somewhere)
-- [立[ち]止[ま]る (たちどまる)](vocab-26.md#立ち止まる-たちどまる) — to stop, to stand still, to halt (while walking)
-- [立つ (たつ)](vocab-26.md#立つ-たつ) — to stand (up), to rise, to be built/established; to depart (of time/leaving)
-- [立て替える (たてかえる)](vocab-26.md#立て替える-たてかえる) — to pay on someone else's behalf (temporarily, to be reimbursed later)
-- [立体 (りったい)](vocab-33.md#立体-りったい) — solid (body), three-dimensional object
-- [立場 (たちば)](vocab-26.md#立場-たちば) — situation, position, standpoint, viewpoint
-- [立法 (りっぽう)](vocab-33.md#立法-りっぽう) — legislation, lawmaking
-- [立派 (りっぱ)](vocab-33.md#立派-りっぱ) — good, fine, splendid, magnificent, admirable
-- [童顔 (どうがん)](vocab-04.md#童顔-どうがん) — Baby face
-- [端的な例 (たんてきなれい)](vocab-03.md#端的な例-たんてきなれい) — a clear-cut/straightforward example
-- [競争 (きょうそう)](vocab-15.md#競争-きょうそう) — competition, rivalry
-- [競馬 (けいば)](vocab-17.md#競馬-けいば) — horse racing, the races
-- [笑い (わらい)](vocab-36.md#笑い-わらい) — laugh, laughter, a laugh
-- [笑顔 (えがお)](vocab-09.md#笑顔-えがお) — a smile, a smiling face
-- [筆記 (ひっき)](vocab-01.md#筆記-ひっき) — (taking) notes, copying
-- [等級 (とうきゅう)](vocab-29.md#等級-とうきゅう) — class, grade, rank (as a classification)
-- [筒 (つつ)](vocab-28.md#筒-つつ) — a pipe, a tube
-- [答案 (とうあん)](vocab-29.md#答案-とうあん) — an answer sheet, exam paper
-- [箇所 (かしょ)](vocab-13.md#箇所-かしょ) — a place, a spot, a passage (in text)
-- [箇条書き (かじょうがき)](vocab-03.md#箇条書き-かじょうがき) — itemized list
-- [管理 (かんり)](vocab-14.md#管理-かんり) — management, administration, control
-- [節約 (せつやく)](vocab-23.md#節約-せつやく) — economizing, saving, to economize
-- [築く (きずく)](vocab-01.md#築く-きずく) — to build, construct (abstract: build a relationship/fortune)
-- [簡易 (かんい)](vocab-01.md#簡易-かんい) — simple, easy
-- [簡潔 (かんけつ)](vocab-01.md#簡潔-かんけつ) — concise, succinct
-- [簡素 (かんそ)](vocab-01.md#簡素-かんそ) — plain, simple (austere)
-- [籠 (かご)](vocab-12.md#籠-かご) — a basket, a cage
-- [粉末 (ふんまつ)](vocab-32.md#粉末-ふんまつ) — powder
-- [粒 (つぶ)](vocab-29.md#粒-つぶ) — a grain, a grain of rice, a drop (of rain), a particle
-- [粗末 (そまつ)](vocab-24.md#粗末-そまつ) — shabby, coarse, plain (of poor quality); to treat carelessly
-- [粗筋 (あらすじ)](vocab-07.md#粗筋-あらすじ) — an outline, summary, synopsis (of a story)
-- [粘る (ねばる)](vocab-31.md#粘る-ねばる) — to be sticky, glutinous; (figuratively) to persevere, hang in there
-- [粛々 (しゅくしゅく)](vocab-20.md#粛々-しゅくしゅく) — quietly, solemnly, calmly (proceeding without fuss)
-- [粥 (かゆ)](vocab-14.md#粥-かゆ) — rice porridge, congee
-- [精密 (せいみつ)](vocab-22.md#精密-せいみつ) — precise, accurate, fine/detailed (especially of machinery or instruments)
-- [精神 (せいしん)](vocab-22.md#精神-せいしん) — mind, spirit; mental, spiritual
-- [精神的 (せいしんてき)](vocab-22.md#精神的-せいしんてき) — mental, spiritual (as an adjective describing something related to the mind/s...
-- [精算 (せいさん)](vocab-22.md#精算-せいさん) — settling of accounts; adjusting a fare (e.g. at a ticket gate)
-- [糊 (のり)](vocab-31.md#糊-のり) — paste, glue, starch
-- [系統 (けいとう)](vocab-17.md#系統-けいとう) — a system, lineage, genealogy, a school/faction
-- [紅茶 (こうちゃ)](vocab-18.md#紅茶-こうちゃ) — (black) tea, English-style tea
-- [紅葉 (こうよう)](vocab-19.md#紅葉-こうよう) — autumn leaves, fall foliage/colors
-- [紛らわしい (まぎらわしい)](vocab-06.md#紛らわしい-まぎらわしい) — confusing, easily mistaken
-- [素描/デッサン (でっさん)](vocab-29.md#素描デッサン-でっさん) — a sketch, a design/rough drawing
-- [素早い (すばやい)](vocab-22.md#素早い-すばやい) — quick, swift, nimble, agile
-- [素晴らしい (すばらしい)](vocab-22.md#素晴らしい-すばらしい) — wonderful, splendid, magnificent
-- [素朴 (そぼく)](vocab-24.md#素朴-そぼく) — simplicity, simple, unsophisticated, naive
-- [素材 (そざい)](vocab-24.md#素材-そざい) — material, raw material, subject matter
-- [素直 (すなお)](vocab-22.md#素直-すなお) — obedient, gentle, honest/sober (in temperament)
-- [素質 (そしつ)](vocab-24.md#素質-そしつ) — the makings, innate talent, aptitude
-- [紫 【むらさき】](vocab-05.md#紫-むらさき) — Purple, violet (the color).
-- [細菌 (さいきん)](vocab-04.md#細菌-さいきん) — Bacterium, germ
-- [紹介 (しょうかい)](vocab-21.md#紹介-しょうかい) — introduction, to introduce (a person, product, topic)
-- [終える (おえる)](vocab-09.md#終える-おえる) — to finish, complete, conclude
-- [終了 (しゅうりょう)](vocab-20.md#終了-しゅうりょう) — end, finish, close (of an event/process)
-- [終日 (しゅうじつ)](vocab-20.md#終日-しゅうじつ) — all day long, the whole day
-- [終業 (しゅうぎょう)](vocab-20.md#終業-しゅうぎょう) — end of work/closing (for the day), end of a term
-- [終点 (しゅうてん)](vocab-20.md#終点-しゅうてん) — terminal station, the end of the line
-- [組み合わせ (くみあわせ)](vocab-16.md#組み合わせ-くみあわせ) — a combination, a set, a pairing, a matchup
-- [組み合わせる (くみあわせる)](vocab-16.md#組み合わせる-くみあわせる) — to combine, to match (e.g. a sweater and skirt), to pair up
-- [組み込む (くみこむ)](vocab-16.md#組み込む-くみこむ) — to work into, to insert, to incorporate, to build in
-- [組織 (そしき)](vocab-24.md#組織-そしき) — organization; systematic structure
-- [経る 【へる】](vocab-05.md#経る-へる) — To pass through, go via, elapse (time), undergo (a process or stage).
-- [経営(する) (けいえい)](vocab-17.md#経営する-けいえい) — management, administration (of a business)
-- [経度 (けいど)](vocab-17.md#経度-けいど) — longitude
-- [経歴 (けいれき)](vocab-17.md#経歴-けいれき) — career, one's personal history/background
-- [経由 (けいゆ)](vocab-17.md#経由-けいゆ) — via, by way of, through
-- [経緯 (けいい)](vocab-02.md#経緯-けいい) — Circumstances, background, details of how something came about
-- [経費 (けいひ)](vocab-17.md#経費-けいひ) — expense(s), outlay, running costs
-- [経路 (けいろ)](vocab-17.md#経路-けいろ) — course, route, pathway
-- [経過(する) (けいか)](vocab-17.md#経過する-けいか) — passage of time, progress, course (of events/a situation)
-- [経験(する) (けいけん)](vocab-17.md#経験する-けいけん) — experience, to experience
-- [結合(する) (けつごう)](vocab-17.md#結合する-けつごう) — combination, union, bonding (between A and B); to combine/bond
-- [結局 (けっきょく)](vocab-17.md#結局-けっきょく) — after all, in the end, ultimately
-- [結成 (けっせい)](vocab-02.md#結成-けっせい) — Formation (of a group or organization)
-- [結束 (けっそく)](vocab-03.md#結束-けっそく) — solidarity
-- [結果 (けっか)](vocab-17.md#結果-けっか) — result, outcome, consequence
-- [結核 (けっかく)](vocab-17.md#結核-けっかく) — tuberculosis, T.B.
-- [結論 (けつろん)](vocab-17.md#結論-けつろん) — conclusion; to conclude
-- [絡む (からむ)](vocab-14.md#絡む-からむ) — to get entangled with, to be involved/connected with, to pick a fight (when d...
-- [給与 (きゅうよ)](vocab-15.md#給与-きゅうよ) — salary, wages, pay (often including allowances/benefits)
-- [給仕 (きゅうじ)](vocab-15.md#給仕-きゅうじ) — a waiter, a waitress; serving (food/drinks)
-- [給料 (きゅうりょう)](vocab-15.md#給料-きゅうりょう) — salary, wages, pay
-- [給油 (きゅうゆ)](vocab-15.md#給油-きゅうゆ) — refueling (adding fuel/gas)
-- [給食 (きゅうしょく)](vocab-15.md#給食-きゅうしょく) — school lunch program
-- [統一 (とういつ)](vocab-29.md#統一-とういつ) — unification, unity, standardization
-- [統合 (とうごう)](vocab-04.md#統合-とうごう) — Integration
-- [絵の具 (えのぐ)](vocab-09.md#絵の具-えのぐ) — paints, coloring materials
-- [絵画 (かいが)](vocab-12.md#絵画-かいが) — a picture, painting
-- [絶えず (たえず)](vocab-25.md#絶えず-たえず) — always, continuously, constantly, without stopping
-- [絶対(に) (ぜったい(に))](vocab-23.md#絶対に-ぜったいに) — absolute(ly), definitely, without fail
-- [絶望 (ぜつぼう)](vocab-04.md#絶望-ぜつぼう) — Despair
-- [絶滅 (ぜつめつ)](vocab-23.md#絶滅-ぜつめつ) — extinction, extermination, to become extinct
-- [絶版 (ぜっぱん)](vocab-23.md#絶版-ぜっぱん) — out of print
-- [絹 (きぬ)](vocab-14.md#絹-きぬ) — silk
-- [継ぎ目 (つぎめ)](vocab-28.md#継ぎ目-つぎめ) — a join, a joint, a seam, a seam/connection point
-- [継続(する) (けいぞく)](vocab-17.md#継続する-けいぞく) — continuation; to continue, keep on
-- [続々 (ぞくぞく)](vocab-24.md#続々-ぞくぞく) — one after another, in a steady stream
-- [続き (つづき)](vocab-28.md#続き-つづき) — a continuation, a sequel, the rest (of something)
-- [続く (つづく)](vocab-28.md#続く-つづく) — to continue, to go on, to last
-- [続ける (つづける)](vocab-28.md#続ける-つづける) — to continue, to go on, to keep (doing something)
-- [綱 (つな)](vocab-29.md#綱-つな) — a rope (thick, sturdy)
-- [綴じる 【とじる】](vocab-05.md#綴じる-とじる) — To bind, fasten together (papers, pages), e.g., with staples or thread.
-- [綺麗 (きれい)](vocab-16.md#綺麗-きれい) — beautiful, pretty, clean, tidy
-- [綿 (わた)](vocab-36.md#綿-わた) — cotton (the plant fiber/material, especially raw/batting form)
-- [綿入れ (わたいれ)](vocab-36.md#綿入れ-わたいれ) — cotton-padded garment or quilt
-- [緊張 (きんちょう)](vocab-15.md#緊張-きんちょう) — tension, nervousness, strain
-- [緊急 (きんきゅう)](vocab-15.md#緊急-きんきゅう) — urgency, emergency (used adjectivally, e.g., 緊急事態 "state of emergency")
-- [総会 (そうかい)](vocab-23.md#総会-そうかい) — general meeting, general assembly
-- [総合 (そうごう)](vocab-24.md#総合-そうごう) — synthesis, comprehensive, overall, total
-- [総理大臣 (そうりだいじん)](vocab-24.md#総理大臣-そうりだいじん) — the Prime Minister
-- [線路 (せんろ)](vocab-23.md#線路-せんろ) — a railway track/line
-- [緩い (ゆるい)](vocab-35.md#緩い-ゆるい) — loose, easy, slow
-- [緩む (ゆるむ)](vocab-35.md#緩む-ゆるむ) — to loosen, get loose, slacken
-- [緩める (ゆるめる)](vocab-35.md#緩める-ゆるめる) — to loosen, relax, ease, moderate
-- [緩やか (ゆるやか)](vocab-35.md#緩やか-ゆるやか) — loose, slack, slow, lax, gentle, easy
-- [緯度 (いど)](vocab-07.md#緯度-いど) — latitude
-- [練習 (れんしゅう)](vocab-36.md#練習-れんしゅう) — practice, training, drill
-- [縁側 (えんがわ)](vocab-09.md#縁側-えんがわ) — a (Japanese-style) veranda
-- [縁談 (えんだん)](vocab-09.md#縁談-えんだん) — a marriage proposal (arrangement talks)
-- [縦 (たて)](vocab-26.md#縦-たて) — vertical direction, length, height (as opposed to width)
-- [縫う (ぬう)](vocab-04.md#縫う-ぬう) — To sew
-- [縮まる (ちぢまる)](vocab-27.md#縮まる-ちぢまる) — to shrink, to shorten, to contract (intransitive)
-- [縮む (ちぢむ)](vocab-27.md#縮む-ちぢむ) — to shrink, to shorten
-- [縮める (ちぢめる)](vocab-27.md#縮める-ちぢめる) — to shorten (something), to shrink (something), to shorten one's life
-- [縮れる (ちぢれる)](vocab-27.md#縮れる-ちぢれる) — to crinkle, frizz, become curly/kinky (hair, fabric)
-- [縮小 (しゅくしょう)](vocab-20.md#縮小-しゅくしょう) — reduction, shrinking, curtailment, downsizing
-- [繁盛 (はんじょう)](vocab-01.md#繁盛-はんじょう) — prosperity (business thriving)
-- [繊維 (せんい)](vocab-04.md#繊維-せんい) — Fiber
-- [繋がり (つながり)](vocab-29.md#繋がり-つながり) — a connection, a relation, a tie, a bond
-- [繋がる (つながる)](vocab-29.md#繋がる-つながる) — to connect, to be tied, to be linked, to be related
-- [繋ぐ (つなぐ)](vocab-29.md#繋ぐ-つなぐ) — to tie (to), to fasten, to connect
-- [繋げる (つなげる)](vocab-29.md#繋げる-つなげる) — to tie (to), to fasten, to connect
-- [織る (おる)](vocab-11.md#織る-おる) — to weave
-- [織物 (おりもの)](vocab-11.md#織物-おりもの) — textiles, woven fabric
-- [繕う (つくろう)](vocab-28.md#繕う-つくろう) — to repair, to mend, to darn (clothing); to patch up appearances
-- [繰り返す (くりかえす)](vocab-16.md#繰り返す-くりかえす) — to repeat, to do something over again
-- [缶詰 (かんづめ)](vocab-13.md#缶詰-かんづめ) — canned food, a can
-- [罠 (わな)](vocab-36.md#罠-わな) — trap, snare
-- [署名 (しょめい)](vocab-04.md#署名-しょめい) — Signature
-- [羅列 (られつ)](vocab-04.md#羅列-られつ) — Enumeration
-- [羊毛 (ようもう)](vocab-35.md#羊毛-ようもう) — wool
-- [群がる 【むらがる】](vocab-05.md#群がる-むらがる) — To swarm, crowd, cluster together (often used for crowds of people, animals, ...
-- [群れ (むれ)](vocab-03.md#群れ-むれ) — herd, flock (cooperative bond) — contrast with 集まり
-- [群衆/群れ (ぐんしゅう)](vocab-17.md#群衆群れ-ぐんしゅう) — a crowd (of people)
-- [羨ましい (うらやましい)](vocab-08.md#羨ましい-うらやましい) — enviable, to be envied, "I'm jealous (in a good way)"
-- [羨む (うらやむ)](vocab-08.md#羨む-うらやむ) — to envy
-- [義務 (ぎむ)](vocab-14.md#義務-ぎむ) — duty, obligation
-- [義理 (ぎり)](vocab-16.md#義理-ぎり) — duty, obligation (especially social/moral obligation owed to others)
-- [翌~ (よく~)](vocab-35.md#翌-よく) — following, next (prefix for time)
-- [翌日 (よくじつ)](vocab-35.md#翌日-よくじつ) — the next day, the following day
-- [翼 (つばさ)](vocab-01.md#翼-つばさ) — wing
-- [老いる (おいる)](vocab-09.md#老いる-おいる) — to grow old
-- [老人 (ろうじん)](vocab-36.md#老人-ろうじん) — old person, the elderly, an elder
-- [老化指数 (ろうかしすう)](vocab-03.md#老化指数-ろうかしすう) — aging index
-- [老朽化 (ろうきゅうか)](vocab-36.md#老朽化-ろうきゅうか) — becoming old/worn out, deterioration (of a building, infrastructure, equipment)
-- [老舗 (しにせ)](vocab-21.md#老舗-しにせ) — a long-established, traditional shop or business
-- [老衰 (ろうすい)](vocab-36.md#老衰-ろうすい) — senility, decline due to old age; death from natural causes of old age
-- [考え (かんがえ)](vocab-13.md#考え-かんがえ) — thinking, an idea, an opinion
-- [考える (かんがえる)](vocab-13.md#考える-かんがえる) — to consider, to think about
-- [考古学 (こうこがく)](vocab-18.md#考古学-こうこがく) — archaeology
-- [考慮(する) (こうりょ)](vocab-19.md#考慮する-こうりょ) — consideration; to think over, take into account
-- [耐える (たえる)](vocab-04.md#耐える-たえる) — To endure
-- [耕す (たがやす)](vocab-25.md#耕す-たがやす) — to plow, to cultivate (land)
-- [耕地 (こうち)](vocab-18.md#耕地-こうち) — arable land, cultivated/tillable land
-- [聖書 (せいしょ)](vocab-22.md#聖書-せいしょ) — the (Holy) Bible
-- [聞き耳をたてる (ききみみをたてる)](vocab-03.md#聞き耳をたてる-ききみみをたてる) — to listen attentively
-- [聳える (そびえる)](vocab-24.md#聳える-そびえる) — to tower, rise (majestically)
-- [聴覚 (ちょうかく)](vocab-27.md#聴覚-ちょうかく) — the sense of hearing, auditory sense
-- [聴診器 (ちょうしんき)](vocab-27.md#聴診器-ちょうしんき) — stethoscope
-- [聴講 (ちょうこう)](vocab-27.md#聴講-ちょうこう) — to attend (a lecture), audit a class
-- [職務 (しょくむ)](vocab-04.md#職務-しょくむ) — One's duties
-- [肉体 (にくたい)](vocab-30.md#肉体-にくたい) — the body, the flesh (physical body, as opposed to mind/spirit)
-- [肌 (はだ)](vocab-31.md#肌-はだ) — skin; the surface, texture, grain (of something); one's disposition/character
-- [肝心 (かんじん)](vocab-01.md#肝心-かんじん) — essential, crucial
-- [肥料 (ひりょう)](vocab-32.md#肥料-ひりょう) — fertilizer, manure
-- [育ち (そだち)](vocab-24.md#育ち-そだち) — upbringing, breeding, growth
-- [育つ (そだつ)](vocab-24.md#育つ-そだつ) — to grow (up)
-- [胃 (い)](vocab-07.md#胃-い) — the stomach
-- [背く (そむく)](vocab-24.md#背く-そむく) — to disobey, go against, defy, violate
-- [背負う (せおう)](vocab-23.md#背負う-せおう) — to carry on one's back; to be burdened/charged with (a responsibility, debt)
-- [胴 (どう)](vocab-29.md#胴-どう) — a trunk, the torso
-- [能率 (のうりつ)](vocab-31.md#能率-のうりつ) — efficiency
-- [脅かす (おどかす)](vocab-10.md#脅かす-おどかす) — to threaten, to scare (often playfully)
-- [脅かす (おびやかす)](vocab-10.md#脅かす-おびやかす) — to threaten, to endanger
-- [脅す (おどす)](vocab-10.md#脅す-おどす) — to threaten, intimidate
-- [脅迫 (きょうはく)](vocab-15.md#脅迫-きょうはく) — a threat, intimidation, menace (often with legal/criminal connotation)
-- [脚本 (きゃくほん)](vocab-04.md#脚本-きゃくほん) — Script, scenario
-- [脚色 (きゃくしょく)](vocab-15.md#脚色-きゃくしょく) — dramatization, adaptation (for stage/screen); embellishment
-- [脱する (だっする)](vocab-26.md#脱する-だっする) — to escape, to get out of (a difficult situation or state)
-- [脱出 (だっしゅつ)](vocab-26.md#脱出-だっしゅつ) — escape (from a dangerous or confining situation)
-- [脱線 (だっせん)](vocab-26.md#脱線-だっせん) — derailment (of a train); (figuratively) digression, going off-topic
-- [脱退 (だったい)](vocab-26.md#脱退-だったい) — withdrawal, secession (from an organization, group, or treaty)
-- [腐る (くさる)](vocab-16.md#腐る-くさる) — to rot, spoil, go bad (of food); (figuratively) to become demoralized/sour
-- [腕前 (うでまえ)](vocab-08.md#腕前-うでまえ) — skill, ability, proficiency
-- [腸 (ちょう)](vocab-27.md#腸-ちょう) — the bowels, intestines
-- [膨張 (ぼうちょう)](vocab-32.md#膨張-ぼうちょう) — swelling, expansion
-- [臆病 (おくびょう)](vocab-03.md#臆病-おくびょう) — cowardly
-- [自ずから (おのずから)](vocab-06.md#自ずから-おのずから) — naturally, of itself, spontaneously
-- [自主 (じしゅ)](vocab-20.md#自主-じしゅ) — independence, autonomy, self-initiative
-- [自主性 (じしゅせい)](vocab-20.md#自主性-じしゅせい) — independence (of spirit), autonomy, self-initiative (as a trait/quality)
-- [自主独立 (じしゅどくりつ)](vocab-20.md#自主独立-じしゅどくりつ) — independence, autonomy, self-reliance
-- [自在 (じざい)](vocab-19.md#自在-じざい) — at will, freely, with ease/mastery
-- [自己主張 (じこしゅちょう)](vocab-20.md#自己主張-じこしゅちょう) — self-assertion; to assert oneself, advocate for oneself
-- [自己概念 【じこがいねん】](vocab-05.md#自己概念-じこがいねん) — Self-concept, one's own mental image/understanding of who one is (a psycholog...
-- [自我 (じが)](vocab-19.md#自我-じが) — self, ego, self-assertive consciousness
-- [自治 (じち)](vocab-21.md#自治-じち) — self-government, autonomy
-- [自由 (じゆう)](vocab-20.md#自由-じゆう) — freedom, free, liberty
-- [自立 (じりつ)](vocab-21.md#自立-じりつ) — independence, to become independent/self-reliant
-- [自覚 (じかく)](vocab-19.md#自覚-じかく) — self-awareness, consciousness (of one's own situation/responsibility)
-- [臭い (くさい)](vocab-16.md#臭い-くさい) — to stink, smell bad; (figuratively) suspicious, fishy
-- [至った (いたった)](vocab-02.md#至った-いたった) — Reached, arrived at (a state or conclusion)
-- [興じる/ずる (きょうじる)](vocab-15.md#興じるずる-きょうじる) — to have fun, enjoy oneself, be engrossed in (an activity)
-- [興奮(する) (こうふん)](vocab-19.md#興奮する-こうふん) — excitement, agitation; to get excited
-- [航海 (こうかい)](vocab-18.md#航海-こうかい) — navigation, sailing, voyage, cruise
-- [航空 (こうくう)](vocab-18.md#航空-こうくう) — aviation
-- [船舶 (せんぱく)](vocab-23.md#船舶-せんぱく) — vessel, ship (formal/collective term)
-- [良い/いい (よい)](vocab-35.md#良いいい-よい) — good, excellent, fine, lucky, fortunate
-- [良し (よし)](vocab-36.md#良し-よし) — good, fine, all right (classical/set-phrase form of 良い)
-- [良心 (りょうしん)](vocab-06.md#良心-りょうしん) — conscience
-- [良識 (りょうしき)](vocab-06.md#良識-りょうしき) — good sense, sound judgment
-- [良質 (りょうしつ)](vocab-33.md#良質-りょうしつ) — good quality, high quality
-- [色彩 (しきさい)](vocab-01.md#色彩-しきさい) — coloring, hue
-- [芝居 (しばい)](vocab-04.md#芝居-しばい) — Play, theater
-- [花壇 (かだん)](vocab-04.md#花壇-かだん) — Flower bed
-- [花嫁 (はなよめ)](vocab-31.md#花嫁-はなよめ) — a bride
-- [花柄 (はながら)](vocab-04.md#花柄-はながら) — Floral pattern
-- [芸 (げい)](vocab-17.md#芸-げい) — accomplishments, arts, a performance, a trick
-- [芸能 (げいのう)](vocab-17.md#芸能-げいのう) — public entertainment, performing arts, show business
-- [芸術 (げいじゅつ)](vocab-17.md#芸術-げいじゅつ) — art, the arts
-- [芽 (め)](vocab-02.md#芽-め) — Bud, sprout
-- [苗 (なえ)](vocab-06.md#苗-なえ) — seedling
-- [若々しい (わかわかしい)](vocab-36.md#若々しい-わかわかしい) — youthful, young-looking, vigorous
-- [苦い (にがい)](vocab-30.md#苦い-にがい) — bitter (taste); (figuratively) bitter, painful (experience)
-- [苦しい (くるしい)](vocab-16.md#苦しい-くるしい) — difficult, painful; to be in hardship/poverty, be in a tight situation
-- [苦しむ (くるしむ)](vocab-16.md#苦しむ-くるしむ) — to feel pain, to suffer, to be distressed, to struggle hard (with something)
-- [苦しめる (くるしめる)](vocab-16.md#苦しめる-くるしめる) — to cause pain, to torment, to trouble, to worry (someone)
-- [苦心 (くしん)](vocab-16.md#苦心-くしん) — taking pains, working hard with effort/ingenuity (often to overcome a difficu...
-- [苦情 (くじょう)](vocab-16.md#苦情-くじょう) — a complaint, a grievance
-- [苦痛 (くつう)](vocab-16.md#苦痛-くつう) — pain, agony, torment, distress, affliction
-- [英和 (えいわ)](vocab-09.md#英和-えいわ) — English-Japanese (as in a dictionary)
-- [英字 (えいじ)](vocab-09.md#英字-えいじ) — Roman letters, English script/characters
-- [英文 (えいぶん)](vocab-09.md#英文-えいぶん) — English text, an English sentence/composition
-- [英雄 (えいゆう)](vocab-09.md#英雄-えいゆう) — a hero
-- [茎 (くき)](vocab-02.md#茎-くき) — Stem, stalk
-- [茶の湯 (ちゃのゆ)](vocab-27.md#茶の湯-ちゃのゆ) — the art of ceremonial tea-making, the tea ceremony
-- [茶の間 (ちゃのま)](vocab-27.md#茶の間-ちゃのま) — a (Japanese-style) living room, family room
-- [草履 (ぞうり)](vocab-24.md#草履-ぞうり) — Japanese sandals (traditional, flat, thonged)
-- [荒っぽい (あらっぽい)](vocab-07.md#荒っぽい-あらっぽい) — rough, coarse, violent (in manner or action)
-- [荒れる (あれる)](vocab-06.md#荒れる-あれる) — to become rough/stormy; to fall into disorder/ruin; (skin) to become chapped
-- [荷 (に)](vocab-30.md#荷-に) — cargo, load, goods; (figuratively) a burden
-- [華やか (はなやか)](vocab-01.md#華やか-はなやか) — gorgeous, showy, splendid
-- [落ち着き (おちつき)](vocab-10.md#落ち着き-おちつき) — composure, calmness
-- [落ち着く (おちつく)](vocab-10.md#落ち着く-おちつく) — to calm down, to settle down
-- [落ち葉 (おちば)](vocab-10.md#落ち葉-おちば) — fallen leaves
-- [落ち込む (おちこむ)](vocab-10.md#落ち込む-おちこむ) — to fall into; to feel depressed; (figures) to decline
-- [落とし物 (おとしもの)](vocab-10.md#落とし物-おとしもの) — a lost item
-- [落下 (らっか)](vocab-33.md#落下-らっか) — fall, drop (especially from a height)
-- [落第 (らくだい)](vocab-33.md#落第-らくだい) — failing an exam, being held back a grade, flunking
-- [著名 (ちょめい)](vocab-28.md#著名-ちょめい) — famous, well-known, renowned
-- [著書 (ちょしょ)](vocab-28.md#著書-ちょしょ) — a book, work (that one has authored)
-- [著者 (ちょしゃ)](vocab-28.md#著者-ちょしゃ) — the author
-- [葬る 【ほうむる】](vocab-05.md#葬る-ほうむる) — To bury (a person, i.e., hold a funeral/burial); figuratively, to bury/suppre...
-- [葬式 (そうしき)](vocab-24.md#葬式-そうしき) — a funeral
-- [蓄える (たくわえる)](vocab-25.md#蓄える-たくわえる) — to store, to save (up), to stockpile
-- [蓄積 (ちくせき)](vocab-27.md#蓄積-ちくせき) — accumulation; to accumulate, to store up
-- [蔵 (くら)](vocab-16.md#蔵-くら) — a storehouse, a warehouse, a cellar (esp. traditional Japanese storehouse)
-- [蔵相 (そうしょう)](vocab-24.md#蔵相-そうしょう) — the Minister of Finance (historical/formal title)
-- [蕎麦 (そば)](vocab-24.md#蕎麦-そば) — buckwheat noodles
-- [薄める (うすめる)](vocab-08.md#薄める-うすめる) — to thin, dilute, weaken (a liquid, flavor, etc.)
-- [薄暗い (うすぐらい)](vocab-08.md#薄暗い-うすぐらい) — dim, dusky, shadowy
-- [薬局 (やっきょく)](vocab-34.md#薬局-やっきょく) — a pharmacy, drugstore
-- [薬指 (くすりゆび)](vocab-16.md#薬指-くすりゆび) — the ring finger
-- [藁 (わら)](vocab-36.md#藁-わら) — straw (dried stalks, e.g. of rice plants)
-- [蘇る (よみがえる)](vocab-33.md#蘇る-よみがえる) — to revive, to come back to life, to be resurrected
-- [虎 (とら)](vocab-30.md#虎-とら) — a tiger
-- [虹 (にじ)](vocab-30.md#虹-にじ) — a rainbow
-- [蛇口 (じゃぐち)](vocab-20.md#蛇口-じゃぐち) — tap, faucet
-- [蛋白質 (たんぱくしつ)](vocab-26.md#蛋白質-たんぱくしつ) — protein
-- [蛍光灯 (けいこうとう)](vocab-17.md#蛍光灯-けいこうとう) — a fluorescent light/lamp
-- [蜂蜜 (はちみつ)](vocab-31.md#蜂蜜-はちみつ) — honey
-- [融資 (ゆうし)](vocab-35.md#融資-ゆうし) — financing, a loan, lending of funds
-- [血圧 (けつあつ)](vocab-17.md#血圧-けつあつ) — blood pressure
-- [血液 (けつえき)](vocab-17.md#血液-けつえき) — blood
-- [衆議院 (しゅうぎいん)](vocab-20.md#衆議院-しゅうぎいん) — the House of Representatives (lower house of Japan's Diet)
-- [行い (おこない)](vocab-10.md#行い-おこない) — conduct, behavior, an act or deed
-- [行事 (ぎょうじ)](vocab-15.md#行事-ぎょうじ) — an event, function, ceremony (often recurring, like a school or seasonal event)
-- [行儀 (ぎょうぎ)](vocab-15.md#行儀-ぎょうぎ) — manners, behavior, etiquette
-- [行列 (ぎょうれつ)](vocab-16.md#行列-ぎょうれつ) — a procession, a line, a queue; (math) a matrix
-- [行動 (こうどう)](vocab-19.md#行動-こうどう) — action, behavior, conduct
-- [行政 (ぎょうせい)](vocab-15.md#行政-ぎょうせい) — administration (of government); public administration
-- [行方 (ゆくえ)](vocab-35.md#行方-ゆくえ) — whereabouts
-- [行為 (こうい)](vocab-02.md#行為-こうい) — Act, deed, conduct
-- [行進 (こうしん)](vocab-18.md#行進-こうしん) — march, parade
-- [街道 (かいどう)](vocab-11.md#街道-かいどう) — a highway, thoroughfare (often historical, e.g., old post roads)
-- [衛生 (えいせい)](vocab-09.md#衛生-えいせい) — hygiene, sanitation
-- [衝撃 (しょうげき)](vocab-01.md#衝撃-しょうげき) — shock, impact
-- [衣服 (いふく)](vocab-07.md#衣服-いふく) — clothes, garments, apparel
-- [衣装 (いしょう)](vocab-03.md#衣装-いしょう) — costume
-- [衣類 (いるい)](vocab-07.md#衣類-いるい) — clothing, clothes, garments
-- [表 (ひょう)](vocab-32.md#表-ひょう) — a table, a list, a chart
-- [表す/現す (あらわす)](vocab-07.md#表す現す-あらわす) — to express, show, represent, manifest
-- [表現 (ひょうげん)](vocab-32.md#表現-ひょうげん) — expression, representation (of thoughts/feelings in words, art, etc.)
-- [表面 (ひょうめん)](vocab-32.md#表面-ひょうめん) — the surface, superficial, outward appearance
-- [衰える (おとろえる)](vocab-10.md#衰える-おとろえる) — to decline, to weaken
-- [袖 (そで)](vocab-24.md#袖-そで) — a sleeve, an arm (of clothing)
-- [被せる (かぶせる)](vocab-13.md#被せる-かぶせる) — to cover, to put (something) on, to pour over, to place blame on
-- [被る (かぶる)](vocab-13.md#被る-かぶる) — to put on, wear (on the head); to cover oneself; to overlap
-- [被害妄想 (ひがいもうそう)](vocab-04.md#被害妄想-ひがいもうそう) — Persecution complex
-- [裂く (さく)](vocab-04.md#裂く-さく) — To tear, sever
-- [装備 (そうび)](vocab-24.md#装備-そうび) — equipment, outfit, gear
-- [装置 (そうち)](vocab-24.md#装置-そうち) — equipment, a device, an apparatus
-- [装飾 (そうしょく)](vocab-24.md#装飾-そうしょく) — decoration, ornamentation, to decorate
-- [装飾 【そうしょく】](vocab-05.md#装飾-そうしょく) — Decoration, ornamentation (adding decorative elements to something).
-- [裏切る (うらぎる)](vocab-08.md#裏切る-うらぎる) — to betray
-- [裏口 (うらぐち)](vocab-08.md#裏口-うらぐち) — the back door; (figuratively) an underhanded/illicit route
-- [裏返し (うらがえし)](vocab-08.md#裏返し-うらがえし) — the reverse side, inside out, upside down (for fabric/clothing)
-- [裏返す (うらがえす)](vocab-08.md#裏返す-うらがえす) — to turn over, to reverse (flip something to its other side)
-- [補う (おぎなう)](vocab-10.md#補う-おぎなう) — to supplement, make up for, compensate
-- [補充 (ほじゅう)](vocab-32.md#補充-ほじゅう) — supplement, to replenish, restock
-- [補足 (ほそく)](vocab-32.md#補足-ほそく) — supplement, a supplementary note, to add (information)
-- [補足 【ほそく】](vocab-05.md#補足-ほそく) — Supplement, supplementary addition/explanation (to fill in missing information).
-- [裸 (はだか)](vocab-06.md#裸-はだか) — naked, bare
-- [裸足 (はだし)](vocab-31.md#裸足-はだし) — barefoot
-- [製品 (せいひん)](vocab-22.md#製品-せいひん) — product, manufactured goods
-- [製法 (せいほう)](vocab-22.md#製法-せいほう) — a manufacturing method, recipe/process for making something
-- [製造 (せいぞう)](vocab-22.md#製造-せいぞう) — manufacture, production
-- [製鉄 (せいてつ)](vocab-22.md#製鉄-せいてつ) — steel/iron manufacturing
-- [複雑 (ふくざつ)](vocab-32.md#複雑-ふくざつ) — complication, complex, complicated
-- [襟 (えり)](vocab-09.md#襟-えり) — a collar
-- [襲う (おそう)](vocab-10.md#襲う-おそう) — to attack, assault
-- [襲撃 (しゅうげき)](vocab-20.md#襲撃-しゅうげき) — surprise attack, raid, assault
-- [西 (にし)](vocab-30.md#西-にし) — west
-- [西暦 (せいれき)](vocab-22.md#西暦-せいれき) — the Christian/Western calendar era, A.D.
-- [要する (ようする)](vocab-35.md#要する-ようする) — to need, require, take, demand
-- [要するに (ようするに)](vocab-02.md#要するに-ようするに) — In short, to sum up
-- [要因 (よういん)](vocab-35.md#要因-よういん) — a (primary) factor, a cause
-- [要因 【よういん】](vocab-05.md#要因-よういん) — Primary factor, (contributing) cause (of an event, outcome, or phenomenon, es...
-- [要旨 (ようし)](vocab-35.md#要旨-ようし) — the point, the gist, a summary
-- [要望 (ようぼう)](vocab-35.md#要望-ようぼう) — a demand, one's wish, a request
-- [要求 (ようきゅう)](vocab-35.md#要求-ようきゅう) — demand, claim, request
-- [要点 (ようてん)](vocab-35.md#要点-ようてん) — the point, key point
-- [要素 (ようそ)](vocab-35.md#要素-ようそ) — an element, a constituent
-- [要請 (ようせい)](vocab-35.md#要請-ようせい) — a request, a demand (often official)
-- [要領 (ようりょう)](vocab-35.md#要領-ようりょう) — knack, art of doing something; the point
-- [覆う (おおう)](vocab-09.md#覆う-おおう) — to cover, hide, conceal
-- [覆す (くつがえす)](vocab-16.md#覆す-くつがえす) — to overturn, to capsize, to overthrow (a government), to reverse (a decision)
-- [見せびらかす (みせびらかす)](vocab-06.md#見せびらかす-みせびらかす) — show off, flaunt
-- [見地 (けんち)](vocab-18.md#見地-けんち) — standpoint, point of view
-- [見学(する) (けんがく)](vocab-18.md#見学する-けんがく) — study by observation; to tour/observe (e.g., a facility) for learning purposes
-- [見積り 【みつもり】](vocab-05.md#見積り-みつもり) — Estimate, quotation (a calculated approximation of cost, time, or quantity, e...
-- [見解 (けんかい)](vocab-18.md#見解-けんかい) — opinion, view, outlook (often official/formal)
-- [規定 (きてい)](vocab-14.md#規定-きてい) — a rule, a regulation, a provision
-- [規律 (きりつ)](vocab-16.md#規律-きりつ) — a rule, discipline, order (especially of conduct within a group/organization)
-- [規模 (きぼ)](vocab-14.md#規模-きぼ) — a scale, scope, size (of an operation, disaster, etc.)
-- [規範 (きはん)](vocab-14.md#規範-きはん) — a model, a standard, a norm
-- [規約 (きやく)](vocab-14.md#規約-きやく) — an agreement, bylaws, terms of service
-- [覚え (おぼえ)](vocab-11.md#覚え-おぼえ) — memory, learning ability
-- [覚悟 (かくご)](vocab-12.md#覚悟-かくご) — mental preparedness, resolve, being resigned to (something difficult)
-- [親 (おや)](vocab-11.md#親-おや) — a parent
-- [親友 (しんゆう)](vocab-22.md#親友-しんゆう) — a close friend, best friend
-- [親指 (おやゆび)](vocab-11.md#親指-おやゆび) — the thumb (also used for the big toe)
-- [親父 (おやじ)](vocab-11.md#親父-おやじ) — dad, old man; (one's own) father in rough/familiar speech
-- [観光 (かんこう)](vocab-13.md#観光-かんこう) — sightseeing, tourism
-- [観客 (かんきゃく)](vocab-13.md#観客-かんきゃく) — a spectator, an audience member
-- [観察 (かんさつ)](vocab-13.md#観察-かんさつ) — observation
-- [観念 (かんねん)](vocab-13.md#観念-かんねん) — an idea, concept, notion
-- [観測 (かんそく)](vocab-13.md#観測-かんそく) — observation (scientific), to predict/forecast
-- [観点 (かんてん)](vocab-13.md#観点-かんてん) — a point of view, perspective
-- [観覧 (かんらん)](vocab-14.md#観覧-かんらん) — viewing, watching (an exhibition, show, etc.)
-- [角 (つの)](vocab-29.md#角-つの) — a horn, an antler
-- [角度 (かくど)](vocab-12.md#角度-かくど) — an angle; a point of view, perspective
-- [解剖 (かいぼう)](vocab-11.md#解剖-かいぼう) — dissection, autopsy
-- [解放 (かいほう)](vocab-11.md#解放-かいほう) — liberation, release (from restriction/burden)
-- [解散 (かいさん)](vocab-12.md#解散-かいさん) — to break up, disperse (a group, organization, parliament)
-- [解決 (かいけつ)](vocab-12.md#解決-かいけつ) — settlement, solution (to a problem)
-- [解答/回答 (かいとう)](vocab-11.md#解答回答-かいとう) — an answer, a reply (解答: answer to a problem/test; 回答: a reply/response to a q...
-- [解説 (かいせつ)](vocab-11.md#解説-かいせつ) — explanation, commentary (often by an expert, e.g., on TV/in a book)
-- [解釈 (かいしゃく)](vocab-12.md#解釈-かいしゃく) — interpretation
-- [解除 (かいじょ)](vocab-12.md#解除-かいじょ) — cancellation, release, lifting (of a restriction, contract, alarm, etc.)
-- [言わば (いわば)](vocab-07.md#言わば-いわば) — so to speak, as it were, in other words
-- [言語 (げんご)](vocab-18.md#言語-げんご) — language, speech
-- [訂正 (ていせい)](vocab-04.md#訂正-ていせい) — Correction
-- [計 (けい)](vocab-17.md#計-けい) — a plan, a plot; the grand total; a gauge/meter
-- [計画(する) (けいかく)](vocab-17.md#計画する-けいかく) — a plan, to plan (to do something)
-- [討論 (とうろん)](vocab-29.md#討論-とうろん) — discussion, debate
-- [訓練(する) (くんれん)](vocab-17.md#訓練する-くんれん) — training, drilling, practice (often physical or disciplined)
-- [記入 (きにゅう)](vocab-14.md#記入-きにゅう) — to fill in, enter, write down (on a form)
-- [記名 (きめい)](vocab-14.md#記名-きめい) — signature, writing one's name
-- [記念 (きねん)](vocab-14.md#記念-きねん) — commemoration, a memento/keepsake
-- [記憶 (きおく)](vocab-02.md#記憶-きおく) — Memory
-- [記載 (きさい)](vocab-03.md#記載-きさい) — entry, record
-- [訪れる (おとずれる)](vocab-10.md#訪れる-おとずれる) — to visit; (season, event) to come
-- [設備 (せつび)](vocab-23.md#設備-せつび) — equipment, facilities, accommodations
-- [設定 (せってい)](vocab-23.md#設定-せってい) — establishment, setting, configuration, to set up
-- [設立 (せつりつ)](vocab-23.md#設立-せつりつ) — establishment, foundation, to found/establish
-- [設置 (せっち)](vocab-23.md#設置-せっち) — installation, to install, to set up (equipment, an organization)
-- [設計 (せっけい)](vocab-23.md#設計-せっけい) — a plan, a design (especially technical/architectural)
-- [許す (ゆるす)](vocab-35.md#許す-ゆるす) — to forgive, pardon, excuse, allow, permit
-- [許可 (きょか)](vocab-16.md#許可-きょか) — permission, leave, authorization
-- [許容 (きょよう)](vocab-16.md#許容-きょよう) — permission, tolerance, allowance (of a margin/range)
-- [訴え (うったえ)](vocab-08.md#訴え-うったえ) — an appeal, a lawsuit, a complaint
-- [訴える (うったえる)](vocab-08.md#訴える-うったえる) — to sue, to complain, to appeal (to feelings/senses)
-- [訴訟 (そしょう)](vocab-24.md#訴訟-そしょう) — a lawsuit, litigation
-- [診察 (しんさつ)](vocab-21.md#診察-しんさつ) — medical examination (by a doctor)
-- [診断 (しんだん)](vocab-21.md#診断-しんだん) — diagnosis
-- [診療 (しんりょう)](vocab-21.md#診療-しんりょう) — medical examination and treatment
-- [証し (あかし)](vocab-06.md#証し-あかし) — proof, evidence, mark/testament of truth
-- [詐欺 (さぎ)](vocab-04.md#詐欺-さぎ) — Fraud
-- [評価 (ひょうか)](vocab-32.md#評価-ひょうか) — evaluation, appraisal, assessment
-- [評判 (ひょうばん)](vocab-32.md#評判-ひょうばん) — reputation, popularity, rumor, word of mouth
-- [試し (ためし)](vocab-26.md#試し-ためし) — a try, an attempt, a test
-- [試す (ためす)](vocab-26.md#試す-ためす) — to test, to try (to check the quality/effect of something)
-- [試験 (しけん)](vocab-20.md#試験-しけん) — examination, test, trial
-- [詩人 (しじん)](vocab-20.md#詩人-しじん) — poet
-- [詫びる (わびる)](vocab-36.md#詫びる-わびる) — to apologize
-- [該当 (がいとう)](vocab-03.md#該当-がいとう) — applicable
-- [詳しい (くわしい)](vocab-16.md#詳しい-くわしい) — detailed, particular; to be well informed about (a subject)
-- [詳しく (くわしく)](vocab-02.md#詳しく-くわしく) — In detail, closely
-- [誇り (ほこり)](vocab-06.md#誇り-ほこり) — pride
-- [誇る (ほこる)](vocab-32.md#誇る-ほこる) — to be proud (of), to boast
-- [誉める/褒める (ほめる)](vocab-32.md#誉める褒める-ほめる) — to praise, admire
-- [認知 【にんち】](vocab-05.md#認知-にんち) — Cognition, recognition; also used for legal "acknowledgment" (e.g., of patern...
-- [認識 (にんしき)](vocab-04.md#認識-にんしき) — Awareness, recognition
-- [誓う (ちかう)](vocab-27.md#誓う-ちかう) — to swear, to make a vow, to promise (solemnly)
-- [誕生 (たんじょう)](vocab-26.md#誕生-たんじょう) — birth; to be born, to come into being
-- [誘導 (ゆうどう)](vocab-35.md#誘導-ゆうどう) — guidance, inducement, leading (someone/something), derivation
-- [誘惑 (ゆうわく)](vocab-35.md#誘惑-ゆうわく) — temptation; to tempt, lure, entice, seduce
-- [誘惑 【ゆうわく】](vocab-05.md#誘惑-ゆうわく) — Temptation (an enticement to do something, often something one knows one shou...
-- [語弊 (ごへい)](vocab-03.md#語弊-ごへい) — misleading wording
-- [誠実 (せいじつ)](vocab-22.md#誠実-せいじつ) — sincerity, honesty, faithfulness
-- [説 (せつ)](vocab-23.md#説-せつ) — an opinion, a theory, a rumor, a hypothesis
-- [説得 (せっとく)](vocab-23.md#説得-せっとく) — persuasion, to persuade
-- [読み (よみ)](vocab-33.md#読み-よみ) — reading; also insight, a read on a situation
-- [読み上げる (よみあげる)](vocab-33.md#読み上げる-よみあげる) — to read out loud, to read through (aloud, often formally)
-- [読書 (どくしょ)](vocab-29.md#読書-どくしょ) — reading (books)
-- [読者 (どくしゃ)](vocab-29.md#読者-どくしゃ) — a reader, subscriber
-- [課外 (かがい)](vocab-12.md#課外-かがい) — extracurricular, after-school (activities, lessons)
-- [調停 (ちょうてい)](vocab-04.md#調停-ちょうてい) — Mediation
-- [調印 (ちょういん)](vocab-27.md#調印-ちょういん) — signing (a treaty), sealing
-- [調味料 (ちょうみりょう)](vocab-28.md#調味料-ちょうみりょう) — a seasoning, condiment
-- [調和 (ちょうわ)](vocab-28.md#調和-ちょうわ) — harmony, to be in harmony (with), to match
-- [調子 (ちょうし)](vocab-27.md#調子-ちょうし) — a tune, tone, pitch, rhythm; condition/state
-- [調整 (ちょうせい)](vocab-27.md#調整-ちょうせい) — control, regulation, adjustment, coordination
-- [調査 (ちょうさ)](vocab-27.md#調査-ちょうさ) — investigation, survey, research
-- [調理 (ちょうり)](vocab-28.md#調理-ちょうり) — cooking, cookery; to cook/prepare food
-- [調節 (ちょうせつ)](vocab-27.md#調節-ちょうせつ) — adjustment, regulation (often mechanical/physical)
-- [請求 (せいきゅう)](vocab-22.md#請求-せいきゅう) — a demand, claim, request; an invoice/bill
-- [論じる (ろんじる)](vocab-36.md#論じる-ろんじる) — to discuss, argue, expound upon (a topic, in writing or speech)
-- [論争 (ろんそう)](vocab-36.md#論争-ろんそう) — dispute, controversy, polemic
-- [論理 (ろんり)](vocab-36.md#論理-ろんり) — logic, reasoning
-- [論議 (ろんぎ)](vocab-36.md#論議-ろんぎ) — discussion, argument, debate
-- [諦め (あきらめ)](vocab-06.md#諦め-あきらめ) — resignation, giving up
-- [諦める (あきらめる)](vocab-06.md#諦める-あきらめる) — to give up, abandon, resign oneself
-- [謎 (なぞ)](vocab-30.md#謎-なぞ) — a riddle, mystery, enigma
-- [謙虚さ (けんきょさ)](vocab-02.md#謙虚さ-けんきょさ) — Humility
-- [謙遜(する) (けんそん)](vocab-18.md#謙遜する-けんそん) — to be modest, humble; to speak modestly
-- [講師 (こうし)](vocab-18.md#講師-こうし) — lecturer, instructor
-- [講義 (こうぎ)](vocab-18.md#講義-こうぎ) — lecture
-- [講読 (こうどく)](vocab-19.md#講読-こうどく) — reading (and studying a text, especially in an academic setting)
-- [謝罪 (しゃざい)](vocab-20.md#謝罪-しゃざい) — apology, to apologize
-- [警備(する) (けいび)](vocab-17.md#警備する-けいび) — defense, guard, security; to guard/keep watch
-- [警告(する) (けいこく)](vocab-17.md#警告する-けいこく) — a warning, a caution, to warn/advise
-- [警部 (けいぶ)](vocab-17.md#警部-けいぶ) — police inspector
-- [議長 (ぎちょう)](vocab-14.md#議長-ぎちょう) — the chairman, chairperson (of a meeting/assembly)
-- [議題 (ぎだい)](vocab-14.md#議題-ぎだい) — a topic for discussion, an agenda item
-- [譲る (ゆずる)](vocab-35.md#譲る-ゆずる) — to concede, yield to, hand over
-- [譲歩 (じょうほ)](vocab-02.md#譲歩-じょうほ) — Concession, compromise
-- [護衛 (ごえい)](vocab-19.md#護衛-ごえい) — guard, escort, protection (suru verb)
-- [讃える 【たたえる】](vocab-05.md#讃える-たたえる) — To praise, extol, honor (someone's achievement or virtue), often in formal or...
-- [谷 (たに)](vocab-26.md#谷-たに) — a valley, a ravine, a gorge
-- [豊か (ゆたか)](vocab-35.md#豊か-ゆたか) — rich, wealthy, affluent, abundant
-- [象 (ぞう)](vocab-23.md#象-ぞう) — an elephant
-- [象徴 (しょうちょう)](vocab-02.md#象徴-しょうちょう) — Symbol
-- [豪華 (ごうか)](vocab-18.md#豪華-ごうか) — luxurious, grand, magnificent
-- [貝 (かい)](vocab-11.md#貝-かい) — a shellfish, a shell
-- [貝殻 (かいがら)](vocab-02.md#貝殻-かいがら) — Seashell
-- [貢献 (こうけん)](vocab-03.md#貢献-こうけん) — contribution
-- [貧乏 (びんぼう)](vocab-32.md#貧乏-びんぼう) — poverty, poor
-- [貧困 (ひんこん)](vocab-32.md#貧困-ひんこん) — poverty, destitution
-- [貧弱 (ひんじゃく)](vocab-04.md#貧弱-ひんじゃく) — Frail, feeble
-- [貧血 (ひんけつ)](vocab-32.md#貧血-ひんけつ) — anemia
-- [貫禄 (かんろく)](vocab-01.md#貫禄-かんろく) — presence, dignity, gravitas
-- [責める/攻める (せめる)](vocab-23.md#責める攻める-せめる) — to blame/criticize (責める) / to attack (攻める)
-- [責任 (せきにん)](vocab-23.md#責任-せきにん) — responsibility, liability
-- [責務 (せきむ)](vocab-23.md#責務-せきむ) — duty, obligation, responsibility (formal)
-- [貯蓄 (ちょちく)](vocab-28.md#貯蓄-ちょちく) — savings; to save up, accumulate
-- [貯蔵 (ちょぞう)](vocab-28.md#貯蔵-ちょぞう) — storage, preservation; to store up
-- [貯金 (ちょきん)](vocab-28.md#貯金-ちょきん) — savings, to save money (in a bank/piggy bank)
-- [貴族 (きぞく)](vocab-14.md#貴族-きぞく) — nobility, a nobleman/aristocrat
-- [貴重 (きちょう)](vocab-14.md#貴重-きちょう) — valuable, precious
-- [貸[し]間 (かしま)](vocab-13.md#貸し間-かしま) — a room for rent, a rented room
-- [貸し (かし)](vocab-13.md#貸し-かし) — lending, a loan; a favor owed to you
-- [貸し出し (かしだし)](vocab-13.md#貸し出し-かしだし) — lending, checking out (e.g. library books), an advance
-- [貸す (かす)](vocab-13.md#貸す-かす) — to lend, to loan, to hire out
-- [費やす (ついやす)](vocab-04.md#費やす-ついやす) — To spend/expend
-- [資料 (しりょう)](vocab-21.md#資料-しりょう) — materials, data, reference documents
-- [資本主義 (しほんしゅぎ)](vocab-20.md#資本主義-しほんしゅぎ) — capitalism
-- [資格 (しかく)](vocab-02.md#資格-しかく) — Qualification, credential
-- [資源 (しげん)](vocab-20.md#資源-しげん) — natural (material) resources
-- [資産 (しさん)](vocab-20.md#資産-しさん) — assets, property, wealth
-- [資金 (しきん)](vocab-19.md#資金-しきん) — fund, capital, financial resources
-- [賜る (たまわる)](vocab-26.md#賜る-たまわる) — to receive (humbly, as a gift bestowed by a superior)
-- [賢い (かしこい)](vocab-13.md#賢い-かしこい) — wise, clever, smart
-- [賢明 (けんめい)](vocab-04.md#賢明-けんめい) — Wise, sensible
-- [質問 (しつもん)](vocab-21.md#質問-しつもん) — question, to ask a question
-- [質素 (しっそ)](vocab-04.md#質素-しっそ) — Frugal, simple
-- [賭け (かけ)](vocab-12.md#賭け-かけ) — a bet, a wager, a gamble
-- [購入(する) (こうにゅう)](vocab-19.md#購入する-こうにゅう) — purchase, to buy
-- [購買 (こうばい)](vocab-19.md#購買-こうばい) — purchasing, buying (often in a business/retail context)
-- [贅沢 (ぜいたく)](vocab-22.md#贅沢-ぜいたく) — luxury, luxurious, extravagant
-- [贈る (おくる)](vocab-10.md#贈る-おくる) — to give (a gift), present, confer, award
-- [赤字 (あかじ)](vocab-06.md#赤字-あかじ) — a deficit, being in the red (financially)
-- [赤道 (せきどう)](vocab-23.md#赤道-せきどう) — the equator
-- [走行 (そうこう)](vocab-24.md#走行-そうこう) — running, traveling, driving (of a vehicle)
-- [赴く (おもむく)](vocab-11.md#赴く-おもむく) — to proceed to, to head for
-- [赴任 【ふにん】](vocab-05.md#赴任-ふにん) — Starting a new post/assignment, especially relocating for a job transfer (oft...
-- [起こる (おこる)](vocab-10.md#起こる-おこる) — to happen, to occur
-- [起点 (きてん)](vocab-14.md#起点-きてん) — starting point, origin
-- [超過 (ちょうか)](vocab-27.md#超過-ちょうか) — an excess, to exceed
-- [越える/超える (こえる)](vocab-19.md#越える超える-こえる) — to exceed, surpass, cross over, go beyond
-- [趣 (おもむき)](vocab-11.md#趣-おもむき) — flavor, charm, air, ambience
-- [趣旨 (しゅし)](vocab-02.md#趣旨-しゅし) — Purport, gist, purpose
-- [足[し]算 (たしざん)](vocab-25.md#足し算-たしざん) — addition (arithmetic)
-- [足す (たす)](vocab-25.md#足す-たす) — to add
-- [足る (たる)](vocab-26.md#足る-たる) — to be enough, to be sufficient, to be worth (doing)
-- [足元 (あしもと)](vocab-06.md#足元-あしもと) — underfoot, at one's feet; (figuratively) one's immediate situation/footing
-- [足袋 (たび)](vocab-26.md#足袋-たび) — Japanese split-toe socks (traditionally worn with kimono/geta)
-- [足跡 (あしあと)](vocab-06.md#足跡-あしあと) — a footprint, track; an achievement/legacy
-- [距離 (きょり)](vocab-16.md#距離-きょり) — a distance, an interval (physical or figurative/emotional)
-- [蹴とばす (けとばす)](vocab-17.md#蹴とばす-けとばす) — to kick away, reject forcefully
-- [蹴る (ける)](vocab-17.md#蹴る-ける) — to kick; to reject, turn down
-- [躾 (しつけ)](vocab-02.md#躾-しつけ) — Discipline, upbringing, training (especially of children's manners)
-- [車庫 (しゃこ)](vocab-20.md#車庫-しゃこ) — garage, carport, vehicle depot
-- [軌道 (きどう)](vocab-14.md#軌道-きどう) — orbit, track, trajectory
-- [軍事 (ぐんじ)](vocab-17.md#軍事-ぐんじ) — military affairs, military matters
-- [軍服 (ぐんぷく)](vocab-17.md#軍服-ぐんぷく) — a military uniform
-- [軍艦 (ぐんかん)](vocab-17.md#軍艦-ぐんかん) — a warship, a battleship
-- [軍隊 (ぐんたい)](vocab-17.md#軍隊-ぐんたい) — armed forces, army, troops
-- [軒並み (のきなみ)](vocab-31.md#軒並み-のきなみ) — a row of houses; (adverbially) across the board, uniformly, every single one
-- [転寝 (うたたね)](vocab-08.md#転寝-うたたね) — a doze, a nap, dozing off
-- [転落 (てんらく)](vocab-29.md#転落-てんらく) — a fall, downfall, tumbling down
-- [軽快 (けいかい)](vocab-17.md#軽快-けいかい) — light, nimble, brisk, rhythmical (na-adjective)
-- [軽減(する) (けいげん)](vocab-17.md#軽減する-けいげん) — reduction, alleviation, mitigation (of a burden, penalty, pain)
-- [軽率 (けいそつ)](vocab-06.md#軽率-けいそつ) — rashness, carelessness, thoughtlessness
-- [軽蔑(する) (けいべつ)](vocab-17.md#軽蔑する-けいべつ) — contempt, scorn, disdain; to look down on
-- [載せる (のせる)](vocab-31.md#載せる-のせる) — to put something on (top of), load, publish (an article)
-- [輝く (かがやく)](vocab-01.md#輝く-かがやく) — to shine, sparkle
-- [輸血 (ゆけつ)](vocab-35.md#輸血-ゆけつ) — a blood transfusion
-- [輸送 (ゆそう)](vocab-35.md#輸送-ゆそう) — transport, transportation
-- [辛い (からい)](vocab-14.md#辛い-からい) — spicy, hot (taste)
-- [辛うじて (かろうじて)](vocab-14.md#辛うじて-かろうじて) — barely, narrowly, just managing to
-- [辛抱 (しんぼう)](vocab-01.md#辛抱-しんぼう) — patience, endurance, perseverance
-- [辞める (やめる)](vocab-21.md#辞める-やめる) — to quit, resign (from a job or position)
-- [辞書 (じしょ)](vocab-20.md#辞書-じしょ) — dictionary
-- [辞職 (じしょく)](vocab-20.md#辞職-じしょく) — resignation (from a job/position)
-- [辞退 (じたい)](vocab-20.md#辞退-じたい) — to decline, turn down (an offer, invitation, nomination) politely
-- [辻褄 (つじつま)](vocab-28.md#辻褄-つじつま) — consistency, to make sense, to add up (of a story or argument)
-- [辿り着く (たどりつく)](vocab-26.md#辿り着く-たどりつく) — to finally reach, to arrive at (after a long or difficult journey/process)
-- [辿る (たどる)](vocab-26.md#辿る-たどる) — to follow (a path, trail, or course of thought), to trace back
-- [近々 (ちかぢか)](vocab-27.md#近々-ちかぢか) — soon, before long, shortly
-- [近付く (ちかづく)](vocab-27.md#近付く-ちかづく) — to approach, to get close to, to near
-- [近付ける (ちかづける)](vocab-27.md#近付ける-ちかづける) — to bring close to, to let (someone/something) approach
-- [近代 (きんだい)](vocab-15.md#近代-きんだい) — modern times, the modern era (historically, roughly Meiji era onward in Japan)
-- [近寄る (ちかよる)](vocab-27.md#近寄る-ちかよる) — to go near, to approach, to get close (physically)
-- [近所 (きんじょ)](vocab-15.md#近所-きんじょ) — neighborhood, vicinity, nearby area
-- [近眼 (きんがん)](vocab-15.md#近眼-きんがん) — nearsightedness, myopia
-- [近頃 (ちかごろ)](vocab-27.md#近頃-ちかごろ) — recently, lately, these days
-- [迫る (せまる)](vocab-23.md#迫る-せまる) — to approach, to draw near, to press/urge
-- [述べる (のべる)](vocab-31.md#述べる-のべる) — to state, express, mention (one's opinion)
-- [追い付く (おいつく)](vocab-09.md#追い付く-おいつく) — to catch up, overtake, attain
-- [追い出す (おいだす)](vocab-09.md#追い出す-おいだす) — to drive off, kick out
-- [追い掛ける (おいかける)](vocab-09.md#追い掛ける-おいかける) — to run after, chase, pursue
-- [追い越す (おいこす)](vocab-09.md#追い越す-おいこす) — to pass, get ahead of, surpass
-- [追い込む (おいこむ)](vocab-09.md#追い込む-おいこむ) — to drive something into (a corner, situation); to press hard
-- [追加 (ついか)](vocab-28.md#追加-ついか) — an addition, a supplement, to add (to something)
-- [追及 (ついきゅう)](vocab-28.md#追及-ついきゅう) — pursuit (of responsibility/truth), to grill, to press (someone) for answers
-- [追放 (ついほう)](vocab-28.md#追放-ついほう) — banishment, exile, deportation, expulsion
-- [追跡 (ついせき)](vocab-28.md#追跡-ついせき) — chase, pursuit, to track, to run after
-- [退学 (たいがく)](vocab-25.md#退学-たいがく) — to leave/quit school, be expelled
-- [退屈 (たいくつ)](vocab-25.md#退屈-たいくつ) — tedious, boring, dull
-- [退治 (たいじ)](vocab-25.md#退治-たいじ) — extermination, subjugation (of pests, monsters, or evils)
-- [退職 (たいしょく)](vocab-25.md#退職-たいしょく) — retirement, resignation (from a job)
-- [送り仮名 (おくりがな)](vocab-10.md#送り仮名-おくりがな) — okurigana (kana suffix written after a kanji to show inflection)
-- [送別 (そうべつ)](vocab-24.md#送別-そうべつ) — a farewell, a send-off
-- [送料 (そうりょう)](vocab-24.md#送料-そうりょう) — postage, shipping/freight charges
-- [送金 (そうきん)](vocab-24.md#送金-そうきん) — money transfer, remittance, to send money
-- [逃がす (にがす)](vocab-30.md#逃がす-にがす) — to set free, let escape, to miss (an opportunity)
-- [逃避 (とうひ)](vocab-29.md#逃避-とうひ) — escape, flight, evasion (often psychological/figurative)
-- [逆 (ぎゃく)](vocab-14.md#逆-ぎゃく) — contrary, reverse, opposite
-- [逆上する 【ぎゃくじょうする】](vocab-05.md#逆上する-ぎゃくじょうする) — To lose composure, fly into a rage, become frantic/hysterical with anger or s...
-- [逆転 (ぎゃくてん)](vocab-15.md#逆転-ぎゃくてん) — a reversal, turnaround, comeback
-- [透明 (とうめい)](vocab-29.md#透明-とうめい) — transparent, clear
-- [途中 (とちゅう)](vocab-30.md#途中-とちゅう) — on the way, midway, halfway (through something)
-- [通う (かよう)](vocab-14.md#通う-かよう) — to commute, to go regularly (to work/school/a place)
-- [通じる/ずる (つうじる/ずる)](vocab-28.md#通じるずる-つうじるずる) — to lead to, run (to a place), to open onto, to communicate/be understood
-- [通信 (つうしん)](vocab-28.md#通信-つうしん) — communication, correspondence (especially via mail, telecom, signals)
-- [通勤 (つうきん)](vocab-28.md#通勤-つうきん) — commute, to go to one's office/workplace
-- [通学 (つうがく)](vocab-28.md#通学-つうがく) — to commute to school, going to school
-- [通帳 (つうちょう)](vocab-28.md#通帳-つうちょう) — a bankbook, a passbook
-- [通常 (つうじょう)](vocab-04.md#通常-つうじょう) — Normal, usual
-- [通用 (つうよう)](vocab-28.md#通用-つうよう) — to be in common use, to be current, to be valid/good (e.g. of a method, curre...
-- [通知 (つうち)](vocab-28.md#通知-つうち) — a notice, a notification
-- [通行 (つうこう)](vocab-28.md#通行-つうこう) — traffic, passage, to pass through
-- [通訳 (つうやく)](vocab-28.md#通訳-つうやく) — interpretation (spoken), an interpreter
-- [通貨 (つうか)](vocab-28.md#通貨-つうか) — currency
-- [通路 (つうろ)](vocab-28.md#通路-つうろ) — a passage, a way, an aisle
-- [速力 (そくりょく)](vocab-24.md#速力-そくりょく) — speed (especially of vehicles/vessels)
-- [速度 (そくど)](vocab-24.md#速度-そくど) — speed, velocity
-- [速達 (そくたつ)](vocab-24.md#速達-そくたつ) — special/express delivery (mail)
-- [造船 (ぞうせん)](vocab-24.md#造船-ぞうせん) — shipbuilding, to build a ship
-- [連中 (れんちゅう)](vocab-34.md#連中-れんちゅう) — a party, bunch, gang, group of people (often informal/slightly derogatory)
-- [連休 (れんきゅう)](vocab-34.md#連休-れんきゅう) — consecutive holidays, a stretch of days off
-- [連合 (れんごう)](vocab-34.md#連合-れんごう) — combination, alliance, league, union
-- [連帯 (れんたい)](vocab-06.md#連帯-れんたい) — solidarity, joint responsibility
-- [連想 (れんそう)](vocab-34.md#連想-れんそう) — association, mental connection, to be reminded of
-- [連日 (れんじつ)](vocab-34.md#連日-れんじつ) — every day, day after day, for days on end
-- [連盟 (れんめい)](vocab-36.md#連盟-れんめい) — league, alliance, federation
-- [連続 (れんぞく)](vocab-34.md#連続-れんぞく) — continuation, succession, series, consecutive occurrence
-- [連繋 (れんけい)](vocab-03.md#連繋-れんけい) — connection, linkage
-- [連邦 (れんぽう)](vocab-34.md#連邦-れんぽう) — federation, federal state, commonwealth
-- [逮捕 (たいほ)](vocab-25.md#逮捕-たいほ) — an arrest, apprehension
-- [週刊 (しゅうかん)](vocab-20.md#週刊-しゅうかん) — weekly publication, weekly (issued once a week)
-- [進出 (しんしゅつ)](vocab-21.md#進出-しんしゅつ) — advance, expansion (into a new market, field, or area)
-- [進化 (しんか)](vocab-21.md#進化-しんか) — evolution, to evolve
-- [進歩 (しんぽ)](vocab-21.md#進歩-しんぽ) — progress, advancement, development
-- [逸れる (それる)](vocab-24.md#逸れる-それる) — to stray from, deviate, bear off course
-- [逸脱 (いつだつ)](vocab-02.md#逸脱-いつだつ) — Deviation, departure (from a norm or expected path)
-- [遂げる (とげる)](vocab-01.md#遂げる-とげる) — to accomplish, achieve
-- [遂に (ついに)](vocab-28.md#遂に-ついに) — at last, finally, in the end, at length
-- [遅くとも (おそくとも)](vocab-10.md#遅くとも-おそくとも) — at the latest
-- [遅らす (おくらす)](vocab-10.md#遅らす-おくらす) — to delay, postpone
-- [遅れ (おくれ)](vocab-10.md#遅れ-おくれ) — a delay, lag
-- [遊園地 (ゆうえんち)](vocab-34.md#遊園地-ゆうえんち) — an amusement park
-- [遊牧 (ゆうぼく)](vocab-35.md#遊牧-ゆうぼく) — nomadism, nomadic herding
-- [運命 (うんめい)](vocab-09.md#運命-うんめい) — fate, destiny
-- [運営 (うんえい)](vocab-08.md#運営-うんえい) — management, administration, operation (of an organization/event)
-- [運搬 (うんぱん)](vocab-09.md#運搬-うんぱん) — transportation, conveyance, carrying (of goods/materials)
-- [運河 (うんが)](vocab-08.md#運河-うんが) — a canal
-- [運用 (うんよう)](vocab-09.md#運用-うんよう) — operation, utilization, application (of a system, rule, or funds)
-- [運賃 (うんちん)](vocab-09.md#運賃-うんちん) — a fare, a freight charge
-- [運転手 (うんてんしゅ)](vocab-09.md#運転手-うんてんしゅ) — a driver
-- [運輸 (うんゆ)](vocab-09.md#運輸-うんゆ) — transportation, transport (as an industry/sector)
-- [運送 (うんそう)](vocab-08.md#運送-うんそう) — transportation, shipping, carriage (of goods)
-- [過剰 (かじょう)](vocab-13.md#過剰-かじょう) — surplus, excess, overabundance
-- [過労 (かろう)](vocab-14.md#過労-かろう) — fatigue from overwork, exhaustion from excessive labor
-- [過半数 (かはんすう)](vocab-13.md#過半数-かはんすう) — the majority, more than half
-- [過去 (かこ)](vocab-12.md#過去-かこ) — the past
-- [過失 (かしつ)](vocab-13.md#過失-かしつ) — an error, a mistake, negligence (often in a legal sense)
-- [過疎 (かそ)](vocab-01.md#過疎-かそ) — depopulation (rural)
-- [達する (たっする)](vocab-26.md#達する-たっする) — to reach, to attain, to arrive at (a level, amount, or goal)
-- [達意 (たつい)](vocab-03.md#達意-たつい) — clearly conveying meaning
-- [達成 (たっせい)](vocab-26.md#達成-たっせい) — achievement, attainment, accomplishment
-- [達者 (たっしゃ)](vocab-26.md#達者-たっしゃ) — healthy, in good health; also skilled/proficient (at something, often language)
-- [違い (ちがい)](vocab-27.md#違い-ちがい) — a difference
-- [違う (ちがう)](vocab-27.md#違う-ちがう) — to be different, to differ; to be wrong/incorrect
-- [違える (ちがえる)](vocab-27.md#違える-ちがえる) — to strain (a muscle/joint), to break (a promise), to cause to differ
-- [違反 (いはん)](vocab-07.md#違反-いはん) — violation, breach, infringement (of rules/laws)
-- [遠方 (えんぽう)](vocab-09.md#遠方-えんぽう) — a distant place
-- [遠足 (えんそく)](vocab-09.md#遠足-えんそく) — an excursion, outing, picnic
-- [適切 (てきせつ)](vocab-29.md#適切-てきせつ) — appropriate, proper, suitable, fitting
-- [適当 (てきとう)](vocab-29.md#適当-てきとう) — moderate, suitable; (casually) careless, random, halfhearted
-- [適性 (てきせい)](vocab-04.md#適性-てきせい) — Aptitude
-- [遭う (あう)](vocab-06.md#遭う-あう) — to meet with, encounter (difficulties, accidents)
-- [遭難 (そうなん)](vocab-24.md#遭難-そうなん) — accident, disaster (esp. being stranded/shipwrecked/lost in mountains)
-- [遮る 【さえぎる】](vocab-05.md#遮る-さえぎる) — To obstruct, block, cut off (a view, light, sound, or someone's speech).
-- [選手 (せんしゅ)](vocab-23.md#選手-せんしゅ) — player, athlete
-- [選択 (せんたく)](vocab-23.md#選択-せんたく) — choice, selection, to choose
-- [選挙 (せんきょ)](vocab-23.md#選挙-せんきょ) — an election, to elect
-- [遺跡 (いせき)](vocab-02.md#遺跡-いせき) — Historical ruins, remains
-- [避ける (よける)](vocab-36.md#避ける-よける) — to avoid, shun, evade, keep clear of
-- [避ける 【さける】](vocab-05.md#避ける-さける) — To avoid (a person, situation, topic, or danger).
-- [避難 (ひなん)](vocab-01.md#避難-ひなん) — evacuation, taking refuge
-- [還元 (かんげん)](vocab-13.md#還元-かんげん) — reduction (chemistry); to give back, return (benefits)
-- [還暦 (かんれき)](vocab-01.md#還暦-かんれき) — 60th birthday (traditional milestone)
-- [邸宅 (ていたく)](vocab-01.md#邸宅-ていたく) — residence, mansion
-- [郊外 (こうがい)](vocab-18.md#郊外-こうがい) — suburbs
-- [郡 (ぐん)](vocab-17.md#郡-ぐん) — a county, a district, a township (administrative unit, now mostly historical/...
-- [郵便 (ゆうびん)](vocab-35.md#郵便-ゆうびん) — mail, postal service
-- [郷土 (きょうど)](vocab-15.md#郷土-きょうど) — one's native district/hometown region; local (as in local culture)
-- [郷里 (きょうり)](vocab-04.md#郷里-きょうり) — One's hometown
-- [都会 (とかい)](vocab-29.md#都会-とかい) — a metropolis, the city (as opposed to countryside)
-- [都合 (つごう)](vocab-28.md#都合-つごう) — convenience, circumstances, one's situation/reason
-- [配る (くばる)](vocab-16.md#配る-くばる) — to distribute, to hand out; to be careful about, to keep watch (over several ...
-- [配分 (はいぶん)](vocab-31.md#配分-はいぶん) — distribution, allotment, sharing out
-- [配列 (はいれつ)](vocab-31.md#配列-はいれつ) — arrangement, array, putting in order
-- [配布 (はいふ)](vocab-31.md#配布-はいふ) — distribution, handing out
-- [配慮 (はいりょ)](vocab-31.md#配慮-はいりょ) — consideration, care, thoughtfulness toward others
-- [配慮 【はいりょ】](vocab-05.md#配慮-はいりょ) — Consideration, thoughtful care/attention given to someone's needs or feelings.
-- [酔う (よう)](vocab-35.md#酔う-よう) — to get drunk, become intoxicated, feel sick (motion sickness)
-- [酔っ払い (よっぱらい)](vocab-33.md#酔っ払い-よっぱらい) — a drunk, a drunken person
-- [酪農 (らくのう)](vocab-06.md#酪農-らくのう) — dairy farming
-- [重たい (おもたい)](vocab-11.md#重たい-おもたい) — heavy
-- [重んじる/ずる (おもんじる)](vocab-11.md#重んじるずる-おもんじる) — to value, to esteem
-- [重力 (じゅうりょく)](vocab-20.md#重力-じゅうりょく) — gravity, gravitation
-- [重大 (じゅうだい)](vocab-20.md#重大-じゅうだい) — important, serious, grave, significant
-- [重宝 (ちょうほう)](vocab-27.md#重宝-ちょうほう) — convenient, handy, useful (and valued as such)
-- [重役 (じゅうやく)](vocab-20.md#重役-じゅうやく) — director, executive, board member
-- [重点 (じゅうてん)](vocab-20.md#重点-じゅうてん) — important point, emphasis, focal point
-- [重複 (ちょうふく)](vocab-27.md#重複-ちょうふく) — repetition, redundancy, duplication
-- [重視 (じゅうし)](vocab-20.md#重視-じゅうし) — to attach importance to, to emphasize, to value highly
-- [重量 (じゅうりょう)](vocab-20.md#重量-じゅうりょう) — weight (especially heaviness, as a measured quantity)
-- [金属 (きんぞく)](vocab-15.md#金属-きんぞく) — metal
-- [金庫 (きんこ)](vocab-15.md#金庫-きんこ) — a safe, a vault (for storing money/valuables)
-- [金持ち (かねもち)](vocab-13.md#金持ち-かねもち) — a rich person, wealthy person
-- [金槌 (かなづち)](vocab-13.md#金槌-かなづち) — a hammer; (figurative) someone who can't swim at all
-- [金融 (きんゆう)](vocab-15.md#金融-きんゆう) — finance, financing (the banking/financial industry and system)
-- [金銭 (きんせん)](vocab-15.md#金銭-きんせん) — money, cash (as a concept, often in formal/legal contexts)
-- [金額 (きんがく)](vocab-15.md#金額-きんがく) — an amount of money, a sum
-- [金魚 (きんぎょ)](vocab-15.md#金魚-きんぎょ) — a goldfish
-- [釘 (くぎ)](vocab-16.md#釘-くぎ) — a nail
-- [鉄 (てつ)](vocab-29.md#鉄-てつ) — iron, steel
-- [鉄棒 (てつぼう)](vocab-29.md#鉄棒-てつぼう) — iron bar, horizontal exercise bar
-- [鉄橋 (てっきょう)](vocab-29.md#鉄橋-てっきょう) — an iron/railway bridge
-- [鉄道 (てつどう)](vocab-29.md#鉄道-てつどう) — a railroad, railway
-- [鉢 (はち)](vocab-31.md#鉢-はち) — a bowl, a pot (often for plants)
-- [鉱山 (こうざん)](vocab-18.md#鉱山-こうざん) — mine (for minerals/ore)
-- [鋭い (するどい)](vocab-22.md#鋭い-するどい) — sharp, pointed; keen, acute, perceptive
-- [錯覚 (さっかく)](vocab-06.md#錯覚-さっかく) — illusion, misperception, optical illusion
-- [録音 (ろくおん)](vocab-36.md#録音-ろくおん) — recording (of sound/audio)
-- [鍛える (きたえる)](vocab-14.md#鍛える-きたえる) — to train, discipline, forge (the body, spirit, or skills)
-- [鎖 (くさり)](vocab-16.md#鎖-くさり) — a chain
-- [鐘 (かね)](vocab-13.md#鐘-かね) — a bell (large, like a temple bell)
-- [長女 (ちょうじょ)](vocab-27.md#長女-ちょうじょ) — one's eldest/oldest daughter
-- [長所 (ちょうしょ)](vocab-27.md#長所-ちょうしょ) — a strong point, merit, advantage
-- [長方形 (ちょうほうけい)](vocab-28.md#長方形-ちょうほうけい) — a rectangle
-- [長期 (ちょうき)](vocab-27.md#長期-ちょうき) — a long period, long-term
-- [長男 (ちょうなん)](vocab-27.md#長男-ちょうなん) — one's eldest/oldest son
-- [長短 (ちょうたん)](vocab-27.md#長短-ちょうたん) — merits and demerits; length (long and short)
-- [長編 (ちょうへん)](vocab-27.md#長編-ちょうへん) — a long/full-length work (novel, film)
-- [開く (ひらく)](vocab-32.md#開く-ひらく) — to open, widen, spread; to hold (an event); to broaden (one's knowledge/mind)
-- [開会 (かいかい)](vocab-12.md#開会-かいかい) — opening (of a meeting, ceremony)
-- [開催 (かいさい)](vocab-12.md#開催-かいさい) — to hold, open (an event, meeting, exhibition)
-- [開始 (かいし)](vocab-12.md#開始-かいし) — a beginning, commencement
-- [開拓 (かいたく)](vocab-11.md#開拓-かいたく) — reclamation, cultivation (of land); pioneering, development (of a new field)
-- [開発 (かいはつ)](vocab-11.md#開発-かいはつ) — development, exploitation (of land, technology, products)
-- [開通 (かいつう)](vocab-11.md#開通-かいつう) — to be opened to traffic/service (e.g., a new road, railway line, tunnel)
-- [間 (あいだ)](vocab-06.md#間-あいだ) — between (two things), interval, while
-- [間接 (かんせつ)](vocab-13.md#間接-かんせつ) — indirect
-- [間柄 (あいだがら)](vocab-06.md#間柄-あいだがら) — a relationship (between people)
-- [間違い (かんちがい)](vocab-13.md#間違い-かんちがい) — a misunderstanding, a mistake (thinking something is true when it isn't)
-- [関する (かんする)](vocab-13.md#関する-かんする) — to concern, to be related to, regarding
-- [関与 (かんよ)](vocab-14.md#関与-かんよ) — participation, involvement
-- [関係 (かんけい)](vocab-13.md#関係-かんけい) — a relation, relationship, connection
-- [関心 (かんしん)](vocab-13.md#関心-かんしん) — interest, concern (in a topic)
-- [関東 (かんとう)](vocab-13.md#関東-かんとう) — the Kanto region (eastern Japan, including Tokyo)
-- [関税 (かんぜい)](vocab-13.md#関税-かんぜい) — a customs duty, tariff
-- [関西 (かんさい)](vocab-13.md#関西-かんさい) — the Kansai region (western Japan, including Osaka, Kyoto, Kobe)
-- [関連 (かんれん)](vocab-14.md#関連-かんれん) — connection, relation, relevance
-- [閲覧 (えつらん)](vocab-02.md#閲覧-えつらん) — Reading, browsing (reference materials, especially in libraries/archives)
-- [闇 (やみ)](vocab-34.md#闇-やみ) — darkness, the dark; (figuratively) the shadows, illicit activity
-- [防犯 (ぼうはん)](vocab-32.md#防犯-ぼうはん) — crime prevention
-- [阻止 (そし)](vocab-24.md#阻止-そし) — to stop, block, prevent
-- [限り (かぎり)](vocab-12.md#限り-かぎり) — a limit, as far as, to the extent of
-- [限り (きり)](vocab-16.md#限り-きり) — a limit, an end; (as a suffix, ～限り) as far as/to the extent that, or "only/just"
-- [限る (かぎる)](vocab-12.md#限る-かぎる) — to limit, to restrict
-- [限界 (げんかい)](vocab-18.md#限界-げんかい) — a limit, a boundary, a margin
-- [除く (のぞく)](vocab-31.md#除く-のぞく) — to exclude, remove, get rid of
-- [陰気 (いんき)](vocab-07.md#陰気-いんき) — gloom, somberness, a dark/depressing atmosphere or personality
-- [陳列 (ちんれつ)](vocab-28.md#陳列-ちんれつ) — display, exhibition (of goods, often for sale)
-- [陶器 (とうき)](vocab-04.md#陶器-とうき) — Pottery
-- [陸 (りく)](vocab-33.md#陸-りく) — land (as opposed to sea)
-- [隊 (たい)](vocab-25.md#隊-たい) — a party, a corps, a unit/team
-- [階層 (かいそう)](vocab-11.md#階層-かいそう) — a stratum, class, hierarchy; (also) a story/level of a building
-- [階級 (かいきゅう)](vocab-12.md#階級-かいきゅう) — class, rank (social, military)
-- [随筆 (ずいひつ)](vocab-22.md#随筆-ずいひつ) — an essay (personal, reflective prose)
-- [隔週 (かくしゅう)](vocab-12.md#隔週-かくしゅう) — biweekly, every other week
-- [障害 (しょうがい)](vocab-01.md#障害-しょうがい) — obstacle, disability, disorder
-- [隠す (かくす)](vocab-12.md#隠す-かくす) — to hide, to conceal
-- [隠れる (かくれる)](vocab-12.md#隠れる-かくれる) — to hide (oneself), to be hidden, to be concealed
-- [隠居 (いんきょ)](vocab-03.md#隠居-いんきょ) — retirement
-- [隣 (となり)](vocab-30.md#隣-となり) — next to, neighboring, the adjacent one
-- [雄 (おす)](vocab-10.md#雄-おす) — male (animal)
-- [集まり](vocab-03.md#集まり) — temporary gathering (independent reactions) — vs 群れ (herd/flock, cooperative ...
-- [集中 (しゅうちゅう)](vocab-20.md#集中-しゅうちゅう) — concentration, focus
-- [集会 (しゅうかい)](vocab-20.md#集会-しゅうかい) — meeting, gathering, assembly
-- [集合 (しゅうごう)](vocab-20.md#集合-しゅうごう) — gathering, assembling, congregation (also: "set" in mathematics)
-- [集団 (しゅうだん)](vocab-20.md#集団-しゅうだん) — group, mass, collective
-- [集金 (しゅうきん)](vocab-20.md#集金-しゅうきん) — collecting money, collecting payments/bills
-- [雇う (やとう)](vocab-34.md#雇う-やとう) — to employ, hire
-- [雑木 (ぞうき)](vocab-24.md#雑木-ぞうき) — miscellaneous small trees, mixed woodland, a copse
-- [離婚 (りこん)](vocab-33.md#離婚-りこん) — divorce
-- [雨天 (うてん)](vocab-08.md#雨天-うてん) — rainy weather
-- [雪崩 (なだれ)](vocab-30.md#雪崩-なだれ) — a snow slide, avalanche
-- [雫/滴 (しずく)](vocab-01.md#雫滴-しずく) — drop (of liquid)
-- [零 (れい)](vocab-33.md#零-れい) — zero
-- [電力 (でんりょく)](vocab-29.md#電力-でんりょく) — electric power
-- [電流 (でんりゅう)](vocab-29.md#電流-でんりゅう) — an electric current
-- [霞む (かすむ)](vocab-13.md#霞む-かすむ) — to be hazy, to become dim, to blur
-- [霰 (あられ)](vocab-07.md#霰-あられ) — hailstones (small, soft hail); also a rice-cracker snack cut into small cubes
-- [露骨 (ろこつ)](vocab-36.md#露骨-ろこつ) — blatant, frank, plain, undisguised (often of behavior, expression, or intent)
-- [青ざめる (あおざめる)](vocab-06.md#青ざめる-あおざめる) — to turn pale, go pale (from fear, shock, illness)
-- [青少年 (せいしょうねん)](vocab-22.md#青少年-せいしょうねん) — young people, the younger generation, juveniles (collectively, teens and youn...
-- [青年 (せいねん)](vocab-22.md#青年-せいねん) — a young man/woman, a youth (typically late teens to twenties)
-- [青白い (あおじろい)](vocab-06.md#青白い-あおじろい) — pale, pallid
-- [静か (しずか)](vocab-20.md#静か-しずか) — quiet, still, calm
-- [静まる (しずまる)](vocab-20.md#静まる-しずまる) — to become still/quiet, to calm down, to settle
-- [静的 (せいてき)](vocab-22.md#静的-せいてき) — static, motionless (often technical, e.g. in physics or computing)
-- [非行 (ひこう)](vocab-01.md#非行-ひこう) — delinquency, misconduct
-- [面 (めん)](vocab-19.md#面-めん) — face, page, aspect, side, field (of study/activity); also a mask
-- [面する (めんする)](vocab-34.md#面する-めんする) — to face (e.g., a building facing a street), to confront (a situation)
-- [面会 (めんかい)](vocab-19.md#面会-めんかい) — an interview, a meeting (formal visit to see someone)
-- [面倒 (めんどう)](vocab-19.md#面倒-めんどう) — troublesome, a bother; (also) care/looking after someone
-- [面倒くさい (めんどうくさい)](vocab-34.md#面倒くさい-めんどうくさい) — troublesome, bothersome, a hassle
-- [面接 (めんせつ)](vocab-34.md#面接-めんせつ) — an interview (job, school admission, etc.)
-- [面目 (めんぼく/めんもく)](vocab-19.md#面目-めんぼくめんもく) — honor, face, reputation
-- [面積 (めんせき)](vocab-19.md#面積-めんせき) — an area, floor space
-- [面長 (おもなが)](vocab-04.md#面長-おもなが) — Oblong face
-- [革命 (かくめい)](vocab-12.md#革命-かくめい) — revolution (political or metaphorical, as in a major transformative change)
-- [頂上 (ちょうじょう)](vocab-27.md#頂上-ちょうじょう) — the top, summit, peak
-- [頂戴 (ちょうだい)](vocab-27.md#頂戴-ちょうだい) — to receive/accept (humble); "give it to me" (casual request)
-- [頂点 (ちょうてん)](vocab-27.md#頂点-ちょうてん) — a vertex, the apex, the peak, the top
-- [項目 (こうもく)](vocab-19.md#項目-こうもく) — heading, item, topic, clause
-- [預かる (あずかる)](vocab-06.md#預かる-あずかる) — to keep, look after, take charge of (something entrusted to you)
-- [預ける (あずける)](vocab-06.md#預ける-あずける) — to entrust, deposit, leave in someone's care
-- [預金 (よきん)](vocab-35.md#預金-よきん) — a deposit, savings (in a bank)
-- [頑丈 (がんじょう)](vocab-01.md#頑丈-がんじょう) — sturdy, robust (objects)
-- [頑固 (がんこ)](vocab-06.md#頑固-がんこ) — obstinate, stubborn
-- [頑張る (がんばる)](vocab-13.md#頑張る-がんばる) — to try one's best, to persevere, to hang in there
-- [領事 (りょうじ)](vocab-36.md#領事-りょうじ) — consul
-- [領収 (りょうしゅう)](vocab-33.md#領収-りょうしゅう) — receipt (of money), receiving payment
-- [領土 (りょうど)](vocab-33.md#領土-りょうど) — territory, domain (of a nation)
-- [領地/領土 (りょうち)](vocab-36.md#領地領土-りょうち) — territory, feudal estate, domain
-- [領域 (りょういき)](vocab-04.md#領域-りょういき) — Domain
-- [領海 (りょうかい)](vocab-33.md#領海-りょうかい) — territorial waters
-- [頭 (かしら)](vocab-13.md#頭-かしら) — the head; a leader, chief
-- [頭脳 (ずのう)](vocab-22.md#頭脳-ずのう) — the brain, one's brains/intellect
-- [頻繁 (ひんぱん)](vocab-01.md#頻繁-ひんぱん) — frequent
-- [頼み (たのみ)](vocab-26.md#頼み-たのみ) — a request, a favor; reliance, hope (as in one's sole support)
-- [頼もしい (たのもしい)](vocab-26.md#頼もしい-たのもしい) — reliable, dependable, promising (inspiring confidence)
-- [頼る (たよる)](vocab-26.md#頼る-たよる) — to rely on, to depend on, to count on, to fall back on
-- [題名 (だいめい)](vocab-25.md#題名-だいめい) — a title (of a book, movie, work)
-- [顎 (あご)](vocab-06.md#顎-あご) — jaw, chin
-- [顔付き (かおつき)](vocab-12.md#顔付き-かおつき) — features, looks, facial expression
-- [願う (ねがう)](vocab-31.md#願う-ねがう) — to wish, to request, to hope for, to implore
-- [類似 (るいじ)](vocab-06.md#類似-るいじ) — resemblance, similarity
-- [類推 (るいすい)](vocab-33.md#類推-るいすい) — analogical inference, analogy-based reasoning
-- [顧みる (かえりみる)](vocab-01.md#顧みる-かえりみる) — to look back on, reflect on
-- [風景 (ふうけい)](vocab-32.md#風景-ふうけい) — scenery, landscape, view
-- [風車 (ふうしゃ)](vocab-32.md#風車-ふうしゃ) — a windmill
-- [食い違う (くいちがう)](vocab-15.md#食い違う-くいちがう) — to conflict, diverge, be at odds (especially of opinions, accounts, or facts)
-- [食う (くう)](vocab-15.md#食う-くう) — to eat, devour; to earn a living; (figuratively) to consume/use up
-- [飢える (うえる)](vocab-08.md#飢える-うえる) — to starve, be famished, be hungry (also figuratively: to crave/be starved for...
-- [飼う (かう)](vocab-11.md#飼う-かう) — to raise, keep (an animal, as a pet or livestock)
-- [飽きる (あきる)](vocab-06.md#飽きる-あきる) — to get tired of, lose interest in, become bored with
-- [養分 (ようぶん)](vocab-35.md#養分-ようぶん) — nourishment, nutrients
-- [餌 (えさ)](vocab-09.md#餌-えさ) — bait, feed, food (for animals)
-- [首輪 (くびわ)](vocab-16.md#首輪-くびわ) — a collar (for a pet/animal)
-- [首飾り (くびかざり)](vocab-16.md#首飾り-くびかざり) — a necklace
-- [香り (かおり)](vocab-12.md#香り-かおり) — fragrance, scent, aroma
-- [香水 (こうすい)](vocab-18.md#香水-こうすい) — perfume
-- [香辛料 (こうしんりょう)](vocab-03.md#香辛料-こうしんりょう) — spice
-- [馬 (うま)](vocab-08.md#馬-うま) — a horse
-- [馬鹿馬鹿しい (ばかばかしい)](vocab-31.md#馬鹿馬鹿しい-ばかばかしい) — foolish, ridiculous, absurd
-- [馴らす 【ならす】](vocab-05.md#馴らす-ならす) — To tame, domesticate, acclimate/accustom (an animal or oneself to something).
-- [駄作 (ださく)](vocab-25.md#駄作-ださく) — a trashy/poorly-made work, a dud (of art, film, literature)
-- [駆けて (かけて)](vocab-02.md#駆けて-かけて) — Running, dashing
-- [駆ける (かける)](vocab-12.md#駆ける-かける) — to run, to gallop, to dash
-- [駆け足 (かけあし)](vocab-12.md#駆け足-かけあし) — running, a gallop; (figuratively) doing something hastily/quickly
-- [駐車場 (ちゅうしゃじょう)](vocab-27.md#駐車場-ちゅうしゃじょう) — car park, parking lot
-- [騒々しい (そうぞうしい)](vocab-24.md#騒々しい-そうぞうしい) — noisy, boisterous, turbulent
-- [騒動 (そうどう)](vocab-24.md#騒動-そうどう) — disturbance, riot, uproar
-- [騒音 (そうおん)](vocab-23.md#騒音-そうおん) — noise, a din
-- [騙す (だます)](vocab-26.md#騙す-だます) — to cheat, to trick, to deceive, to coax
-- [驚かす (おどろかす)](vocab-10.md#驚かす-おどろかす) — to surprise, to astonish
-- [驚き (おどろき)](vocab-10.md#驚き-おどろき) — surprise, astonishment
-- [驚異 (きょうい)](vocab-15.md#驚異-きょうい) — wonder, marvel; something astonishing or amazing
-- [驚異的 (きょういてき)](vocab-16.md#驚異的-きょういてき) — wonderful, amazing, astonishing, phenomenal
-- [骸骨 (がいこつ)](vocab-02.md#骸骨-がいこつ) — Skeleton
-- [高まる (たかまる)](vocab-25.md#高まる-たかまる) — to get higher, to heighten, to rise, to be enhanced (intransitive)
-- [高める (たかめる)](vocab-25.md#高める-たかめる) — to heighten, to raise (something), to enhance
-- [高価 (こうか)](vocab-18.md#高価-こうか) — expensive, costly, high-priced
-- [高原 (こうげん)](vocab-18.md#高原-こうげん) — plateau, tableland, highlands
-- [高層 (こうそう)](vocab-18.md#高層-こうそう) — high-rise, skyscraper (as a modifier)
-- [高度 (こうど)](vocab-19.md#高度-こうど) — altitude, height; a high degree (of something)
-- [高校(生) (こうこう(せい))](vocab-18.md#高校生-こうこうせい) — high school (student)
-- [高級 (こうきゅう)](vocab-18.md#高級-こうきゅう) — high class, high grade/quality
-- [鬱々 (うつうつ)](vocab-01.md#鬱々-うつうつ) — gloomy, melancholy, pessimistic
-- [鬼 (おに)](vocab-10.md#鬼-おに) — an ogre, demon; (figurative) a strict/fearsome person
-- [鬼役 【おにやく】](vocab-05.md#鬼役-おにやく) — The "it" role in tag/hide-and-seek (the person who chases or searches for oth...
-- [魂 (たましい)](vocab-26.md#魂-たましい) — soul, spirit
-- [魅力 (みりょく)](vocab-36.md#魅力-みりょく) — charm, attraction, appeal
-- [魚 (うお)](vocab-08.md#魚-うお) — a fish
-- [鮮やか (あざやか)](vocab-06.md#鮮やか-あざやか) — vivid, bright (color); skillful, brilliant (technique)
-- [鮮やかな (あざやかな)](vocab-03.md#鮮やかな-あざやかな) — vivid (see 華やか nuance cluster above)
-- [鳥 (とり)](vocab-30.md#鳥-とり) — bird
-- [麻 (あさ)](vocab-06.md#麻-あさ) — hemp, flax, linen
-- [黄色(い) (きいろ(い))](vocab-14.md#黄色い-きいろい) — yellow
-- [黄金 (おうごん)](vocab-09.md#黄金-おうごん) — gold
-- [黙る (だまる)](vocab-26.md#黙る-だまる) — to be silent, to say nothing, to shut up
-- [黴 (かび)](vocab-13.md#黴-かび) — mold, mildew
+- [Nに+N (combination)](grammar-に(組み合わせ).md) — "A combination of A and B" — uses に to link two nouns that naturally go together as a s...
+- [Vます+に+Vた (emphasis)](grammar-に(強調用法).md) — "Really/thoroughly ~ed" — an emphatic construction where the same verb's ます-stem is rep...
+- [あと](grammar-あと.md) — "Also, additionally" — a casual conjunction adding a point, often as an afterthought.
+- [おかげさまで](grammar-おかげさまで.md) — "Thanks to [your help/everyone's support/circumstances]" — a humble, polite expression ...
+- [および](grammar-および.md) — "And; as well as" — a very formal conjunction used to connect items in official lists.
+- [きっぱり](grammar-きっぱり.md) — "Decisively, flatly, resolutely" — describes an action (especially refusing, declaring,...
+- [けれども](grammar-けれども.md) — "But, however, although" — a polite-neutral contrastive conjunction, softer in tone tha...
+- [これといって](grammar-これといって.md) — "Nothing in particular" — used with a negative predicate to indicate that there is noth...
+- [さすが](grammar-さすが.md) — "As one would expect (of X) / that's X for you" — an expression of admiration acknowled...
+- [さっぱり](grammar-さっぱり.md) — "Not at all / no good whatsoever" — used with a negative predicate to emphatically stat...
+- [さらに](grammar-さらに.md) — "Furthermore, moreover" — adds an escalating point, stronger in degree than plain addit...
+- [しかし](grammar-しかし.md) — "However, but" — a standard conjunction introducing a contrast or counterpoint to the p...
+- [しかも](grammar-しかも.md) — "Moreover, what's more" — adds a surprising or notable additional fact, often making th...
+- [したがって](grammar-したがって.md) — "Therefore, accordingly, consequently" — a formal conjunction presenting the following ...
+- [じゃ](grammar-じゃ.md) — "Well then, okay then" — the casual spoken contraction of では, used to transition from t...
+- [すると](grammar-すると.md) — "Then, and so, whereupon" — a conjunction narrating that the following event occurred a...
+- [そこで](grammar-そこで.md) — "So, at that point, thereupon" — a conjunction narrating a deliberate decision or actio...
+- [そこをなんとか](grammar-そこをなんとか.md) — "Please, somehow... / I know, but please..." — a polite yet insistent request used when...
+- [そして](grammar-そして.md) — "And, and then" — a neutral sequential conjunction for listing events or adding a follo...
+- [そのうえ](grammar-そのうえ.md) — "On top of that, in addition" — adds a notable extra point, similar to しかも but more neu...
+- [そのうちに](grammar-そのうちに.md) — "One of these days / eventually / before long" — a vague, non-committal way of referrin...
+- [そのため](grammar-そのため.md) — "Because of that, for that reason, as a result" — a neutral-to-formal conjunction prese...
+- [それから](grammar-それから.md) — "After that, and then, next" — a conjunction marking that the following event/action ha...
+- [それで](grammar-それで.md) — "So, and so, that's why" — a casual-neutral conjunction that narrates the next event or...
+- [それでは](grammar-それでは.md) — "Well then, now then" — a polite/formal transitional conjunction used to move from the ...
+- [それでも](grammar-それでも.md) — "Even so, even then, still" — a concessive/contrastive conjunction stating that despite...
+- [それなのに](grammar-それなのに.md) — "And yet, despite that" — a contrastive conjunction that adds an emotional nuance of su...
+- [それなら](grammar-それなら.md) — "If that's the case, then; in that case" — a conditional/suppositional conjunction that...
+- [それに](grammar-それに.md) — "Besides, in addition, moreover" — adds a supplementary point that reinforces the prece...
+- [それも](grammar-それも.md) — "And what's more..." — adds emphatic, often exasperated or surprised reinforcement to t...
+- [それゆえ](grammar-それゆえ.md) — "Therefore, hence, for that reason" — a very formal, literary conjunction marking the f...
+- [たとえ～ても](grammar-たとえ~ても.md) — "Even if, even though" — a concessive construction where たとえ emphasizes a hypothetical ...
+- [だから](grammar-だから.md) — "So, therefore, that's why" — a casual conjunction stating that the preceding statement...
+- [だが](grammar-だが.md) — "But, however" — a terse, literary contrastive conjunction.
+- [だけど](grammar-だけど.md) — "But, though" — a very casual, colloquial contrastive conjunction.
+- [だって](grammar-だって.md) — "But, because..." — a very casual, often petulant or defensive conjunction used to give...
+- [で](grammar-で.md) — "So, and then, and" — a casual contraction of それで used to prompt or continue a conversa...
+- [では](grammar-では.md) — "Well then, in that case" — a transitional conjunction used to move from the preceding ...
+- [でも](grammar-でも.md) — "But, however" — the most common everyday casual conjunction for contrast.
+- [というのは](grammar-というのは.md) — "The reason is that..., what I mean is..." — a conjunction that introduces an explanati...
+- [どうせ](grammar-どうせ.md) — "Anyway, in the end, no matter what" — expresses a resigned, defeatist attitude that th...
+- [なぜなら](grammar-なぜなら.md) — "Because, the reason is..." — a formal conjunction that introduces the explicit reason ...
+- [また](grammar-また.md) — "Also, additionally" — a neutral conjunction listing parallel items or facts.
+- [一方](grammar-一方.md) — "On the other hand, meanwhile" — a conjunction contrasting two parallel facts or perspe...
+- [～(が)ゆえ(に)／(が)ゆえのN](grammar-がゆえに.md) — "Because of X / owing to X" — a literary causal connector explaining a reason, often fo...
+- [～(は)ですら](grammar-ですら.md) — "Even X" — emphasizes an extreme or unexpected example to highlight how broadly a state...
+- [～(よ)うが／(よ)うと～まいと／(よ)うが～まいが](grammar-うがまいが.md) — "Whether X happens or not, (it doesn't matter)" — expresses that regardless of whether ...
+- [～(よ)うと(も)／～(よ)うが](grammar-(よ)うと(も)・(よ)うが.md) — "No matter what/how ~" / "Even if ~" — states that whatever the preceding condition tur...
+- [～(よ)うと～まいと／～(よ)うが～まいが](grammar-(よ)うと(まいと)・(よ)うが(まいが).md) — "Whether X or not" — expresses that it doesn't matter whether something happens/is done...
+- [～(より)ほか(は)ない／～ほかしかたがない](grammar-(より)ほか(は)ない・ほかしかたがない.md) — "Have no other choice but to X," "there's nothing to do except X" — expresses that, aft...
+- [～あげく(に)](grammar-あげく(に).md) — "After much ~, (in the end, as a bad result)" — describes the negative or disappointing...
+- [～あっての](grammar-あっての.md) — Expresses that something can only exist or succeed precisely because the preceding thin...
+- [～あってのN](grammar-あってのN.md) — "N exists because of X / N owes its existence to X" — states that a following noun (oft...
+- [～あまり(に)](grammar-あまり(に).md) — "So much ~ that / to the extent that (as a result of excess)" — indicates that an extre...
+- [～いかんだ](grammar-いかんだ.md) — "It all depends on X" — expresses that whether something happens, or how a situation tu...
+- [～いかんにかかわらず／～いかんによらず／～いかんを問わず](grammar-いかんにかかわらず・いかんによらず・いかんを問わず.md) — "Regardless of ~" / "No matter what ~ may be" — states that the outcome or situation in...
+- [～いかんによらず／いかんにかかわらず／を問わず](grammar-いかんによらず・いかんにかかわらず・をとわず.md)
+- [～いがいのなにものでもない](grammar-いがいのなにものでもない.md) — "Is nothing but X / is nothing other than X" — emphatically asserts that something is p...
+- [～うえ(に)](grammar-うえ(に).md) — "In addition to ~ / on top of ~" — adds a second fact or quality that compounds on the ...
+- [～うえで](grammar-うえで.md) — Two related uses: (1) "after doing ~ (and then)" — sequencing an important step before ...
+- [～うえは / ～以上(は)](grammar-うえは・以上(は).md) — "Since ~ / given that ~ (having committed to or because this is now the situation)" — e...
+- [～うちに](grammar-うちに.md) — "While ~ / before ~ (changes) / take the opportunity during a limited window" — express...
+- [～うではないか](grammar-うではないか.md) — "Let's ~, shall we? / why don't we ~" — a formal, rhetorical volitional invitation, oft...
+- [～おかげで](grammar-おかげで.md) — "Thanks to X" — attributes a good result to a positive cause or helper. Can also be use...
+- [～おぼえはない](grammar-おぼえはない.md) — "I don't recall doing X / I have no reason to be X" — denies having done something or h...
+- [～かいがある／かいがない](grammar-かいがある.md) — "It's worth/not worth doing X" — expresses whether an effort or action yields a rewardi...
+- [～かぎりだ](grammar-かぎりだ.md) — "Extremely X" — used with emotion adjectives to express the speaker's own feeling at it...
+- [～かけ](grammar-かけ.md) — "In the middle of doing ~ / half-done / partway through" — indicates an action was star...
+- [～かたがた](grammar-かたがた.md)
+- [～かたわら](grammar-かたわら.md) — "While also doing ~ / alongside ~" — indicates that someone carries out a secondary, on...
+- [～かねない](grammar-かねない.md) — "Might well (do something bad) / there's a risk of X" — expresses concern that an undes...
+- [～かねる](grammar-かねる.md) — "Cannot bring oneself to do X" — a polite, formal way of expressing inability or unwill...
+- [～かのようだ](grammar-かのようだ.md) — "As if, as though" — likens a real situation to something that is not actually the case...
+- [～からある・～からする・～からの](grammar-からある・からする・からの.md) — Indicates a quantity, weight, size, price, or number of people that is "at least that m...
+- [～からある／～からする](grammar-からある・からする.md) — Emphasizes that a quantity, weight, size, or price is remarkably large — "as much/large...
+- [～からいいようなものの](grammar-いいようなものの.md) — "It's fine/lucky that X (happened), but..." — acknowledges that a bad outcome was narro...
+- [～からして](grammar-からして.md) — "Judging from just this one example / even X alone (suggests the rest follows suit)" — ...
+- [～からといって／～からとて](grammar-からといって・からとて.md) — "Just because X (doesn't necessarily mean Y)" — rejects an assumption that would otherw...
+- [～からには](grammar-からには.md) — "Since X (one has committed to this / this is the situation), Y (must/should) follow" —...
+- [～から見ると／～から言うと／～からすると](grammar-から見ると・言うと・すると.md) — "Judging from X / from the standpoint of X" — indicates the basis or evidence from whic...
+- [～かれ…かれ](grammar-かれ…かれ.md) — "Whether very A or very B, the same thing is true" — pairs two antonymous adjective ste...
+- [～かわりに](grammar-かわりに.md) — Two usages: (1) "instead of X" — substitution; (2) "in return for X / while, on the oth...
+- [～か～ないかのうちに](grammar-か~ないかのうちに.md) — "Almost before X happens / just as X is happening" — expresses extreme near-simultaneit...
+- [～がい(かい)](grammar-がい.md) — "Worth doing X" — expresses that an action is rewarding or meaningful to do, as in やりがい...
+- [～がたい](grammar-がたい.md) — "Hard to do ~ / difficult to ~ (emotionally or morally, not physically)" — expresses th...
+- [～がち](grammar-がち.md) — "Tends to ~ / prone to ~ (often with a negative nuance)" — describes a recurring tenden...
+- [～がてら](grammar-がてら.md) — "While/on the occasion of doing X, also do Y" — describes combining two actions/purpose...
+- [～が早いか](grammar-が早いか.md) — "No sooner than X, Y happens" — describes two actions occurring in near-instantaneous s...
+- [～が最後](grammar-が最後.md) — "Once X happens, inevitably Y follows" — typically describes an irreversible chain of e...
+- [～きらいがある](grammar-きらいがある.md) — "Has a tendency to ~ (which is not desirable)" — points out an undesirable tendency, tr...
+- [～きり](grammar-きり.md) — Two related usages: (1) "only/just X" — a plain limiting function; (2) "ever since X, n...
+- [～きりがない](grammar-きりがない.md) — "There's no end/limit to X" — expresses that if one kept going, an activity, list, or c...
+- [～きる](grammar-きる.md) — "To do completely / to the end / fully" — attached to a verb stem to emphasize completi...
+- [～くせに](grammar-くせに.md) — "Even though / despite X" — used with a critical, contemptuous, or mocking tone to high...
+- [～くも（なんとも）ない](grammar-くもなんともない.md) — "Not X at all / far from X" — strongly refutes a quality someone has attributed to some...
+- [～くらいなら](grammar-くらいなら.md) — "I would rather ~ than ~" — expresses that the speaker finds a situation so undesirable...
+- [～くらいのものだ](grammar-くらいのものだ.md) — "It's only limited to about ~ / that's about the only case" — expresses that something ...
+- [～くらい／～ぐらい（だ）](grammar-くらい・ぐらい(だ).md) — "To the extent that / so much that (as to reach this degree)" — illustrates the intensi...
+- [～げ](grammar-げ.md) — "Looking/seeming X" — attached to adjective stems to describe an outward appearance or ...
+- [～こそ](grammar-こそ.md) — "Precisely/especially X" — an emphatic particle that singles out the preceding word as ...
+- [～こそすれ](grammar-こそすれ.md) — "If anything, X (but never Y)" — a concessive-emphatic construction that emphasizes the...
+- [～こと。](grammar-こと。.md) — A sentence-final こと used as a formal/written command, instruction, or rule — equivalent...
+- [～ことか](grammar-ことか.md) — "How (much)...!" — a rhetorical exclamatory expression used with question words like 何度...
+- [～ことから](grammar-ことから.md) — "Judging from the fact that X / because of the fact that X" — used to explain the reaso...
+- [～ことこのうえない](grammar-ことこのうえない.md) — "Extremely X, beyond compare" — a literary intensifier stating that a quality reaches i...
+- [～ことだ](grammar-ことだ.md) — "The (best) thing to do is...; you should..." — used to give advice, strong recommendat...
+- [～ことだから](grammar-ことだから.md) — "Because it's (characteristic of) X / knowing X as we do" — used to make a prediction o...
+- [～ことだし](grammar-ことだし.md) — "Given the fact that X..." — a mild, casual reason-giving expression, often used just b...
+- [～こととて](grammar-こととて.md) — "Since it is a matter of X" — offers a mitigating explanation or excuse for a situation...
+- [～ことなく](grammar-ことなく.md) — "Without doing X" — describes performing an action while completely avoiding or never e...
+- [～ことなしには／ことなしに(は)](grammar-ことなしには・ことなしに(は).md)
+- [～ことに(は)](grammar-ことに(は).md) — "To one's (surprise/regret/relief, etc.)" — placed at the beginning of a sentence befor...
+- [～ことになる／なっている](grammar-ことになる・なっている.md) — "It has been decided that X (by circumstance or others, not the speaker's own will)" (こ...
+- [～ことはない](grammar-ことはない.md) — "There's no need to do X / you don't have to do X" — reassures the listener that an act...
+- [～ことは～が](grammar-ことは～が.md) — "It is true that X, but..." — a concessive construction that first acknowledges a fact ...
+- [～これといって～ない](grammar-これといって～ない.md) — "Nothing in particular / nothing special (to mention)" — denies there being any notable...
+- [～ごとく／～ごとき](grammar-ごとく・ごとき.md) — Classical/literary equivalent of ～ように ("as if, like," adverbial) and ～ような ("like a ~," ...
+- [～ごとし／ごとく／ごときN](grammar-ごとし.md) — "As if X / like X" — a classical literary simile marker, equivalent to ように／よう, often ca...
+- [～さえ](grammar-さえ.md) — "Even X" — emphasizes an extreme or surprising example to imply that if even this case ...
+- [～さえ～ば](grammar-さえ~ば.md) — "If only X / as long as just X" — expresses that a single minimum condition is sufficie...
+- [～ざるを得ない](grammar-ざるを得ない.md) — "Cannot help but do X / have no choice but to do X" — expresses that the speaker is for...
+- [～しかない](grammar-しかない.md) — "Have no choice but to X / there's nothing to do but X / only X" — expresses that, give...
+- [～しまつだ](grammar-しまつだ.md) — "Ended up in the (bad) state of X" — describes the regrettable final outcome of a chain...
+- [～すべがない](grammar-すべがない.md) — "There's no method/means to X" — expresses that no way exists to accomplish or resolve ...
+- [～すら](grammar-すら.md) — Used to give an extreme example and imply that, since even this extreme case holds true...
+- [～ずくめ](grammar-ずくめ.md) — "Entirely/all X" — describes something as being composed entirely of one quality or ite...
+- [～ずにはおかない](grammar-ずにはおかない.md) — "Is bound to (cause X)" / "won't let X not happen" — describes an inevitable natural co...
+- [～ずには済まない／～ないでは済まない](grammar-ずにはすまない・ないではすまない.md) — "Can't get away without doing X" — social, moral, or practical pressure makes it imposs...
+- [～ずに済む／～ないで済む](grammar-ずにすむ・ないですむ.md) — "Manage to avoid doing X" / "things work out fine without needing to do X" — no negativ...
+- [～せいで](grammar-せいで.md) — "Because of X" — attributes a negative result or outcome to a cause, often with a nuanc...
+- [～そばから](grammar-そばから.md) — "No sooner does X happen than Y happens" — expresses that Y occurs immediately after X,...
+- [～それまでだ](grammar-それまでだ.md) — "That's the end of it" / "if X happens, everything is over/pointless" — expresses final...
+- [～たことにする](grammar-たことにする.md) — "To treat/pretend as if X had (or hadn't) happened" — a deliberate, often contrary-to-f...
+- [～たところ](grammar-たところ.md) — "When I did X, (as a result I discovered/found) Y" — connects a completed action to an ...
+- [～たところで](grammar-たところで.md) — "Even if/even having done X, (it won't change anything)" — a low-expectation conditiona...
+- [～たとたん(に)](grammar-たとたんに.md) — "The instant that..., no sooner had X happened than Y" — emphasizes immediacy and often...
+- [～たなら](grammar-たなら.md) — "If (I/you) had done ~ (things would have been different)" — a counterfactual past cond...
+- [～たび(に)](grammar-たびに.md) — "Every time, whenever X happens, Y also happens" — describes a recurring correlation be...
+- [～たまえ](grammar-たまえ.md) — A dated, authoritative command form ("do this") typically used by an older or higher-st...
+- [～ためしがない](grammar-ためしがない.md) — "X has never once happened" — emphasizes that despite repeated opportunity or expectati...
+- [～たら最後／～たが最後](grammar-たら最後・たが最後.md) — "Once ~ happens, it's over / something terrible inevitably follows" — describes an acti...
+- [～たら～たで](grammar-たら～たで.md) — "Whichever way it goes..." — expresses resigned acceptance that either of two outcomes ...
+- [～たりとも](grammar-たりとも.md) — "Not even X (however small/brief)" — emphasizes that not even the smallest unit or brie...
+- [～たりとも…ない](grammar-たりとも…ない.md) — "Not even one [minimal unit]..." / "not at all" — cites the smallest possible unit of a...
+- [～たる(もの)](grammar-たる.md) — "Being in the position/status of X (and thus should behave accordingly)" — describes so...
+- [～たるもの（は）](grammar-たるもの（は）.md) — States that someone who holds a responsible or superior position/role ought to behave i...
+- [～だい？／かい？](grammar-だいかい.md) — A casual, somewhat old-fashioned masculine sentence-final question particle — だい follow...
+- [～だけ](grammar-だけ.md) — "Only, just, as much as" — a basic limiter marking exclusivity or extent.
+- [～だけあって](grammar-だけあって.md) — "Being worthy of X, as one would expect from X" — praises a result that matches or just...
+- [～だけに](grammar-だけに.md) — "Precisely because X, all the more so" — indicates that a known fact or situation inten...
+- [～だに(～ない)](grammar-だに.md)
+- [～だらけ](grammar-だらけ.md) — "Covered in, full of X" — usually carries a negative or messy connotation (e.g., mistak...
+- [～っけ](grammar-っけ.md) — Casual sentence-final particle used to confirm or recall forgotten information — "wasn'...
+- [～っこない](grammar-っこない.md) — Casual, strong negation of possibility — "there's no way that X," "X will never happen."
+- [～ったらない](grammar-ったらない.md) — An extremely emphatic degree expression meaning "indescribably/to an extreme degree" — ...
+- [～ってば](grammar-ってば.md) — "I'm telling you X!" — an emphatic, exasperated expression used when repeating somethin...
+- [～っぱなし](grammar-っぱなし.md) — "Leaving X in an ongoing/neglected state" — an action is performed and then left withou...
+- [～っぱなしだ](grammar-っぱなしだ.md) — Describes an unusual or improper state that is continuing — typically an action left un...
+- [～っぷり／ぶり](grammar-っぷり・ぶり.md) — Two closely related uses: (1) attached to a verb stem or noun, describes the "manner/wa...
+- [～っぽい](grammar-っぽい.md) — "-ish, seems like, prone to" — a casual suffix attached to nouns, adjective stems, or v...
+- [～つ…つ](grammar-つ…つ.md) — Describes two reciprocal or opposite actions happening repeatedly, back and forth (e.g....
+- [～ついでに](grammar-ついでに.md) — "While at it, taking the opportunity to also do Y" — performing a secondary, incidental...
+- [～つつ](grammar-つつ.md) — Two related uses: (1) "while doing X" — two actions happening simultaneously by the sam...
+- [～つつある](grammar-つつある.md) — "In the process of gradually happening/changing" — describes an ongoing change-of-state...
+- [～つもりで (pretend)](grammar-つもりで.md)
+- [～つ～つ](grammar-つ～つ.md) — "Now X, now Y / alternately doing X and Y" — describes two opposite or alternating acti...
+- [～ているばあいではない](grammar-ているばあいではない.md) — "This is not the time for X" — urges that a current action is inappropriate or irrespon...
+- [～てからでないと／てからでなければ](grammar-てからでないと・なければ.md) — "Unless one does X first, not until after doing X" — states that Y cannot happen until ...
+- [～てからというもの（は）](grammar-てからというもの（は）.md) — "Ever since X..." — describes how, following a particular turning-point event, some new...
+- [～てからというもの／というもの](grammar-てからというもの.md) — "Ever since X (things have been dramatically different) / for X (duration), continuousl...
+- [～てくれ](grammar-てくれ.md)
+- [～てたまらない／～て仕方がない／～てしょうがない](grammar-てたまらない・しようがない・しかたがない.md) — "Unbearably X, cannot help feeling X" — intensifies an emotion or physical sensation to...
+- [～てたまるか／たまるか](grammar-てたまるか・たまるか.md)
+- [～てならない](grammar-てならない.md) — "Cannot help feeling X" — similar to てたまらない but more literary/written in register.
+- [～てのける](grammar-てのける.md) — "To manage to do ~ (impressively/surprisingly, without apparent difficulty)" — describe...
+- [～ては (repeated action)](grammar-ては.md) — Expresses a repeated or habitual action-reaction cycle — "does X, and then (repeatedly)...
+- [～ては…、～ては…](grammar-ては…、～ては….md) — Describes a single action (or short sequence of actions) being repeated over and over, ...
+- [～てはかなわない](grammar-てはかなわない.md) — "I can't stand/bear it if X (keeps happening)" — complains that a recurring or continui...
+- [～てはばからない](grammar-てはばからない.md) — "Doesn't hesitate to (boldly say/do) X" — describes someone stating or doing something ...
+- [～てまえ](grammar-てまえ.md) — "Given the circumstances/in front of (others)" — expresses a face-saving obligation: th...
+- [～てみせる](grammar-てみせる.md)
+- [～てみろ](grammar-てみろ.md)
+- [～ても／でもさしつかえない](grammar-てもさしつかえない.md) — "It's fine/no problem even if X" — politely grants permission or reassures that an acti...
+- [～てやまない](grammar-てやまない.md) — "Never stop doing X" / "continue to feel X without end" — expresses that a feeling (hop...
+- [～てやる](grammar-てやる.md) — Benefactive auxiliary meaning "do (something) for someone" from a position of equal or ...
+- [～て以来](grammar-て以来.md) — "Ever since doing X" — marks a point in the past after which a situation has continued ...
+- [～て（は）いられない](grammar-て(は)いられない.md) — "Can't afford to keep on doing X" — expresses that due to a lack of time or emotional c...
+- [～であれ…であれ・～であろうと…であろうと](grammar-であれ…であれ・であろうと…であろうと.md) — "Whether it's X or Y, the same thing holds true regardless" — lists representative exam...
+- [～であれ／～であろうと](grammar-であれ・であろうと.md) — "Even if it's X" / "No matter what X is" — states that even under the given condition o...
+- [～であれ～であれ／かれ～かれ／であろうと(が)](grammar-であれであれ.md) — "Whatever A or B / no matter whether it's A or B" — presents two or more contrasting po...
+- [～でなくてなんだろう（か）](grammar-でなくてなんだろう（か）.md) — A rhetorical expression meaning "if this isn't X, then what is?" — used to strongly ass...
+- [～でなくてなんであろう](grammar-でなくてなんであろう.md) — "If this isn't X, what is!" — a rhetorical, emphatic assertion that something is unmist...
+- [～ではあるまいし](grammar-ではあるまいし.md) — "It's not as if X" — points out that since the situation is clearly not X, the reaction...
+- [～では／じゃあるまいし](grammar-じゃあるまいし.md) — "It's not like X, so..." — points out that the listener/subject is not in a particular ...
+- [～でもなんでもない](grammar-でもなんでもない.md) — "Not X at all / is nothing of the sort" — flatly refutes that something/someone is a pa...
+- [～とあって](grammar-とあって.md) — "Since it's the special circumstance of X" — explains that, because the situation descr...
+- [～とあって／とあっては／あれば](grammar-とあって・とあっては・あれば.md) — "Because it is a special case of ~ / given that it is ~" — explains a noteworthy result...
+- [～とあれば](grammar-とあれば.md) — "If it's a matter of ~" / "Given the special circumstance that ~" — presents a particul...
+- [～といい…といい](grammar-といい…といい.md) — "Looking at X, and also at Y, the same impression holds" — gives two examples of aspect...
+- [～といい～といい](grammar-といい〜といい.md)
+- [～というN](grammar-というN.md) — "Every single N / N after N (emphatic totality)" — repeats the same noun on both sides ...
+- [～というか～というか](grammar-というかというか.md) — "You could call it X, or maybe Y" — hedges between two (or more) possible descriptions ...
+- [～ということだ](grammar-ということだ.md) — (1) "I heard that..." — reporting information from a secondhand source (hearsay, news, ...
+- [～というと／といえば／といったら](grammar-というと・といえば・といったら.md) — "Speaking of X," "when you mention X," "if we're talking about X" — used to pick up a t...
+- [～というものだ](grammar-というものだ.md) — "That's exactly what X is," "that's just the nature of X" — an emphatic statement of th...
+- [～というものでは（も）ない](grammar-というものでは・もない.md) — "It's not necessarily the case that X" / "It's not as simple as saying X" — used to ref...
+- [～というよりむしろ](grammar-というよりむしろ.md) — "Rather than X, it's more like Y" / "more accurately, Y" — corrects or refines a preced...
+- [～といえど(も)](grammar-といえども.md) — "Even though X / although X" — a literary concessive connector acknowledging a fact or ...
+- [～といった](grammar-といった.md) — "Such as X (and similar things)" — introduces one or more representative examples of a ...
+- [～といったところだ](grammar-といったところだ.md) — "That's about the extent of it" — gives a modest, approximate assessment of a quantity,...
+- [～といったらない](grammar-といったらない.md) — Expresses that something is to such an extreme degree that words fail to capture it — "...
+- [～といったらない／～ありゃしない](grammar-いったらない・ありゃしない.md) — "Indescribably X" / "there's nothing like how X it is" — emphasizes an extreme degree o...
+- [～といっても](grammar-といっても.md) — "Although I say X..." / "Even though it's called X..." — qualifies or softens a precedi...
+- [～といっても過言ではない](grammar-といっても過言ではない.md) — "It wouldn't be an exaggeration to say X" — asserts a strong claim while framing it as ...
+- [～といわず…といわず](grammar-といわず…といわず.md) — "Without distinguishing between X and Y, the situation is the same everywhere / all the...
+- [～といわず〜といわず](grammar-といわず〜といわず.md) — "Whether it's X or Y" / "both X and Y alike" — indicates that a described state or acti...
+- [～とか](grammar-とか.md) — "Things like X," "or something," "X and stuff" — used to cite examples vaguely/casually...
+- [～ときたひには](grammar-ときたひには.md) — "Speaking of X (in such an extreme/bad case)" — introduces an extreme or exasperating e...
+- [～ときたら](grammar-ときたら.md) — "Speaking of X..." — introduces a topic to make a critical or exasperated remark about ...
+- [～ところに／へ／を](grammar-ところに・へ・を.md) — "Just as X was happening," "right when X" — describes an ongoing situation or moment th...
+- [～ところを](grammar-ところを.md) — (1) "At a moment when X" — describing being seen/caught in a particular (often awkward ...
+- [～とされている](grammar-とされている.md)
+- [～としたことが](grammar-としたことが.md) — "X, of all people/things" — expresses surprise and mild self-reproach/criticism at an u...
+- [～としたら／とすれば](grammar-としたら・とすれば.md) — "If (we) assume X," "supposing that X" — introduces a hypothetical premise and consider...
+- [～として(は)/(も)](grammar-として(は)・(も).md) — "As X" — marks the capacity, role, position, qualification, or category in which someth...
+- [～とて](grammar-とて.md) — "Even if ~ / even though ~" — a firm, literary concessive expression indicating that ev...
+- [～とともに](grammar-とともに.md) — "Together with X" (accompaniment) or "As X happens, Y also happens" (simultaneous chang...
+- [～となると](grammar-となると.md)
+- [～とは](grammar-とは(surprise).md) — "To think that X! / How surprising/shocking that X" — expresses strong surprise, disbel...
+- [～とは](grammar-とは.md) — Expresses the speaker's strong surprise, admiration, or exasperation at a fact just sta...
+- [～とはいえ](grammar-とはいえ.md) — "Having said that / even so" — acknowledges a preceding fact or statement, then introdu...
+- [～とはうってかわって](grammar-とはうってかわって.md) — "Completely different from X (as before)" — describes a sudden, striking contrast betwe...
+- [～とは限らない](grammar-とは限らない.md) — "It's not necessarily the case that ~ / not always true that ~" — used to soften a gene...
+- [～とばかり(に)](grammar-とばかり(に).md) — "As if to say '~'" — describes someone's attitude or action that silently but clearly c...
+- [～とばかりに](grammar-とばかりに.md)
+- [～とひきかえに](grammar-とひきかえに.md) — "In exchange for X" — describes a transactional or reciprocal relationship where one th...
+- [～とみられている](grammar-とみられている.md)
+- [～ともあろう](grammar-ともあろう.md) — Expresses surprise, criticism, or disbelief that a person of such fine ability, reputat...
+- [～ともあろう者が](grammar-ともあろう者.md) — "Someone/something of such standing as X (should not have done this)" — expresses stron...
+- [～ともなく／ともなしに](grammar-ともなく・ともなしに.md) — "Without particularly meaning/intending to ~" — describes an action done unconsciously,...
+- [～ともなると／ともなれば](grammar-ともなると・ともなれば.md) — "Once it reaches the stage/level of X, (then naturally...)" — expresses that once a sit...
+- [～と思いきや](grammar-と思いきや.md) — "Thought/expected X, but actually Y" — expresses a reversal of expectation: the speaker...
+- [～と相まって](grammar-と相まって.md) — Combined with ~, interacting together with ~, resulting in an intensified effect or syn...
+- [～と見えて／とみえて](grammar-と見えて・とみえて.md)
+- [～と／があいまって](grammar-とがあいまって.md) — "Combined with X (producing an enhanced effect)" — describes two or more factors intera...
+- [～どころか](grammar-どころか.md) — "Far from X," "let alone X" — strongly denies a modest premise and asserts a much more ...
+- [～どころではない](grammar-どころではない.md) — "It's not the time/situation for X," "far from being able to do X" — expresses that cir...
+- [～ないことには](grammar-ないことには.md) — "Unless/without first doing X, (Y cannot happen)" — expresses that a negative condition...
+- [～ないことは/もない](grammar-ないことは・もない.md) — "It's not that X doesn't happen" / "It's not like X isn't possible" — a double-negative...
+- [～ないではすまない・～ずにはすまない](grammar-ないではすまない・ずにはすまない.md) — Given the circumstances or social/moral norms, it's unthinkable not to do ~, or one can...
+- [～ないでは／ずにはいられない](grammar-ないでは・ずにはいられない.md) — "Cannot help but do X / cannot resist doing X" — expresses that the speaker's emotions ...
+- [～ないともかぎらない](grammar-ないともかぎらない.md) — "It's not necessarily true that X won't happen / X might possibly happen" — a cautious ...
+- [～ないまでも](grammar-ないまでも.md) — "Although not going so far as to ~, at least ~" — acknowledges that a higher-level acti...
+- [～ないものか](grammar-ないものか.md) — "Isn't there some way to...? / If only there were a way to..." — a rhetorical, wishful ...
+- [～ないものでもない](grammar-ないものでもない.md) — "It's not impossible that X" / "it's not entirely out of the question" — a cautious dou...
+- [～ない限り](grammar-ない限り.md) — "Unless ~ / as long as ~ not" — states that a result will not occur unless a particular...
+- [～ながら](grammar-ながら.md) — (1) "While doing X" — two actions performed simultaneously by the same subject. (2) "Al...
+- [～ながらに](grammar-ながらに.md) — "While/as still being in the state of X" — describes doing something in, or possessing ...
+- [～ながらに(して)](grammar-ながらに(して).md) — "While remaining in the state of ~" / "Just as ~ is, without change" — describes a stat...
+- [～ながらも／つつも](grammar-ながらもつつも.md) — "Although X, nonetheless Y" — a concessive connector acknowledging one state or action ...
+- [～なくして(は)](grammar-なくして(は).md) — "Without X, (Y would not be possible / Y cannot happen)" — a formal way of saying that ...
+- [～なしに／なしに(は)～ない](grammar-なしに.md) — "Without doing/having X" — describes performing an action without a preceding step or a...
+- [～など／なんて／なんか](grammar-など・なんて・なんか.md) — "Things like X, and so on" — used for non-exhaustive listing or vague reference. なんて an...
+- [～なみ](grammar-なみ.md) — "On par with/equivalent to X" — expresses that something matches the standard, level, o...
+- [～ならいざしらず](grammar-ならいざしらず.md) — "That may be one thing, but..." — sets up a contrast where the first-mentioned case (of...
+- [～ならでは](grammar-ならでは.md) — "Uniquely attributable to X, only possible because of X" — praises X as the special rea...
+- [～ならまだしも](grammar-ならまだしも.md) — "If it were just X, that would be bearable/acceptable, but (Y, the actual case, is not)...
+- [～なり](grammar-なり.md)
+- [～なり…なり](grammar-なり…なり.md) — Suggests doing one thing or another (or anything else of the kind), presenting two or m...
+- [～なりに／なりのN](grammar-なりに.md) — "In one's own way, given one's ability/situation" — describes doing something to the be...
+- [～なり～なり](grammar-なり〜なり.md)
+- [～にあたり／あたって](grammar-にあたり・あたって.md) — "At the time of," "on the occasion of," "in undertaking X" — marks a significant, often...
+- [～にあって](grammar-にあって.md)
+- [～にいたっても／にいたるまで](grammar-にいたっても・にいたるまで.md)
+- [～にいわせれば](grammar-にいわせれば.md) — "In X's view / if you ask X" — introduces a personal opinion or perspective, often one ...
+- [～において](grammar-において.md) — "In," "at," "regarding" — a formal marker for location, time, field, or domain, used in...
+- [～におかれましては](grammar-におかれましては.md) — An ultra-formal honorific topic marker used to respectfully refer to a superior, client...
+- [～におけるN](grammar-におけるN.md) — "N in/at X" — marks a domain, location, time, or field within which a following noun is...
+- [～にかかっては](grammar-にかかっては.md) — "When it comes to X('s hands/skill/power)" — expresses that once something falls under ...
+- [～にかかわらず／にもかかわらず](grammar-にかかわらず・にもかかわらず.md) — にかかわらず = "regardless of X" (X being a range/choice, often paired items like 有無/晴雨); にもか...
+- [～にかかわる](grammar-にかかわる.md) — "Affects/concerns X (often seriously, a matter of X)" — describes something that has a ...
+- [～にかぎったことではない](grammar-にかぎったことではない.md) — "It's not limited to X / this isn't unique to X" — points out that a phenomenon describ...
+- [～にかけて](grammar-にかけて.md) — Two related usages: (1) ～にかけては — "when it comes to X / concerning X (a skill or ability...
+- [～にかけては/も](grammar-にかけては・も.md) — "When it comes to X (one's area of skill/forte)" — praises someone's particular experti...
+- [～にかこつけて](grammar-にかこつけて.md) — "Using X as an excuse/pretext" — describes doing something by exploiting an unrelated o...
+- [～にかたくない](grammar-にかたくない.md) — "Not difficult to (imagine/guess/understand)" — used in fixed collocations to say that ...
+- [～にかまけて](grammar-にかまけて.md) — "Being preoccupied with X (and neglecting other things)" — describes focusing so much o...
+- [～にかわって](grammar-にかわって.md) — "In place of X / on behalf of X" — indicates that someone/something takes over a role, ...
+- [～にこしたことはない](grammar-にこしたことはない.md) — "It's best to X / nothing beats X" — recommends a particular choice as clearly the best...
+- [～にしたがって](grammar-にしたがって.md) — Two main uses: (1) "In accordance with X / following X (a rule, instruction)," and (2) ...
+- [～にしたところで](grammar-にしたところで.md) — "Even in the case of X / even granting X, [it would still be powerless/meaningless/no d...
+- [～にしたところで／にしたって](grammar-にしたところで・にしたって.md)
+- [～にしたら](grammar-にしたら.md) — "From the standpoint of X / if it were X('s perspective)" — presents a situation as it ...
+- [～にして](grammar-にして.md) — Indicates that something matches (or fails to match) a high level, special stage, or ex...
+- [～にして(はじめて)／にして](grammar-にしてはじめて.md) — "Only at/as X (did something become true) / even as X / precisely because of being at t...
+- [～にしては](grammar-にしては.md) — "For X, (surprisingly)..." — expresses that the following statement is unexpected or in...
+- [～にして（評価・事の起こり方）](grammar-にして-2.md) — States an evaluation of how a situation turned out, or describes the manner/speed in wh...
+- [～にしのびない](grammar-にしのびない.md) — "Can't bring myself to X / can't bear to X" — expresses emotional reluctance to do some...
+- [～にしろ/にしても/にせよ](grammar-にしろ・にしても・にせよ.md) — "Even if / whether it be X..." — a concessive construction, often paired to list contra...
+- [～にすぎない](grammar-にすぎない.md) — "Merely/nothing more than X" — downplays something as being only to a limited extent, o...
+- [～にそくして／にそくしたN](grammar-にそくして.md) — "Based on/in line with X" — describes acting, judging, or explaining in close conformit...
+- [～について/に関して](grammar-について・に関して.md) — "About / regarding / concerning X" — marks the topic being discussed, written about, or...
+- [～につけ](grammar-につけ.md) — "Whenever / every time X happens" — marks a recurring trigger (often sensory or situati...
+- [～につれて](grammar-につれて.md) — "As X, Y (gradually)..." — describes two changes that progress in parallel, where one c...
+- [～にて](grammar-にて.md) — "At/in ~ (formal)" — a firm, formal written (and formal spoken, e.g. announcements) equ...
+- [～にてらして](grammar-にてらして.md) — "Compared against/checked against X (a standard)" — evaluates or judges something by me...
+- [～にとって](grammar-にとって.md) — "For X / from X's standpoint" — evaluates a situation, object, or event from the perspe...
+- [～にとどまらず](grammar-にとどまらず.md) — "Not limited to X (but extends further to Y)" — indicates that the scope or impact of s...
+- [～にともなって](grammar-にともなって.md) — "Accompanying X / as a result of X" — indicates that one change or event occurs togethe...
+- [～にのっとって](grammar-にのっとって.md)
+- [～にはおよばない](grammar-にはおよばない.md) — "There's no need to X / it's not necessary to go that far" — politely tells someone tha...
+- [～には当たらない](grammar-にはあたらない.md) — "It doesn't amount to/warrant X" — used to downplay a reaction (surprise, praise, blame...
+- [～には当たらない](grammar-には当たらない.md) — Says that something isn't serious or significant enough to warrant a strong emotional r...
+- [～にひきかえ](grammar-にひきかえ.md) — "In contrast to X" — highlights a stark contrast between two things, often with an impl...
+- [～にほかならない](grammar-にほかならない.md) — "Is nothing other than X / is precisely X" — strongly asserts that something is exactly...
+- [～にまつわる](grammar-にまつわる.md) — "Related to/associated with X (legend, rumor, story)" — attaches to a noun to describe ...
+- [～にもってこいだ](grammar-もってこいだ.md) — "Perfectly suited for / ideal for" — describes something as being exactly right or perf...
+- [～にもほどがある](grammar-にもほどがある.md) — "There's a limit to ~ / ~ is really going too far" — expresses strong criticism or exas...
+- [～にもまして](grammar-にもまして.md) — "More than X / even more than X" — compares a current degree or state against a stated ...
+- [～によっては](grammar-によっては.md) — "Depending on X (in some cases)" — highlights that, among various possible instances of...
+- [～によって・により](grammar-によって・により.md) — Multi-purpose formal connector with three main senses depending on context: (1) "by mea...
+- [～にわたって](grammar-にわたって.md) — "Over the course of X / spanning X" — indicates that an event, condition, or process co...
+- [～に先立って](grammar-に先立って.md) — "Prior to X / in advance of X" — indicates that an action is carried out before a more ...
+- [～に則って](grammar-に則って.md) — To act by following a standard, norm, rule, law, or tradition as the governing basis — ...
+- [～に加えて](grammar-に加えて.md) — "In addition to X" — adds a further element on top of something already mentioned, ofte...
+- [～に即して](grammar-に即して.md) — "In accordance with / based on X" — to handle, judge, or plan something in a way that p...
+- [～に反して](grammar-に反して.md) — "Contrary to X" — indicates that an actual outcome goes against or differs from an expe...
+- [～に基づいて](grammar-に基づいて.md) — "Based on X" — indicates that an action, decision, or creation is grounded in or derive...
+- [～に堪えない](grammar-に堪えない.md) — Attached to a limited set of emotion nouns, expresses that a feeling is so strong it ca...
+- [～に堪える／～に堪えない](grammar-にたえる・にたえない.md) — 堪える = "worth/able to bear/endure (watching, listening, reading, etc.)" — of sufficient ...
+- [～に堪える／～に堪えない](grammar-に堪える・に堪えない.md) — に堪える = good enough to withstand being ~ed, i.e., "worthy of ~ing" (e.g. worthy of being...
+- [～に対して](grammar-に対して.md) — "Towards X / in regard to X / in contrast to X" — indicates the target or direction of ...
+- [～に忍びない](grammar-に忍びない.md) — "I can't bring myself to do X" — describes an action that is so emotionally painful or ...
+- [～に応えて](grammar-に応えて.md) — "In response to X" — indicates an action taken to meet, fulfill, or answer an expectati...
+- [～に応じて](grammar-に応じて.md) — "According to," "in response to," "depending on" — indicates that an action, amount, or...
+- [～に恥じない](grammar-に恥じない.md) — "Worthy of X / not shameful in light of X" — describes a person's conduct, work, or ach...
+- [～に比べて](grammar-に比べて.md) — "Compared to X" — introduces a point of comparison, contrasting the following clause's ...
+- [～に決まっている](grammar-に決まっている.md) — "It's surely/definitely X" / "X is bound to be the case" — expresses the speaker's stro...
+- [～に沿って](grammar-に沿って.md) — "Along X" (physical: a river, road) or "In line with X" (abstract: a plan, policy, guid...
+- [～に照らして](grammar-に照らして.md) — "In light of / judging from X" — to evaluate or judge a matter by comparing it against ...
+- [～に相違ない](grammar-に相違ない.md) — "There is no doubt that X / X must certainly be the case" — a formal expression of stro...
+- [～に至っては](grammar-に至っては.md) — "When it comes to this extreme example (among several)..." — singles out the most extre...
+- [～に至って・～に至っても](grammar-に至って・に至っても.md) — ～に至って: only once a situation had progressed as far as X did a certain state finally com...
+- [～に至るまで](grammar-に至るまで.md) — "Even down to X" / "all the way to X" — emphasizes that the range or scope of something...
+- [～に足る](grammar-に足る.md) — Indicates that something or someone is sufficiently worthy to merit a particular action...
+- [～に足るN／に足りない](grammar-にたるN.md) — "Worthy/deserving of X" (に足るN) or "not worth X / unworthy of X" (に足りない) — evaluates whe...
+- [～に違いない](grammar-に違いない.md) — "Must be / surely is" — expresses the speaker's strong, confident conjecture based on a...
+- [～に限って](grammar-に限って.md) — "Especially in the case of ~ / of all times/people" — expresses irony or frustration th...
+- [～に限らず](grammar-に限らず.md) — "Not limited to ~ / not only ~ (but also)" — indicates that a statement applies beyond ...
+- [～に～ない／～（よ）うにも～ない](grammar-に-ない・(よ)うにも-ない.md) — "Want to do X, but can't" — expresses that although the speaker wants to do something, ...
+- [～ぬきで](grammar-ぬきで.md) — "Without X / omitting X" — indicates that something is done with a particular element l...
+- [～ぬく](grammar-ぬく.md) — "To do X all the way through / to the very end" — attached to a verb stem, expresses co...
+- [～のいたり](grammar-のいたり.md) — "The utmost extreme of X" — a humble, often self-referential expression that a feeling ...
+- [～のきらいがある](grammar-のきらいがある.md) — "Tends to have the (negative) tendency of X" — describes a mild, chronic character flaw...
+- [～のきわみ](grammar-のきわみ.md) — "The ultimate extreme of X" — describes an emotional or physical state (joy, exhaustion...
+- [～のなんの](grammar-のなんの.md) — "X and all sorts of excuses/things like that" — lists a dismissive or exasperated serie...
+- [～のみならず](grammar-のみならず.md) — "Not only X, but also Y" — an additive, emphatic construction stating that something go...
+- [～のもとで・のもとに](grammar-のもとで・のもとに.md) — "Under X (guidance, supervision, influence, or condition)" — indicates that an action o...
+- [～のもむりはない](grammar-のもむりはない.md) — "It's reasonable/no wonder that X" — expresses understanding and justification for some...
+- [～の末に](grammar-の末に.md) — "After (much deliberation/effort) / at the end of X, finally" — marks the conclusion of...
+- [～の至りだ](grammar-の至りだ.md) — "The height/utmost of X" — a very formal expression used to convey an extreme emotional...
+- [～はいうにおよばず](grammar-はいうにおよばず.md) — "Needless to say X, (Y also applies)" / "not to mention X" — states that X is so obviou...
+- [～はおろか～さえ／すら／も](grammar-はおろか.md) — "Not to mention X, not even Y" — states that a lesser or more basic case (Y) is also no...
+- [～はさておき](grammar-はさておき.md) — "Setting X aside" / "leaving X for later" — used to table a topic temporarily in order ...
+- [～はともかく](grammar-はともかく.md) — "Setting X aside," "regardless of X (for now)," "never mind X" — used to put aside one ...
+- [～はめになる](grammar-はめになる.md) — "End up in a (rough/unwanted) situation" — describes falling into an undesirable predic...
+- [～はもちろん](grammar-はもちろん.md) — "Needless to say X," "not to mention X," "of course X (and Y too)" — presents an obviou...
+- [～ばかりか](grammar-ばかりか.md) — "Not only X, but also Y" — emphasizes that something goes beyond what is expected, addi...
+- [～ばかりだ](grammar-ばかりだ.md) — "All that's left is to ~ / nothing remains but to ~" — indicates that all preparations ...
+- [～ばかりに](grammar-ばかりに.md) — "Just because of X" / "All because of X" — indicates that a (often relatively minor or ...
+- [～ばかりもいられない](grammar-ばかりもいられない.md)
+- [～ばこそ](grammar-ばこそ.md) — "Precisely because X" — an emphatic reason construction stressing that X is the sole, e...
+- [～ばそれまでだ](grammar-ばそれまでだ.md) — Says that if a certain thing happens, everything else becomes meaningless or futile, an...
+- [～べからず／～べからざる](grammar-べからず・べからざる.md) — Formal prohibition: "must not do X." べからず is the terminal (sentence-ending) form common...
+- [～べきだ](grammar-べきだ.md) — "Should," "ought to" — expresses a moral, normative, or logical obligation: what is the...
+- [～べく](grammar-べく.md) — "In order to" — expresses that an action is performed with a particular goal in mind; a...
+- [～べくして～](grammar-べくして～.md) — "X happened because it was bound/destined to happen" — emphasizes, in hindsight, that a...
+- [～べくもない](grammar-べくもない.md) — "It is completely impossible/out of the question to X" — strongly denies the possibilit...
+- [～べく／べし](grammar-べくべし.md) — "In order to X" (べく, purpose) / "should/must do X, worthy of X" (べし, classical obligati...
+- [～ほうが（まだ）ましだ／だけ（まだ）ましだ](grammar-ほうがましだ.md) — "X would be (relatively) better / at least glad it's not worse" — compares two undesira...
+- [～ほど／～ほどの／～ほどだ](grammar-ほど・ほどの・ほどだ.md) — "To the extent that," "so much that" — expresses degree by giving a concrete example/co...
+- [～まい](grammar-まい.md) — "Will surely not," "probably won't" (negative conjecture) or "let's not," "I will not" ...
+- [～まじき](grammar-まじき.md) — Describes behavior "that must not be done, unbecoming of X" — a formal, strongly disapp...
+- [～まで(のこと)だ](grammar-まで(のこと)だ.md) — "It's simply a matter of doing X / that's all there is to it" — expresses that if a cer...
+- [～まで(のことをして)](grammar-まで(のことをして).md) — "To go so far as to ~ / to the extent of doing ~" — expresses that an action is an extr...
+- [～までだ・～までのことだ](grammar-までだ・までのことだ.md) — (A) Expresses the speaker's resolve that, if there's no other option, they will simply ...
+- [～までもない](grammar-までもない.md) — Says that something is so minor or obvious that it isn't worth the effort of doing — "t...
+- [～までもなく](grammar-までもなく.md) — "Without even needing to go so far as to X" / "there's no need to even X" — states that...
+- [～まま(に)](grammar-まま(に).md)
+- [～まみれ](grammar-まみれ.md) — "Covered in/with X" — describes something or someone thoroughly covered by a messy, unp...
+- [～めく](grammar-めく.md) — "Has a touch of X / looks/feels like X" — a verb-forming suffix attached to nouns to in...
+- [～もかまわず](grammar-もかまわず.md) — "Not caring about X," "regardless of X," "heedless of X" — describes an action done whi...
+- [～もさることながら](grammar-もさることながら.md) — "Not to mention X, Y is also true" / "X is notable, but Y is even more so" — acknowledg...
+- [～もしないで](grammar-もしないで.md) — "Without even doing X" — emphasizes that someone failed to do even the most basic/expec...
+- [～ものか／～もんか](grammar-ものか・もんか.md) — "Definitely not!" "As if I would!" — a strong rhetorical question expressing emphatic n...
+- [～ものがある](grammar-ものがある.md) — "There is a certain quality of X," "there's something that..." — expresses the speaker'...
+- [～ものだ](grammar-ものだ.md) — "That's just how things are" (general truth/common sense) or "used to do..." (nostalgic...
+- [～ものだから](grammar-ものだから.md) — "Because..." (explaining/excusing a result) — a casual reason-giving structure used to ...
+- [～ものではない](grammar-ものではない.md) — "One should not do X," "it's not the kind of thing you should do" — a moral admonition ...
+- [～ものとする](grammar-ものとする.md) — "It shall be deemed/stipulated that X" — a formal convention used to establish a rule, ...
+- [～ものと思う](grammar-ものと思う.md) — "I take it as given/natural that X is the case" — expresses the speaker's confident per...
+- [～ものと思われる](grammar-ものと思われる.md) — "It is thought/presumed that X" — an impersonal, objective-sounding expression of infer...
+- [～ものなら](grammar-ものなら.md) — "If only I could..." — expresses a wishful, often unrealistic or very difficult hypothe...
+- [～ものの](grammar-ものの.md) — "Although..., even though..." — a formal concessive conjunction. States a fact, then no...
+- [～ものを](grammar-ものを.md) — "Although X (would have been better/true)" — expresses regret or mild reproach that a b...
+- [～もの／～もん](grammar-もの・もん.md) — "Because, you know..." — a casual, explanatory/justifying sentence-final particle used ...
+- [～も～ば、～も](grammar-も~ば、~も.md) — "Both X and Y" — lists two parallel qualities, examples, or facts about the same subjec...
+- [～や(否や)](grammar-やいなや.md) — "The moment/right after X happens, Y" — describes an action happening immediately after...
+- [～やしない](grammar-やしない.md) — Emphatic negative — "there's no way X" / "X doesn't happen at all" (しやしない, わかりやしない, etc...
+- [～やら](grammar-やら.md) — Two related uses: (1) "～やら～やら" — listing multiple things/feelings in a chaotic, non-exh...
+- [～や～](grammar-や.md) — "~ and/or ~ (among others)" — a light, non-exhaustive listing particle that implies the...
+- [～ゆえ（に）](grammar-ゆえ(に).md) — "Because of X" / "For the reason of X" — a literary, formal way of stating a cause or r...
+- [～ようがない](grammar-ようがない.md) — "There's no way to do X" / "it's impossible to do X because the means/method to do so d...
+- [～ようでは](grammar-ようでは.md) — "If things continue to be like ~ (an undesirable state), the result will be bad" — poin...
+- [～ように（例示）](grammar-ように(example).md) — "Like..., as if..." — used to give an example or draw a comparison, illustrating someth...
+- [～ように（目的）](grammar-ように(goal).md) — "So that..., in order to..." — expresses a purpose or goal, typically used with potenti...
+- [～ようものなら](grammar-ようものなら.md) — "If you dare do X, (something bad) will follow" — a bad-result conditional warning that...
+- [～より](grammar-より.md) — A formal/stiff written equivalent of から, marking the starting point of something — a se...
+- [～わけがない](grammar-わけがない.md) — "There's no way that..., it's impossible that..." — expresses strong confidence/convict...
+- [～わけじゃない](grammar-わけじゃない.md) — "It's not that... / that doesn't mean that..." — a partial denial or softening expressi...
+- [～わけだ](grammar-わけだ.md) — "That means..., so it's natural that..., no wonder..." — draws a logical conclusion fro...
+- [～わけではない](grammar-わけではない.md) — "It's not that..., it doesn't mean that..." — a partial negation, denying a full/absolu...
+- [～わけない](grammar-わけない.md) — "There's no way that... / it can't possibly be that..." — a casual, spoken contraction ...
+- [～わけにはいかない](grammar-わけにはいかない.md) — "Cannot (afford to)..., can't just..." — expresses that an action is impossible due to ...
+- [～わりに（は）](grammar-わりに(は).md) — "Considering..., for (what one would expect)..., relatively..." — indicates that a resu...
+- [～わ～わ](grammar-わわ.md) — "So much X and Y (one after another)!" — repeats the sentence-final particle わ after tw...
+- [～をいいことに](grammar-をいいことに.md) — "Taking advantage of X (a convenient circumstance) to do something bad/selfish" — criti...
+- [～をおいて](grammar-をおいて.md) — "Other than X, there's nothing/no one comparable" — used to emphatically single out som...
+- [～をおいて〜ない](grammar-をおいて〜ない.md) — "There's no one/nothing but X" — strongly asserts that X is the only suitable choice, w...
+- [～をおして](grammar-をおして.md) — "Doing X despite circumstances that would normally prevent it" — describes pushing forw...
+- [～をかぎりに](grammar-をかぎりに.md) — "As of X" — marks a specific point (often "today" or a stated event) as the cutoff or f...
+- [～をかねて](grammar-をかねて.md) — "Combining X with (another purpose)" — describes an action or thing that serves two pur...
+- [～をかわきりに(して)](grammar-をかわきりに.md) — "Starting with X (and continuing on from there)" — marks the first in a series of event...
+- [～をきっかけに（として）／を契機に（として）](grammar-をきっかけに(として)・を契機に(として).md) — "Taking X as a chance/trigger/opportunity" — marks an event as the catalyst that led to...
+- [～をなおざりにして](grammar-をなおざりにして.md) — "Neglecting X" — expresses that someone is leaving X unattended or treating it careless...
+- [～をはじめ](grammar-をはじめ.md) — "Starting with X, such as X (and others)" — introduces a representative example of a la...
+- [～をひかえて](grammar-をひかえて.md) — "With X coming up / facing X (in time or place)" — describes being in a state of antici...
+- [～をふまえて](grammar-をふまえて.md) — "Based on/considering X" — describes taking a fact, prior experience, or piece of infor...
+- [～をへて](grammar-をへて.md) — "Through/via X (a process, place, or stage)" — describes passing through a stage, locat...
+- [～をめぐって](grammar-をめぐって.md) — "Surrounding, over (the issue of), concerning (a dispute/debate)" — indicates that a to...
+- [～をもって](grammar-をもって.md) — Two related senses: (1) "by means of X" / "using X" (instrument/means, especially empha...
+- [～をもとに（して）](grammar-をもとに(して).md) — "Based on, using as a basis" — indicates that something (information, data, experience)...
+- [～をものともせず(に)](grammar-をものともせず(に).md) — "Undaunted by ~" / "Without being discouraged by ~" — describes someone pushing forward...
+- [～をものともせず(に)／しないで](grammar-をものともせず.md) — "Undaunted by X / not letting X be a hindrance" — describes bravely pushing forward des...
+- [～をよそに](grammar-をよそに.md) — "Ignoring X / without concern for X" — describes proceeding with an action while disreg...
+- [～を中心に](grammar-を中心に.md) — "Centering on, focused around" — indicates that something is the central focus, hub, or...
+- [～を余儀なくされる／～を余儀なくさせる](grammar-を余儀なくされる・させる.md) — を余儀なくされる = "be forced to do X" (the subject has no choice, due to circumstances beyond ...
+- [～を前提に](grammar-を前提に.md) — "On the premise/assumption of X" — states that a subsequent plan, action, or proposal i...
+- [～を問わず](grammar-を問わず.md) — "Regardless of, irrespective of" — indicates that a stated distinction or category (age...
+- [～を境に](grammar-を境に.md) — "With X as the turning point/boundary" — marks a specific event or point in time as the...
+- [～を抜きにして](grammar-をぬきにして.md) — "Without X, leaving X aside" — indicates that something is excluded or set aside, often...
+- [～を控えて](grammar-を控えて.md) — "With X coming up soon" — describes a person or situation being in a particular state (...
+- [～を機に](grammar-を機に.md) — "Taking X as an opportunity/trigger" — marks an event as the turning point or catalyst ...
+- [～を皮切りに（して）・～を皮切りとして](grammar-を皮切りに（して）・を皮切りとして.md) — "Starting with X, one thing after another follows" — describes X as the opening event o...
+- [～を禁じえない](grammar-を禁じえない.md) — "Cannot help but feel X" — a strong emotion (sympathy, anger, tears, surprise) wells up...
+- [～を禁じ得ない](grammar-を禁じ得ない.md) — Facing a certain situation, one cannot suppress an emotion welling up inside — "cannot ...
+- [～を経て](grammar-を経て.md) — "Having gone through / passed through X" — describes reaching a current state or result...
+- [～を踏まえて](grammar-を踏まえて.md) — "Based on / taking X into account" — to do something while treating X (prior informatio...
+- [～を込めて](grammar-をこめて.md) — "Putting (feeling/effort) into, with (heart/soul) put into" — expresses that something ...
+- [～を通して／を通じて](grammar-を通して・を通じて.md) — "Through, by means of (over a period or via a medium)" — indicates a channel, medium, o...
+- [～を限りに](grammar-を限りに.md) — "As of X, ... will stop" — a formal declaration that, from the point in time marked by ...
+- [～を頼りに](grammar-を頼りに.md) — "Relying on ~ / depending on the help of ~" — describes using something or someone (mem...
+- [～を～として](grammar-を~として.md) — "Treating X as Y, with X as/in the capacity of Y" — assigns a role, status, or category...
+- [～んがため(に)](grammar-んがため.md) — "In order to X" — a literary expression of strong purpose or intent, derived from the a...
+- [～んがため（に）](grammar-んがため(に).md) — "For the purpose of X" — expresses carrying out an action with a strong, deliberate goa...
+- [～んばかり](grammar-んばかり.md) — "As if about to do X" / "almost to the point of doing X" — describes an action or state...
+- [～んばかりだ](grammar-んばかりだ.md) — "As if about to ~" / "Looking as though it would ~ at any moment" — describes a state o...
+- [～一方(で) / ～一方だ](grammar-一方(で)・一方だ.md) — - **一方(で)** — "on the other hand / while at the same time ~" — contrasts two related bu...
+- [～上(じょう)](grammar-上(じょう).md) — "From the standpoint of X / in terms of X" — attaches to a noun to indicate the perspec...
+- [～反面／～半面](grammar-反面・半面.md) — "On the other hand," "while at the same time" — describes two contrasting aspects or qu...
+- [～向き](grammar-向き.md) — "Suited for X," "geared toward X" — indicates that something is inherently well-matched...
+- [～向け](grammar-向け.md) — "Targeted at X," "intended for X (audience/market)" — indicates that something was deli...
+- [～始末だ](grammar-始末だ.md) — Describes how, after a bad situation continued for a while, things finally ended up in ...
+- [～弾みで／に](grammar-はずみで・に.md) — "Due to the sudden impact/momentum of ~ / in the unexpected course of ~" — describes an...
+- [～得る／～得ない](grammar-得る・得ない.md) — Attached to a verb's masu-stem, expresses logical/abstract possibility "can happen / ca...
+- [～恐れがある](grammar-恐れがある.md) — "There is a fear/risk/danger that ~" — used to express concern that a negative or undes...
+- [～手前](grammar-手前.md) — "Given that X (would see/judge me)" — because the speaker is conscious of a certain sta...
+- [～折に](grammar-折に.md) — "On the occasion of X" — marks a particular time, occasion, or opportunity, often used ...
+- [～放題](grammar-放題.md) — "As much as one wants, unrestrained" — attaches to a verb stem to indicate an action do...
+- [～最中(に)](grammar-最中(に).md) — "Right in the middle of (doing) X" — emphasizes that an action/event is at its peak or ...
+- [～極まる・～極まりない](grammar-極まる・極まりない.md) — Describes a state or quality as being at its absolute extreme — "extremely ~," "~ in th...
+- [～極まる／～極まりない](grammar-きわまる・きわまりない.md) — "Extremely X, in the extreme" — intensifies a na-adjective to its utmost degree, often ...
+- [～次第](grammar-次第.md) — "As soon as X (then immediately Y)" — attached to a verb stem, indicates that the follo...
+- [～次第だ／次第で(は)](grammar-次第だ.md) — "That's how it turned out / it depends on X" — ～次第だ explains the circumstances or reaso...
+- [～気味](grammar-気味.md) — "A bit, slight tendency toward (usually negative)" — indicates a mild degree or leaning...
+- [～矢先に](grammar-矢先に.md) — "Just as one was about to ~ / right at the moment of ~" — describes something (often un...
+- [～通り／どおり（に）](grammar-通り・どおり(に).md) — "As," "in accordance with," "just like" — indicates that an action is performed exactly...
+- [～限り / ～に限り / ～に限る](grammar-限り・に限り・に限る.md) — - **限り** — "as long as / to the extent that" (sets a boundary/condition — covered in de...
+- [～限り(は)](grammar-限り(は).md) — "As long as ~ (the condition holds) / so long as" — expresses that as long as a certain...
+- [～限りでは](grammar-限りでは.md) — "As far as ~ (within the limits of my knowledge/experience/information)" — used to hedg...
+- [～際に／に際して](grammar-際に・に際して.md) — "On the occasion of X / when X (formal)" — marks a formal, often significant or officia...
+- [～（か）と思うと／～（か）と思ったら](grammar-(か)と思うと・思ったら.md) — "No sooner had X happened than Y" / "Just as X happened, Y happened" — describes two ev...
